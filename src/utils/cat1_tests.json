@@ -1,0 +1,138 @@
+[
+  {
+    "condition": "Breast Cancer",
+    "rules": [
+      {
+        "ageGroup": [
+          "50 to 69"
+        ],
+        "sex": [
+          "Female"
+        ]
+      },
+      {
+        "sex": [
+          "Female"
+        ],
+        "familyHistory": [
+          "Breast cancer"
+        ]
+      }
+    ],
+    "descriptionHTML": "<p>All normal risk, asymptomatic women 50 to 69 years of age should be screened with <b>mammography</b> only, every 2 years.</p><p>Women in high-risk groups are recommended to undergo <b>MRI breast</b> annually in addition to <b>mammograms</b>.</p>",
+    "riskGroups": [
+      "Carriers of BRCA or other high risk gene mutations",
+      "Women with previous history of chest radiation therapy"
+    ]
+  },
+  {
+    "condition": "Cervical Cancer",
+    "rules": [
+      {
+        "ageGroup": [
+          "25 to 39",
+          "40 to 49",
+          "50 to 69",
+          "Above 70"
+        ],
+        "sex": [
+          "Female"
+        ]
+      }
+    ],
+    "descriptionHTML": "<p>All women who have ever had sexual intercourse should undergo screening for cervical cancer from the age of 25.</p><p>Women aged 25 to 29 years should be screened with the <b>Pap smear</b>, at least once every 3 years. <b>HPV testing</b> is not recommended for women from the age of 25 to 29.</p><p> Women aged 30 years and above should be screened with <b>HPV testing</b>. This should be performed at least once every 5 years.</p>"
+  },
+  {
+    "condition": "Colorectal Cancer",
+    "rules": [
+      {
+        "ageGroup": [
+          "50 to 69",
+          "Above 70"
+        ]
+      }
+    ],
+    "descriptionHTML": "<p>For average-risk individuals, screening for colorectal cancer should begin at 50 years.</p><p>Screening with <b>stool analysis (FIT)</b> should be performed annually, or screening with <b>colonoscopy</b> should be performed every 5 to 10 years.</p><p>Individuals in higher-risk groups are recommended to undergo <b>colonoscopy</b> earlier and more frequently.</p>"
+  },
+  {
+    "condition": "Diabetes",
+    "rules": [
+      {
+        "ageGroup": [
+          "40 to 49",
+          "50 to 69",
+          "Above 70"
+        ]
+      },
+      {
+        "medicalHistory": [
+          "Obesity",
+          "High blood pressure",
+          "Cardiovascular disease",
+          "Tuberculosis"
+        ]
+      },
+      {
+        "familyHistory": [
+          "Diabetes"
+        ]
+      },
+      {
+        "sex": [
+          "Female"
+        ],
+        "medicalHistory": [
+          "Polycystic ovary disease"
+        ]
+      }
+    ],
+    "descriptionHTML": "<p>Screening should begin at age 40 years, and be considered in adults of any age if any of the risk factors for diabetes is present.</p><p>Relevant tests include <b>fasting blood glucose</b> or <b>glycosylated haemoglobin (HbA1c)</b>.</p>",
+    "riskGroups": [
+      "Overweight/obesity",
+      "Hypertension",
+      "First degree relative with diabetes mellitus",
+      "Women who have delivered a baby 4 kg or more; or previously diagnosed with gestational diabetes mellitus",
+      "History of cardiovascular disease",
+      "Women with polycystic ovary disease",
+      "Patients diagnosed with TB",
+      "Low levels of HDL cholesterol and/or high triglyceride level",
+      "High-risk race/ethnicity"
+    ]
+  },
+  {
+    "condition": "High cholestrol",
+    "rules": [
+      {
+        "ageGroup": [
+          "40 to 49",
+          "50 to 69",
+          "Above 70"
+        ]
+      },
+      {
+        "familyHistory": [
+          "High cholestrol"
+        ]
+      },
+      {
+        "medicalHistory": [
+          "Cardiovascular disease",
+          "Diabetes"
+        ]
+      }
+    ],
+    "descriptionHTML": "<p>Screening should be carried out in all individuals aged 40 years and above. It is recommended that clinicians routinely screen younger adults (men and women aged 18 and older) for lipid disorders including hyperlipidaemia if they have other risk factors for coronary artery disease (CAD).</p><p>Relevant tests include the <b>fasting lipids test</b> or <b>non-fasting lipids test</b>.",
+    "riskGroups": [
+      "First degree relative with high cholestrol familial hypercholesterolemia patients.",
+      "Pre-existing CAD, cerebrovascular or peripheral artery disease",
+      "Diabetes",
+      "IFG or IGT",
+      "Aged 18 years and above who have other risk factors for CAD"
+    ]
+  },
+  {
+    "condition": "High blood pressure",
+    "rules": [],
+    "descriptionHTML": "<p>Periodic screening for hypertension is recommended for all adults aged 18 years or older.</p><p>Screening is performed with <b>blood pressure measurement</b>.</p>"
+  }
+]
