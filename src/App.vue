@@ -1,10 +1,14 @@
 <template>
-  <div class="h-screen flex flex-col lg:flex-row">
-    <Options></Options>
-    <Results></Results>
+  <Disclaimer v-if="store.showDisclaimer" />
+  <div class="h-screen overflow-hidden flex flex-col">
+    <Navbar />
+    <router-view></router-view>
   </div>
 </template>
 <script setup lang="ts">
-import Options from '@/components/Options.vue'
-import Results from '@/components/Results.vue'
+import Navbar from '@/components/Navbar.vue'
+import { useStore } from './utils/store'
+import Disclaimer from './components/Disclaimer.vue';
+
+const store = useStore()
 </script>

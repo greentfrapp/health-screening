@@ -5,7 +5,7 @@
         {{ option.label }}
       </Header2>
       <div class="flex flex-wrap gap-1">
-        <Toggle v-for="i in option.enum"
+        <Toggle v-for="i in getOptions(option.label)"
           :active="optionIsActive(option.key, i)"
           @click="handleOptionClick(option.key, i)">
           {{ i }}
@@ -17,7 +17,10 @@
 <script setup lang="ts">
 import Header2 from './Header2.vue';
 import Toggle from './Toggle.vue'
-import { AgeGroup, FamilyHistory, Lifestyle, MedicalHistory, Sex } from '@/utils/types'
+import {
+  AgeGroup, FamilyHistory, Lifestyle,
+  MedicalHistory, MedicalHistoryFemale, Sex
+} from '@/utils/types'
 import { useStore } from '@/utils/store'
 
 const store = useStore()
@@ -25,28 +28,23 @@ const store = useStore()
 const options = [
   {
     label: 'Age Group',
-    enum: AgeGroup,
     key: 'ageGroup'
   },
   {
     label: 'Sex',
-    enum: Sex,
     key: 'sex'
   },
   {
     label: 'Lifestyle',
-    enum: Lifestyle,
     key: 'lifestyle'
   },
   {
     label: 'Family History',
-    enum: FamilyHistory,
     key: 'familyHistory'
   },
   {
     label: 'Medical History',
-    enum: MedicalHistory,
-    key: 'medicalHistory'
+    key: 'medicalHistory',
   },
 ]
 
@@ -68,5 +66,23 @@ function handleOptionClick(key: string, value: string | number) {
       store[key].push(value)
     }
   }
+}
+
+function getOptions(label: string) {
+  const staticOptions = {
+    'Age Group': AgeGroup,
+    'Sex': Sex,
+    'Lifestyle': Lifestyle,
+    'Family History': FamilyHistory,
+  }
+  if (label in staticOptions) return staticOptions[label]
+  else if (label === 'Medical History') {
+    if (store.sex === Sex.FEMALE) {
+      return Object.assign({}, MedicalHistory, MedicalHistoryFemale)
+    } else {
+      return MedicalHistory
+    }
+  }
+  else return []
 }
 </script>

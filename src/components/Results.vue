@@ -1,5 +1,5 @@
 <template>
-  <div class="h-1/2 w-full lg:h-full lg:w-1/2 bg-yellow-300 p-2 overflow-auto space-y-2 border-t-2 border-yellow-400 shadow-xl">
+  <div class="h-1/2 w-full lg:h-full lg:w-1/2 bg-yellow-300 p-2 overflow-auto space-y-2 border-t-2 border-yellow-400 lg:border-0 shadow-xl">
     <div class="font-medium text-center">
       {{ relevantTests.length }} suggestion{{ relevantTests.length !== 1 ? 's' : '' }}
     </div>
@@ -8,7 +8,7 @@
       <Header2 class="mx-2">{{ test.condition }}</Header2>
       <div class="text-sm lg:text-base space-y-1 mx-2" :innerHTML="test.descriptionHTML"></div>
       <div class="px-1 pt-1">
-        <Collapsible label="Screening factors" v-if="test.riskGroups && test.riskGroups.length"
+        <Collapsible label="High-risk groups" v-if="test.riskGroups && test.riskGroups.length"
           class="w-full bg-yellow-400 text-sm px-2 py-0.5 rounded-lg">
           <ul>
             <li v-for="g in test.riskGroups">

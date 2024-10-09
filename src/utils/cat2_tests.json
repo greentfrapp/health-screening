@@ -205,7 +205,7 @@
           "50 to 69"
         ],
         "lifestyle": [
-            "Smoking"
+          "Smoking"
         ]
       },
       {
@@ -213,8 +213,8 @@
           "50 to 69"
         ],
         "medicalHistory": [
-            "High blood pressure",
-            "High cholestrol"
+          "High blood pressure",
+          "High cholestrol"
         ]
       }
     ],
@@ -257,7 +257,6 @@
     ],
     "descriptionHTML": "<p>High-risk individuals can perform the <b>Hepatitis B screen</b>. All pregnant women should be tested for Hepatitis B during early antenatal visit. There is good evidence that universal prenatal screening for HBV infection substantially reduces prenatal transmission of HBV and the subsequent development of chronic HBV infection.</p>",
     "riskGroups": [
-      "Pregnancy",
       "Healthcare workers",
       "Chronic haemodialysis patients",
       "HIV",
@@ -302,7 +301,6 @@
     ],
     "descriptionHTML": "<p>High-risk individuals can perform the <b>HIV screen</b>. All pregnant women should be tested for HIV, since steps can be taken to prevent viral spread to the unborn baby and during delivery.</p>",
     "riskGroups": [
-      "Pregnancy",
       "Active tuberculosis infection",
       "Healthcare workers",
       "At-risk sexual behaviour",
@@ -328,7 +326,6 @@
     ],
     "descriptionHTML": "<p>High-risk individuals can perform the <b>syphilis enzyme immunoassay</b> or other tests such as TPPA or TPHA. All pregnant women are recommended to screen for syphilis due to the high risk of infant morbidity and mortality.</p>",
     "riskGroups": [
-      "Pregnancy",
       "Active tuberculosis infection",
       "Healthcare workers",
       "At-risk sexual behaviour",
@@ -358,10 +355,7 @@
         ]
       }
     ],
-    "descriptionHTML": "<p>Screening is recommended for all pregnany women because anemia increases the risk of a premature birth, as well as the likelihood of a low birth weight baby and postpartum depression. Anemia can be screened via the <b>a full blood count test</b>.</p>",
-    "riskGroups": [
-      "Pregnancy"
-    ]
+    "descriptionHTML": "<p>Screening is recommended for all pregnant women because anemia increases the risk of a premature birth, as well as the likelihood of a low birth weight baby and postpartum depression. Anemia can be screened via the <b>a full blood count test</b>.</p>"
   },
   {
     "condition": "Kidney disease",

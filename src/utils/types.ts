@@ -23,28 +23,31 @@ export enum FamilyHistory {
 }
 
 export enum MedicalHistory {
-  PREGNANCY = "Pregnancy",
-  MENOPAUSE = "Menopause",
-  BRCA = "BRCA",
   OBESITY = "Obesity",
   DIABETES = "Diabetes",
   HIGH_CHOLESTROL = "High cholestrol",
   HIGH_BLOOD_PRESSURE = "High blood pressure",
   CARDIOVASCULAR_DISEASE = "Cardiovascular disease",
-  POLYCYSTIC_OVARY_DISEASE = "Polycystic ovary disease",
   TUBERCULOSIS = "Tuberculosis",
   LYNCH_SYNDROME = "Lynch syndrome",
   HEPATITIS_B = "Hepatitis B",
   LIVER_CIRRHOSIS = "Liver cirrhosis",
   COLORECTAL_POLYPS = "Colorectal polyps",
-  OVARIAN_CANCER = "Ovarian cancer",
-  ENDOMETRIAL_CANCER = "Endometrial cancer",
   INFLAMMATORY_BOWEL_DISEASE = "Inflammatory bowel disease",
   SUBARACHNOID_HAEMORRHAGE = "Subarachnoid haemorrhage",
   AUTOSOMAL_DOMINANT_POLYSISTIC_KIDNEY_DISEASE = "Autosomal dominant polycystic kidney disease (ADPKD)",
   HIV = "HIV",
   STIS = "STIs",
   AUTOIMMUNE_DISEASE = "Autoimmune disease",
+}
+
+export enum MedicalHistoryFemale {
+  PREGNANCY = "Pregnancy",
+  MENOPAUSE = "Menopause",
+  BRCA = "BRCA",
+  OVARIAN_CANCER = "Ovarian cancer",
+  ENDOMETRIAL_CANCER = "Endometrial cancer",
+  POLYCYSTIC_OVARY_DISEASE = "Polycystic ovary disease",
 }
 
 export enum Lifestyle {
