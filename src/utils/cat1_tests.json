@@ -61,7 +61,14 @@
         ]
       }
     ],
-    "descriptionHTML": "<p>For average-risk individuals, screening for colorectal cancer should begin at 50 years.</p><p>Screening with <b>stool analysis (FIT)</b> should be performed annually, or screening with <b>colonoscopy</b> should be performed every 5 to 10 years.</p><p>Individuals in higher-risk groups are recommended to undergo <b>colonoscopy</b> earlier and more frequently.</p>"
+    "descriptionHTML": "<p>For average-risk individuals, screening for colorectal cancer should begin at 50 years.</p><p>Screening with <b>stool analysis (FIT)</b> should be performed annually, or screening with <b>colonoscopy</b> should be performed every 5 to 10 years.</p><p>Individuals in higher-risk groups are recommended to undergo <b>colonoscopy</b> earlier and more frequently.</p>",
+    "riskGroups": [
+      "First degree relative with colorectal cancer",
+      "Colorectal polyps",
+      "Ovarian cancer",
+      "Endometrial cancer",
+      "Inflammatory bowel disease"
+    ]
   },
   {
     "condition": "Diabetes",
@@ -132,7 +139,7 @@
     ],
     "descriptionHTML": "<p>Screening should be carried out in all individuals aged 40 years and above. It is recommended that clinicians routinely screen younger adults (men and women aged 18 and older) for lipid disorders including hyperlipidaemia if they have other risk factors for coronary artery disease (CAD).</p><p>Relevant tests include the <b>fasting lipids test</b> or <b>non-fasting lipids test</b>.",
     "riskGroups": [
-      "First degree relative with high cholestrol familial hypercholesterolemia patients.",
+      "First degree relative with high cholestrol familial hypercholesterolemia",
       "Pre-existing CAD, cerebrovascular or peripheral artery disease",
       "Diabetes",
       "IFG or IGT",
