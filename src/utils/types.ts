@@ -24,4 +24,11 @@ export enum MedicalHistory {
   CARDIOVASCULAR_DISEASE = "Cardiovascular disease",
   POLYCYSTIC_OVARY_DISEASE = "Polycystic ovary disease",
   TUBERCULOSIS = "Tuberculosis",
+  LYNCH_SYNDROME = "Lynch syndrome",
+  HEPATITIS_B = "Hepatitis B",
+  LIVER_CIRRHOSIS = "Liver cirrhosis",
+  COLORECTAL_POLYPS = "Colorectal polyps",
+  OVARIAN_CANCER = "Ovarian cancer",
+  ENDOMETRIAL_CANCER = "Endometrial cancer",
+  INFLAMMATORY_BOWEL_DISEASE = "Inflammatory bowel disease"
 }

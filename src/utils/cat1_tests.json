@@ -49,6 +49,15 @@
         "ageGroup": [
           "50 to 69",
           "Above 70"
+        ],
+        "medicalHistory": [
+          "Colorectal polyps",
+          "Ovarian cancer",
+          "Endometrial cancer",
+          "Inflammatory bowel disease"
+        ],
+        "familyHistory": [
+          "Colorectal cancer"
         ]
       }
     ],
@@ -100,7 +109,7 @@
     ]
   },
   {
-    "condition": "High cholestrol",
+    "condition": "High Cholestrol",
     "rules": [
       {
         "ageGroup": [
@@ -131,7 +140,7 @@
     ]
   },
   {
-    "condition": "High blood pressure",
+    "condition": "High Blood Pressure",
     "rules": [],
     "descriptionHTML": "<p>Periodic screening for hypertension is recommended for all adults aged 18 years or older.</p><p>Screening is performed with <b>blood pressure measurement</b>.</p>"
   }
