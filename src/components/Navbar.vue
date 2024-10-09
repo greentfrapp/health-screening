@@ -1,5 +1,5 @@
 <template>
-  <div class="w-screen flex items-center px-2 gap-2 bg-yellow-300 py-2 overflow-auto">
+  <div class="w-screen flex items-center px-2 gap-2 bg-yellow-300 py-2 overflow-auto lg:overflow-hidden shadow border-b border-b-yellow-400">
     <div v-for="link in links">
       <a v-if="link.link.startsWith('https://')" :href="link.link" target="_blank"
         class="no-underline font-semibold bg-yellow-200 px-3 py-1 rounded-full truncate">

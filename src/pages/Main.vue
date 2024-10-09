@@ -1,5 +1,5 @@
 <template>
-  <div class="h-screen flex flex-col lg:flex-row">
+  <div class="h-full overflow-hidden grow shrink flex flex-col lg:flex-row">
     <Options></Options>
     <Results></Results>
   </div>

@@ -4,7 +4,7 @@
       {{ relevantTests.length }} suggestion{{ relevantTests.length !== 1 ? 's' : '' }}
     </div>
     <div v-for="test in relevantTests"
-      class="border-4 border-yellow-400 rounded-xl py-1 lg:space-y-1">
+      class="bg-white border-4 border-yellow-400 rounded-xl py-1 lg:space-y-1">
       <Header2 class="mx-2">{{ test.condition }}</Header2>
       <div class="text-sm lg:text-base space-y-1 mx-2" :innerHTML="test.descriptionHTML"></div>
       <div class="px-1 pt-1">
