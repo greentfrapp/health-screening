@@ -1,11 +1,14 @@
 <template>
-  <div class="h-1/2 w-full lg:h-full lg:w-1/2 bg-yellow-300 p-2 overflow-auto space-y-2">
+  <div class="h-1/2 w-full lg:h-full lg:w-1/2 bg-yellow-300 p-2 overflow-auto space-y-2 border-t-2 border-yellow-400 shadow-xl">
+    <div class="font-medium text-center">
+      {{ relevantTests.length }} suggestion{{ relevantTests.length !== 1 ? 's' : '' }}
+    </div>
     <div v-for="test in relevantTests"
       class="border-4 border-yellow-400 rounded-xl py-1 lg:space-y-1">
       <Header2 class="mx-2">{{ test.condition }}</Header2>
       <div class="text-sm lg:text-base space-y-1 mx-2" :innerHTML="test.descriptionHTML"></div>
       <div class="px-1 pt-1">
-        <Collapsible label="High-risk groups" v-if="test.riskGroups && test.riskGroups.length"
+        <Collapsible label="Screening factors" v-if="test.riskGroups && test.riskGroups.length"
           class="w-full bg-yellow-400 text-sm px-2 py-0.5 rounded-lg">
           <ul>
             <li v-for="g in test.riskGroups">
@@ -23,12 +26,14 @@
 </template>
 <script setup lang="ts">
 import cat1Tests from '@/utils/cat1_tests.json'
+import cat2Tests from '@/utils/cat2_tests.json'
 import { computed } from 'vue'
 import { useStore } from '@/utils/store'
 import Header2 from './Header2.vue'
 import Collapsible from './Collapsible.vue'
 
 const store = useStore()
+const tests = [].concat(cat1Tests, cat2Tests)
 
 function isRelevant(rules: any[]) {
   if (!rules.length) return true
@@ -46,7 +51,7 @@ function isRelevant(rules: any[]) {
 }
 
 const relevantTests = computed(() => {
-  return cat1Tests.filter((t: any) => {
+  return tests.filter((t: any) => {
     return isRelevant(t.rules)
   })
 })

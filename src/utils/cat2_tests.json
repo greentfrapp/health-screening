@@ -1,0 +1,458 @@
+[
+  {
+    "condition": "Endometrial Cancer",
+    "rules": [
+      {
+        "sex": [
+          "Female"
+        ],
+        "medicalHistory": [
+          "Lynch syndrome"
+        ]
+      }
+    ],
+    "descriptionHTML": "<p>Women with Hereditary Non-Polyposis Colon Cancer (HNPCC) or Lynch Syndrome, who are at higher risk for endometrial cancer, may consider annual screening via <b>pelvic ultrasound</b>, starting between the ages of 30 and 35.</p>",
+    "riskGroups": [
+      "Lynch syndrome"
+    ]
+  },
+  {
+    "condition": "Gastric Cancer",
+    "rules": [
+      {
+        "medicalHistory": [
+          "Lynch syndrome"
+        ]
+      }
+    ],
+    "descriptionHTML": "<p>Individuals with Hereditary Non-Polyposis Colon Cancer (HNPCC) or Lynch Syndrome, who are at higher risk for gastric cancer, may benefit from screening with <b>oesophago-gastro duodenoscopy (OGD)</b>, starting from age 30 to 35 years. A frequency of 2 to 3 years is recommended, based on the individual's risk factors.</p>",
+    "riskGroups": [
+      "Lynch syndrome"
+    ]
+  },
+  {
+    "condition": "Liver Cancer",
+    "rules": [
+      {
+        "medicalHistory": [
+          "Hepatitis B",
+          "Liver cirrhosis"
+        ]
+      }
+    ],
+    "descriptionHTML": "<p>High-risk individuals should perform either a <b>hepatobiliary system ultrasound (US HBS)</b> or a <b>Alpha-Fetoprotein (AFP) test</b> on a six monthly basis. There is no definite recommended age to start surveillance although local statistics show that liver cancer incidence starts to increase from the 40 to 49 age group.</p>",
+    "riskGroups": [
+      "Hepatitis B",
+      "Liver cirrhosis"
+    ]
+  },
+  {
+    "condition": "Lung Cancer",
+    "rules": [
+      {
+        "ageGroup": [
+          "50 to 69",
+          "Above 70"
+        ],
+        "lifestyle": [
+          "Smoking"
+        ]
+      }
+    ],
+    "descriptionHTML": "<p>High-risk individuals aged between 55 to 74 can perform <b>low-dose CT screening</b> on an annual basis. But this should be balanced with the unnecessary exposure to radiation, financial costs of CT screening, and a high rate of false positive findings.</p>",
+    "riskGroups": [
+      "Smoked ≥ 30 pack years and still smoking or quit less than 15 years ago"
+    ]
+  },
+  {
+    "condition": "Nose Cancer",
+    "rules": [
+      {
+        "familyHistory": [
+          "Nose cancer"
+        ]
+      }
+    ],
+    "descriptionHTML": "<p>High-risk individuals can perform a <b>tumor marker test for nose cancer (EBV-EA-EBNA-1)</b> and a <b>nasopharyngoscopy</b>. The tumor marker test alone without the endoscopy is not recommended.</p>",
+    "riskGroups": [
+      "First-degree relative with nose cancer"
+    ]
+  },
+  {
+    "condition": "Ovarian Cancer",
+    "rules": [
+      {
+        "sex": [
+            "Female"
+        ],
+        "medicalHistory": [
+          "BRCA"
+        ]
+      }
+    ],
+    "descriptionHTML": "<p>BRCA carriers can consider a <b>transvaginal pelvic ultrasound</b>. However, it can result in unnecessary surgeries with no clear mortality benefit.</p>",
+    "riskGroups": [
+      "Females with BRCA mutation"
+    ]
+  },
+  {
+    "condition": "Prostate Cancer",
+    "rules": [
+      {
+        "ageGroup": [
+            "50 to 69"
+        ],
+        "sex": [
+            "Male"
+        ],
+        "familyHistory": [
+          "Prostate cancer"
+        ]
+      }
+    ],
+    "descriptionHTML": "<p>Men who are between 50 to 70 years of age, with an estimated life expectancy of more than 10 years, may be offered screening with the <b>prostate-specific antigen (PSA) tumor marker</b>, after a discussion of both the potential benefits and harms associated with prostate cancer screening.</p>",
+    "riskGroups": [
+      "First-degree relative with prostate cancer before age 65 years"
+    ]
+  },
+  {
+    "condition": "Abdominal Aortic Aneurysm",
+    "rules": [
+      {
+        "ageGroup": [
+            "50 to 69",
+            "Above 70"
+        ],
+        "sex": [
+            "Male"
+        ],
+        "lifestyle": [
+          "Smoking"
+        ]
+      }
+    ],
+    "descriptionHTML": "<p>High-risk individuals can perform a screening with <b>abdominal ultrasound</b>.</p>",
+    "riskGroups": [
+      "Men aged 65 to 75 years who have ever smoked"
+    ]
+  },
+  {
+    "condition": "Cerebral Aneurysm",
+    "rules": [
+      {
+        "familyHistory": [
+          "Cerebral aneurysm"
+        ]
+      },
+      {
+        "medicalHistory": [
+          "Aneurysmal subarachnoid haemorrhage",
+          "Autosomal dominant polycystic kidney disease (ADPKD)"
+        ]
+      }
+    ],
+    "descriptionHTML": "<p>High-risk individuals can perform a screening via a <b>brain MRI</b>.</p>",
+    "riskGroups": [
+      "Aneurysmal subarachnoid haemorrhage",
+      "Autosomal dominant polycystic kidney disease (ADPKD)",
+      "Two or more first-degree relatives with intracranial aneurysms"
+    ]
+  },
+  {
+    "condition": "Coronary Heart Disease",
+    "rules": [
+      {
+        "lifestyle": [
+          "Smoking"
+        ]
+      },
+      {
+        "familyHistory": [
+          "Cardiovascular disease"
+        ]
+      },
+      {
+        "medicalHistory": [
+          "Obesity",
+          "High cholestrol",
+          "High blood pressure",
+          "Diabetes",
+          "Cardiovascular disease"
+        ]
+      }
+    ],
+    "descriptionHTML": "<p>High-risk individuals may wish to perform any of the following screenings after a discussion of both the potential benefits and harms.</p><b><ul><li>ECG</li><li>hsCRP</li><li>Apolipoprotein A and B</li><li>Coronary artery calcium score (CACS)</li><li>Treadmill stress test</li></ul></b>",
+    "riskGroups": [
+      "Smoking",
+      "First-degree relative with cardiovascular disease",
+      "Obesity",
+      "High cholestrol",
+      "High blood pressure",
+      "Diabetes",
+      "Cardiovascular disease"
+    ]
+  },
+  {
+    "condition": "Peripheral Vascular Disease (PVD)",
+    "rules": [
+      {
+        "medicalHistory": [
+          "Diabetes"
+        ]
+      },
+      {
+        "ageGroup": [
+          "50 to 69"
+        ],
+        "lifestyle": [
+            "Smoking"
+        ]
+      },
+      {
+        "ageGroup": [
+          "50 to 69"
+        ],
+        "medicalHistory": [
+            "High blood pressure",
+            "High cholestrol"
+        ]
+      }
+    ],
+    "descriptionHTML": "<p>High-risk individuals can undergo the <b>ankle brachial index (ABI)</b>, a simple non-invasive test.</p>",
+    "riskGroups": [
+      "Diabetes",
+      "Aged 50 to 70 years who smoke",
+      "Aged 50 to 70 years with both hypertension and hyperlipidaemia"
+    ]
+  },
+  {
+    "condition": "Chlamydia and Gonorrhoea",
+    "rules": [
+      {
+        "lifestyle": [
+          "Active sexual activity with multiple partners"
+        ]
+      },
+      {
+        "medicalHistory": [
+          "STIs"
+        ]
+      }
+    ],
+    "descriptionHTML": "<p>High-risk individuals can undergo the <b>urine PCR test</b> or a <b>cervical or urethral swab for PCR</b>.</p>",
+    "riskGroups": [
+      "At-risk sexual behaviour",
+      "Other STIs"
+    ]
+  },
+  {
+    "condition": "Hepatitis B",
+    "rules": [
+      {
+        "medicalHistory": [
+          "Pregnancy",
+          "HIV"
+        ]
+      }
+    ],
+    "descriptionHTML": "<p>High-risk individuals can perform the <b>Hepatitis B screen</b>. All pregnant women should be tested for Hepatitis B during early antenatal visit. There is good evidence that universal prenatal screening for HBV infection substantially reduces prenatal transmission of HBV and the subsequent development of chronic HBV infection.</p>",
+    "riskGroups": [
+      "Pregnancy",
+      "Healthcare workers",
+      "Chronic haemodialysis patients",
+      "HIV",
+      "Travelers from countries where Hepatitis B is endemic",
+      "Potential exposure via blood, sexual activity, or other body fluid"
+    ]
+  },
+  {
+    "condition": "Hepatitis C",
+    "rules": [
+      {
+        "medicalHistory": [
+          "HIV"
+        ]
+      }
+    ],
+    "descriptionHTML": "<p>High-risk individuals can perform the <b>Hepatitis C screen</b>.</p>",
+    "riskGroups": [
+      "Healthcare workers",
+      "Chronic haemodialysis patients",
+      "HIV",
+      "Travelers from countries where Hepatitis C is endemic",
+      "Potential exposure via blood, sexual activity, or other body fluid"
+    ]
+  },
+  {
+    "condition": "HIV",
+    "rules": [
+      {
+        "medicalHistory": [
+          "Pregnancy",
+          "HIV",
+          "Tuberculosis",
+          "STIs"
+        ]
+      },
+      {
+        "lifestyle": [
+            "Active sexual activity with multiple partners"
+        ]
+      }
+    ],
+    "descriptionHTML": "<p>High-risk individuals can perform the <b>HIV screen</b>. All pregnant women should be tested for HIV, since steps can be taken to prevent viral spread to the unborn baby and during delivery.</p>",
+    "riskGroups": [
+      "Pregnancy",
+      "Active tuberculosis infection",
+      "Healthcare workers",
+      "At-risk sexual behaviour",
+      "Potential exposure via blood, sexual activity, or other body fluid",
+      "Other STIs"
+    ]
+  },
+  {
+    "condition": "Syphilis",
+    "rules": [
+      {
+        "medicalHistory": [
+          "Pregnancy",
+          "HIV",
+          "STIs"
+        ]
+      },
+      {
+        "lifestyle": [
+            "Active sexual activity with multiple partners"
+        ]
+      }
+    ],
+    "descriptionHTML": "<p>High-risk individuals can perform the <b>syphilis enzyme immunoassay</b> or other tests such as TPPA or TPHA. All pregnant women are recommended to screen for syphilis due to the high risk of infant morbidity and mortality.</p>",
+    "riskGroups": [
+      "Pregnancy",
+      "Active tuberculosis infection",
+      "Healthcare workers",
+      "At-risk sexual behaviour",
+      "Other STIs"
+    ]
+  },
+  {
+    "condition": "Tuberculosis",
+    "rules": [
+      {
+        "familyHistory": [
+          "Tuberculosis"
+        ]
+      }
+    ],
+    "descriptionHTML": "<p>Tuberculosis is an airborne infectious disease that can be spread when patients cough or sneeze. Individuals with close contact to existing patients can perform the <b>Mantoux test</b> or a <b>chest X-ray</b>.</p>",
+    "riskGroups": [
+      "Close contacts of infectious TB patients"
+    ]
+  },
+  {
+    "condition": "Anemia",
+    "rules": [
+      {
+        "medicalHistory": [
+          "Pregnancy"
+        ]
+      }
+    ],
+    "descriptionHTML": "<p>Screening is recommended for all pregnany women because anemia increases the risk of a premature birth, as well as the likelihood of a low birth weight baby and postpartum depression. Anemia can be screened via the <b>a full blood count test</b>.</p>",
+    "riskGroups": [
+      "Pregnancy"
+    ]
+  },
+  {
+    "condition": "Kidney disease",
+    "rules": [
+      {
+        "medicalHistory": [
+          "Diabetes",
+          "High blood pressure",
+          "Cardiovascular disease"
+        ]
+      },
+      {
+        "ageGroup": [
+          "50 to 69",
+          "Above 70"
+        ],
+        "lifestyle": [
+          "Smoking"
+        ]
+      },
+      {
+        "familyHistory": [
+          "Kidney disease"
+        ]
+      }
+    ],
+    "descriptionHTML": "<p>Screening for albuminuria, a type of kidney disorder, should be done annually after the diagnosis of diabetes (after 5 years for Type 1, immediately for Type 2), via the a <b>urine test for microalbumin/creatinine ratio</b>.</p><p>Other individuals at risk of kidney disease should also undergo <b>kidney function tests</b> or <b>urine analysis</b>.</p>",
+    "riskGroups": [
+      "Diabetes",
+      "High blood pressure",
+      "Cardiovascular disease",
+      "Aged 50 years and older who smoke",
+      "Family history of kidney disease"
+    ]
+  },
+  {
+    "condition": "Osteoporosis",
+    "rules": [
+      {
+        "sex": [
+          "Female"
+        ],
+        "medicalHistory": [
+          "Menopause"
+        ]
+      },
+      {
+        "sex": [
+          "Female"
+        ],
+        "ageGroup": [
+          "50 to 69",
+          "Above 70"
+        ]
+      }
+    ],
+    "descriptionHTML": "<p>For females, the <a href=\"https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Conditions-and-Treatments-Details.aspx?condition=Osteoporosis-Self-Assessment-Tool-for-Asians-OSTA\">Osteoporosis Self-Assessment Tool (OSTA)</a> for postmenopausal Asian women should be used as a risk assessment tool first before deciding on whether a <b>bone mass density (BMD) measurement</b> should be offered.</p>",
+    "riskGroups": [
+      "Postmenopausal Asian women with a high score for the OSTA"
+    ]
+  },
+  {
+    "condition": "Thyroid Disorder",
+    "rules": [
+      {
+        "medicalHistory": [
+          "Pregnancy",
+          "Obesity",
+          "Autoimmune disease"
+        ]
+      }
+    ],
+    "descriptionHTML": "<p>High-risk individuals can perform the <b>thyroid function test (TFT)</b>.</p><p>Additionally, for obese individuals, hypothyroidism may be a potential cause.</p><p>Pregnant women who have diabetes or adrenal disease may develop goitre during pregnancy, potentially causing mental retardation in the baby. TFT should be performed once early on during pregnancy.</p>",
+    "riskGroups": [
+      "Pregnancy",
+      "Obesity",
+      "Autoimmune disease"
+    ]
+  },
+  {
+    "condition": "Diabetic Retinopathy",
+    "rules": [
+      {
+        "medicalHistory": [
+          "Diabetes"
+        ]
+      }
+    ],
+    "descriptionHTML": "<p>All patients diagnosed with diabetes require regular visual acuity assessment and eye examinations by trained personnel to screen for diabetic retinopathy. Type 1 diabetic patients should be examined 3 to 5 years after diagnosis of diabetes, and at least once yearly subsequently. Type 2 diabetic patients should have an ocular assessment at the time of diagnosis and at least once yearly subsequently.</p>",
+    "riskGroups": [
+      "Diabetes"
+    ]
+  }
+]

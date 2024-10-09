@@ -17,7 +17,7 @@
 <script setup lang="ts">
 import Header2 from './Header2.vue';
 import Toggle from './Toggle.vue'
-import { AgeGroup, FamilyHistory, MedicalHistory, Sex } from '@/utils/types'
+import { AgeGroup, FamilyHistory, Lifestyle, MedicalHistory, Sex } from '@/utils/types'
 import { useStore } from '@/utils/store'
 
 const store = useStore()
@@ -32,6 +32,11 @@ const options = [
     label: 'Sex',
     enum: Sex,
     key: 'sex'
+  },
+  {
+    label: 'Lifestyle',
+    enum: Lifestyle,
+    key: 'lifestyle'
   },
   {
     label: 'Family History',
