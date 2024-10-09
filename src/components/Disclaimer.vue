@@ -1,6 +1,6 @@
 <template>
   <div class="fixed w-screen h-screen bg-black/50 flex items-center justify-center p-4">
-    <div class="rounded-xl bg-white p-4 flex flex-col items-center space-y-2">
+    <div class="rounded-xl bg-white p-4 flex flex-col items-center space-y-2 max-w-[30rem]">
       <p>
         This website aims to help raise awareness about different types of health screenings available today. For more like this, check out <a href="https://halejournal.substack.com/">our Substack</a>!
       </p>

@@ -5,8 +5,8 @@
       <div class="text-sm">{{ result.Disease }}</div>
       <Header2>{{ result.Test }}</Header2>
       <div class="flex gap-1">
-        <div class="bg-neutral-200 w-max rounded-full px-2 text-sm">{{ result["Disease Type"] }}</div>
-        <div class="bg-neutral-200 w-max rounded-full px-2 text-sm">{{ result["Category"] }} Test</div>
+        <div v-if="result['Disease Type']" class="bg-neutral-200 w-max rounded-full px-2 text-sm">{{ result["Disease Type"] }}</div>
+        <div v-if="result.Category" class="bg-neutral-200 w-max rounded-full px-2 text-sm">{{ result["Category"] }} Test</div>
       </div>
       <div v-if="result['General Population Recommendation']"
         class="border-4 bg-green-100 border-green-500 px-2 py-1 rounded-xl">
