@@ -31,21 +31,24 @@ import { computed } from 'vue'
 import { useStore } from '@/utils/store'
 import Header2 from './Header2.vue'
 import Collapsible from './Collapsible.vue'
+import { SurveyOptionKey } from '@/utils/types'
 
 const store = useStore()
-const tests = [].concat(cat1Tests, cat2Tests)
+const tests = ([] as any[]).concat(cat1Tests, cat2Tests)
 
 function isRelevant(rules: any[]) {
   if (!rules.length) return true
   return rules.some(r => {
     return Object.entries(r).every(k => {
-        if (typeof store[k[0]] === 'string') {
-            return (k[1] as any[]).includes(store[k[0]])
-        } else if (typeof store[k[0]] === 'object') {
-            return store[k[0]].some((v: any) => {
-              return (k[1] as any[]).includes(v)
-            })
-        }
+      let key = k[0] as SurveyOptionKey
+      let value = k[1] as any
+      if (typeof store[key] === 'string') {
+        return value.includes(store[key])
+      } else if (typeof store[key] === 'object') {
+        return store[key].some((v: any) => {
+          return value.includes(v)
+        })
+      }
     })
   })
 }

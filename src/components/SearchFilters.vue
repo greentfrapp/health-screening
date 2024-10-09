@@ -4,8 +4,8 @@
       <div class="font-semibold text-xs uppercase">{{ filter.label }}</div>
       <div class="flex flex-wrap gap-0.5">
         <Toggle v-for="i in filter.options"
-          :active="optionIsActive('searchTestCategory', i.value)"
-          @click="handleOptionClick('searchTestCategory', i.value)">
+          :active="optionIsActive(filter.key, i.value)"
+          @click="handleOptionClick(filter.key, i.value)">
           {{ i.label }}
         </Toggle>
       </div>
@@ -15,6 +15,7 @@
 <script setup lang="ts">
 import { useStore } from '@/utils/store'
 import Toggle from './SmallToggle.vue'
+import { SearchOptionKey } from '@/utils/types'
 
 const store = useStore()
 
@@ -71,14 +72,16 @@ const filters = [
   {
     label: 'Test Category',
     options: testCategories,
+    key: 'searchTestCategory' as SearchOptionKey,
   },
   {
     label: 'Disease Type',
     options: diseaseTypes,
+    key: 'searchDiseaseType' as SearchOptionKey,
   },
 ]
 
-function optionIsActive(key: string, value: string | number) {
+function optionIsActive(key: SearchOptionKey, value: string | number) {
   if (typeof store[key] === 'string') {
     return store[key] === value
   } else if (typeof store[key] === 'object') {
@@ -86,9 +89,9 @@ function optionIsActive(key: string, value: string | number) {
   }
 }
 
-function handleOptionClick(key: string, value: string | number) {
+function handleOptionClick(key: SearchOptionKey, value: string | number) {
   if (typeof store[key] === 'string') {
-    store[key] = value
+    store[key] = value as any
   } else if (typeof store[key] === 'object') {
     if (optionIsActive(key, value)) {
       store[key] = store[key].filter((i: any) => i !== value)

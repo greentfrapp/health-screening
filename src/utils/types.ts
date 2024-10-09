@@ -54,3 +54,7 @@ export enum Lifestyle {
   SMOKING = "Smoking",
   HIGH_RISK_SEX = "Active sexual activity with multiple partners",
 }
+
+export type SurveyOptionKey = 'ageGroup' | 'sex' | 'lifestyle' | 'familyHistory' | 'medicalHistory'
+
+export type SearchOptionKey = 'searchTestCategory' | 'searchDiseaseType'

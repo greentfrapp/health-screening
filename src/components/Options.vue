@@ -19,7 +19,8 @@ import Header2 from './Header2.vue';
 import Toggle from './Toggle.vue'
 import {
   AgeGroup, FamilyHistory, Lifestyle,
-  MedicalHistory, MedicalHistoryFemale, Sex
+  MedicalHistory, MedicalHistoryFemale, Sex,
+  SurveyOptionKey,
 } from '@/utils/types'
 import { useStore } from '@/utils/store'
 
@@ -28,7 +29,7 @@ const store = useStore()
 const options = [
   {
     label: 'Age Group',
-    key: 'ageGroup'
+    key: 'ageGroup',
   },
   {
     label: 'Sex',
@@ -46,24 +47,24 @@ const options = [
     label: 'Medical History',
     key: 'medicalHistory',
   },
-]
+] as { label: string, key: SurveyOptionKey }[]
 
-function optionIsActive(key: string, value: string | number) {
+function optionIsActive(key: SurveyOptionKey, value: string | number) {
   if (typeof store[key] === 'string') {
     return store[key] === value
   } else if (typeof store[key] === 'object') {
-    return store[key].includes(value)
+    return (store[key] as (string|number)[]).includes(value)
   }
 }
 
-function handleOptionClick(key: string, value: string | number) {
+function handleOptionClick(key: SurveyOptionKey, value: string | number) {
   if (typeof store[key] === 'string') {
-    store[key] = value
+    store[key] = value as any
   } else if (typeof store[key] === 'object') {
     if (optionIsActive(key, value)) {
-      store[key] = store[key].filter((i: any) => i !== value)
+      store[key] = store[key].filter((i: any) => i !== value) as any
     } else {
-      store[key].push(value)
+      (store[key] as any[]).push(value)
     }
   }
 }
@@ -75,7 +76,7 @@ function getOptions(label: string) {
     'Lifestyle': Lifestyle,
     'Family History': FamilyHistory,
   }
-  if (label in staticOptions) return staticOptions[label]
+  if (label in staticOptions) return staticOptions[label as 'Age Group' | 'Sex' | 'Lifestyle' | 'Family History']
   else if (label === 'Medical History') {
     if (store.sex === Sex.FEMALE) {
       return Object.assign({}, MedicalHistory, MedicalHistoryFemale)
