@@ -2,6 +2,7 @@ import { defineStore } from 'pinia'
 import { useStorage, RemovableRef } from '@vueuse/core'
 import { AgeGroup, FamilyHistory, Lifestyle, MedicalHistory, Sex } from './types'
 import searchCorpus from '@/utils/search_corpus.json'
+import { miniSearch } from './search'
 
 export const useStore = defineStore(
   'store', {
@@ -22,6 +23,7 @@ export const useStore = defineStore(
       },
       searchResults: state => {
         let results = searchCorpus
+        // let results = miniSearch.search(state.searchQuery.toLowerCase(), { fuzzy: 0.5 })
         if (state.searchQuery) {
           results = results.filter(r => {
             return r.Disease.toLowerCase().includes(state.searchQuery) || r.Test.toLowerCase().includes(state.searchQuery)
