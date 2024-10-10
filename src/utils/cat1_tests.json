@@ -49,13 +49,17 @@
         "ageGroup": [
           "50 to 69",
           "Above 70"
-        ],
+        ]
+      },
+      {
         "medicalHistory": [
           "Colorectal polyps",
           "Ovarian cancer",
           "Endometrial cancer",
           "Inflammatory bowel disease"
-        ],
+        ]
+      },
+      {
         "familyHistory": [
           "Colorectal cancer"
         ]
