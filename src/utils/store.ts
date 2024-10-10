@@ -21,10 +21,11 @@ export const useStore = defineStore(
         return state.searchTestCategory.length || state.searchDiseaseType.length
       },
       searchResults: state => {
+        let query = state.searchQuery.toLowerCase()
         let results = searchCorpus
         if (state.searchQuery) {
           results = results.filter(r => {
-            return r.Disease.toLowerCase().includes(state.searchQuery) || r.Test.toLowerCase().includes(state.searchQuery)
+            return r.Disease.toLowerCase().includes(query) || r.Test.toLowerCase().includes(query)
           })
         }
         if (state.searchTestCategory.length) {
