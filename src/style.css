@@ -8,6 +8,13 @@
   font-weight: 300;
 }
 
+@media (min-width: 1024px) {
+  * {
+    font-size: 16px;
+    font-weight: 300;
+  }
+}
+
 a {
   text-decoration: underline;
 }
