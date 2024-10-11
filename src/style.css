@@ -24,6 +24,10 @@ b, h3 {
 }
 
 ul {
-  list-style-position: inside;
+  list-style-position: outside;
   list-style-type: disc;
+}
+
+li {
+  margin-left: 15px;
 }

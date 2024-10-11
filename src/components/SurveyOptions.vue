@@ -58,6 +58,12 @@ function optionIsActive(key: SurveyOptionKey, value: string | number) {
 }
 
 function handleOptionClick(key: SurveyOptionKey, value: string | number) {
+  // Reset female medical history options when "Male" is selected
+  if (key === 'sex' && value === Sex.MALE) {
+    store.medicalHistory = store.medicalHistory.filter((i: MedicalHistoryFemale | MedicalHistory) => {
+      return !Object.values(MedicalHistoryFemale).includes(i as MedicalHistoryFemale)
+    })
+  }
   if (typeof store[key] === 'string') {
     store[key] = value as any
   } else if (typeof store[key] === 'object') {

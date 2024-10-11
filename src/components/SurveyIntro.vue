@@ -14,5 +14,5 @@ import showdown from 'showdown'
 const store = useStore()
 
 const converter = new showdown.Converter()
-const disclaimer = "Health screenings can help detect potential health issues early, even before symptoms appear, allowing for timely treatment and better outcomes.\n\nDepending on your demographic and medical history, this survey suggests potential screenings that you can bring up with your healthcare provider."
+const disclaimer = "Health screenings can help detect potential health issues early, even before symptoms appear, allowing for timely treatment and better outcomes.\n\nUse this app to discover suitable screenings for you and your loved ones to discuss with your healthcare provider.\n\nLearn more about each test under the Search tab."
 </script>

@@ -1,5 +1,5 @@
 import { createWebHistory, createRouter } from 'vue-router'
-import Main from '@/pages/Main.vue'
+import Survey from '@/pages/Survey.vue'
 import About from '@/pages/About.vue'
 import Search from '@/pages/Search.vue'
 
@@ -7,7 +7,7 @@ export const routes = [
   {
     path: '/',
     name: 'Home',
-    component: Main,
+    component: Survey,
   },
   {
     path: '/search',

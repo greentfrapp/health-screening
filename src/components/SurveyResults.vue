@@ -54,7 +54,7 @@
 <script setup lang="ts">
 import cat1Tests from '@/utils/cat1_tests.json'
 import cat2Tests from '@/utils/cat2_tests.json'
-import { computed, ref } from 'vue'
+import { computed, nextTick, ref, watch } from 'vue'
 import { useStore } from '@/utils/store'
 import Header2 from './Header2.vue'
 import Collapsible from './Collapsible.vue'
@@ -63,6 +63,7 @@ import {
   ArrowsPointingInIcon,
   ArrowsPointingOutIcon,
 } from '@heroicons/vue/20/solid'
+import { targetBlank } from '@/utils/utils'
 
 const store = useStore()
 const tests = ([] as any[]).concat(cat1Tests, cat2Tests)
@@ -89,6 +90,11 @@ const relevantTests = computed(() => {
     return isRelevant(t.rules)
   })
 })
+
+watch(relevantTests, async () => {
+  await nextTick()
+  targetBlank()
+}, { immediate: true })
 
 const expandResults = ref(false)
 </script>
