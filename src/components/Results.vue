@@ -1,6 +1,6 @@
 <template>
   <div class="shrink-0 w-full lg:h-full lg:w-1/2 overflow-hidden shadow-3xl lg:shadow-none flex flex-col items-center"
-    :style="style">
+    :class="[expandResults ? 'expanded' : 'collapsed']">
     <div class="overflow-hidden flex flex-col lg:w-[90%] lg:h-[90%] lg:shadow-lg lg:border lg:rounded-xl">
       <div class="font-medium text-center shrink-0 p-2 relative text-neutral-600"
         @click="expandResults = !expandResults">
@@ -36,6 +36,21 @@
     </div>
   </div>
 </template>
+<style scoped>
+.collapsed {
+  height: 30%;
+}
+
+.expanded {
+  height: 100%;
+}
+
+@media (min-width: 1024px) {
+  .collapsed {
+    height: 100%;
+  }
+}
+</style>
 <script setup lang="ts">
 import cat1Tests from '@/utils/cat1_tests.json'
 import cat2Tests from '@/utils/cat2_tests.json'
@@ -75,12 +90,5 @@ const relevantTests = computed(() => {
   })
 })
 
-const expandResults = ref(true)
-const style = computed(() => {
-  if (expandResults.value) {
-    return 'height: 100%'
-  } else {
-    return 'height: 50%'
-  }
-})
+const expandResults = ref(false)
 </script>
