@@ -1,16 +1,5 @@
 [
  {
-   "Disease": "Bladder Cancer",
-   "Disease Type": "Cancer",
-   "Category": "Cat 3",
-   "Test": "Urine Tests",
-   "Test Type": "Urine",
-   "General Population Recommendation": "",
-   "Notes": "",
-   "Factors for Screening Recommendation": "",
-   ".": ""
- },
- {
    "Disease": "Breast Cancer",
    "Disease Type": "Cancer",
    "Category": "Cat 1",
@@ -19,50 +8,6 @@
    "General Population Recommendation": "All normal risk, asymptomatic women 50 to 69 years of\nage should be screened with mammography only, every 2 years.",
    "Notes": "",
    "Factors for Screening Recommendation": "Age, Gender",
-   ".": ""
- },
- {
-   "Disease": "Breast Cancer",
-   "Disease Type": "Cancer",
-   "Category": "Cat 2",
-   "Test": "MRI Breast",
-   "Test Type": "MRI",
-   "General Population Recommendation": "- Women at more than 20% lifetime risk of breast cancer, carriers of BRCA or other high risk gene mutations, and women with previous history of chest radiation therapy\n- Women with cosmetic injection augmentation",
-   "Notes": "MRI cannot replace mammographic screening in these women as some cancers may manifest as micro-calcifications which may not be shown on MRI.",
-   "Factors for Screening Recommendation": "Gender, Age, Family History, Medical History, Genetics",
-   ".": ""
- },
- {
-   "Disease": "Breast Cancer",
-   "Disease Type": "Cancer",
-   "Category": "Cat 3",
-   "Test": "Tumor Marker for Breast Cancer (e.g. CEA and CA15-3)",
-   "Test Type": "Tumor Marker",
-   "General Population Recommendation": "",
-   "Notes": "",
-   "Factors for Screening Recommendation": "",
-   ".": ""
- },
- {
-   "Disease": "Breast Cancer",
-   "Disease Type": "Cancer",
-   "Category": "Cat 3",
-   "Test": "Ultrasound Breast",
-   "Test Type": "Ultrasound",
-   "General Population Recommendation": "",
-   "Notes": "",
-   "Factors for Screening Recommendation": "",
-   ".": ""
- },
- {
-   "Disease": "Cervical Dysplasia/ Cervical Intraepithelial Lesion /Cervical Cancer",
-   "Disease Type": "Cancer",
-   "Category": "Cat 3",
-   "Test": "CT Pelvis",
-   "Test Type": "CT",
-   "General Population Recommendation": "",
-   "Notes": "",
-   "Factors for Screening Recommendation": "",
    ".": ""
  },
  {
@@ -88,61 +33,6 @@
    ".": ""
  },
  {
-   "Disease": "Cervical Dysplasia/ Cervical Intraepithelial Lesion /Cervical Cancer",
-   "Disease Type": "Cancer",
-   "Category": "Cat 3",
-   "Test": "Ultrasound Pelvis",
-   "Test Type": "Ultrasound",
-   "General Population Recommendation": "",
-   "Notes": "",
-   "Factors for Screening Recommendation": "",
-   ".": ""
- },
- {
-   "Disease": "Colorectal Cancer",
-   "Disease Type": "Cancer",
-   "Category": "Cat 2",
-   "Test": "CT Colonography",
-   "Test Type": "CT",
-   "General Population Recommendation": "",
-   "Notes": "Alternative to colonoscopy if contraindicated (i.e. not possible due to clinical reasons) or incomplete.",
-   "Factors for Screening Recommendation": "Age, Family History, Medical History",
-   ".": ""
- },
- {
-   "Disease": "Colorectal Cancer",
-   "Disease Type": "Cancer",
-   "Category": "Cat 2",
-   "Test": "FIT-DNA Test",
-   "Test Type": "Stool",
-   "General Population Recommendation": "",
-   "Notes": "Alternative to FIT",
-   "Factors for Screening Recommendation": "Age, Family History, Medical History",
-   ".": ""
- },
- {
-   "Disease": "Colorectal Cancer",
-   "Disease Type": "Cancer",
-   "Category": "Cat 3",
-   "Test": "Abdominal X-ray (AXR)",
-   "Test Type": "X-ray",
-   "General Population Recommendation": "",
-   "Notes": "",
-   "Factors for Screening Recommendation": "",
-   ".": ""
- },
- {
-   "Disease": "Colorectal Cancer",
-   "Disease Type": "Cancer",
-   "Category": "Cat 3",
-   "Test": "Carcinoembryonic Antigen (CEA)",
-   "Test Type": "Tumor Marker",
-   "General Population Recommendation": "",
-   "Notes": "",
-   "Factors for Screening Recommendation": "",
-   ".": ""
- },
- {
    "Disease": "Colorectal Cancer",
    "Disease Type": "Cancer",
    "Category": "Cat 1",
@@ -151,17 +41,6 @@
    "General Population Recommendation": "Colonoscopy is one of the recommended screening tests for the average risk asymptomatic population, from age 50 years. For screening the general population at average risk, colonoscopy should be performed at an interval of no more than 5 to 10 years.\nRecommended testing age and frequency differs for increased-risk and high-risk populations.",
    "Notes": "",
    "Factors for Screening Recommendation": "Age, Family History, Medical History",
-   ".": ""
- },
- {
-   "Disease": "Colorectal Cancer",
-   "Disease Type": "Cancer",
-   "Category": "Cat 3",
-   "Test": "CT Abdomen",
-   "Test Type": "CT",
-   "General Population Recommendation": "",
-   "Notes": "",
-   "Factors for Screening Recommendation": "",
    ".": ""
  },
  {
@@ -176,270 +55,6 @@
    ".": ""
  },
  {
-   "Disease": "Colorectal Cancer",
-   "Disease Type": "Cancer",
-   "Category": "Cat 3",
-   "Test": "Methylated SEPT9 DNA Test",
-   "Test Type": "Tumor Marker",
-   "General Population Recommendation": "",
-   "Notes": "",
-   "Factors for Screening Recommendation": "",
-   ".": ""
- },
- {
-   "Disease": "Endometrial Cancer",
-   "Disease Type": "Cancer",
-   "Category": "Cat 2",
-   "Test": "Ultrasound Pelvis",
-   "Test Type": "Ultrasound",
-   "General Population Recommendation": "",
-   "Notes": "High risk groups: Women with Hereditary Non-Polyposis Colon Cancer (HNPCC) or Lynch Syndrome, who are at higher risk for endometrial cancer, may consider annual screening with regular pelvic examination and endometrial sampling, starting between the ages of 30 and 35",
-   "Factors for Screening Recommendation": "Age, Family History, Gender",
-   ".": ""
- },
- {
-   "Disease": "Endometrial Cancer",
-   "Disease Type": "Cancer",
-   "Category": "Cat 3",
-   "Test": "CT Pelvis",
-   "Test Type": "CT",
-   "General Population Recommendation": "",
-   "Notes": "",
-   "Factors for Screening Recommendation": "",
-   ".": ""
- },
- {
-   "Disease": "Gastric Cancer",
-   "Disease Type": "Cancer",
-   "Category": "Cat 2",
-   "Test": "Oesophago-Gastro Duodenoscopy (OGD)",
-   "Test Type": "Scope",
-   "General Population Recommendation": "",
-   "Notes": "High risk groups: Individuals with Hereditary Non-Polyposis Colon Cancer (HNPCC) or Lynch Syndrome, who are at higher risk for gastric cancer, may benefit from screening with oesophago-gastro duodenoscopy (OGD), starting from age 30 to 35 years. A frequency of 2 to 3 years is recommended, based on the individual’s risk factors.",
-   "Factors for Screening Recommendation": "Age, Family History",
-   ".": ""
- },
- {
-   "Disease": "Liver Cancer (Hepatocellular Carcinoma)",
-   "Disease Type": "Cancer",
-   "Category": "Cat 2",
-   "Test": "Ultrasound Hepatobiliary System (US HBS)",
-   "Test Type": "Ultrasound",
-   "General Population Recommendation": "",
-   "Notes": "High Risk Groups: Hepatitis B carrier or individuals with liver cirrhosis. The test should be performed on a six monthly basis. There is no definite recommended age to start surveillance although local statistics show that Hepatocellular Carcinoma incidence starts to increase from the 40 to 49 age group.",
-   "Factors for Screening Recommendation": "Medical History",
-   ".": ""
- },
- {
-   "Disease": "Liver Cancer (Hepatocellular Carcinoma)",
-   "Disease Type": "Cancer",
-   "Category": "Cat 2",
-   "Test": "Alpha-Fetoprotein (AFP)",
-   "Test Type": "Tumor Marker",
-   "General Population Recommendation": "",
-   "Notes": "High Risk Groups: Hepatitis B carrier or individuals with liver cirrhosis. The test should be performed on a six monthly basis. There is no definite recommended age to start surveillance although local statistics show that Hepatocellular Carcinoma incidence starts to increase from the 40 to 49 age group.",
-   "Factors for Screening Recommendation": "Medical History",
-   ".": ""
- },
- {
-   "Disease": "Liver Cancer (Hepatocellular Carcinoma)",
-   "Disease Type": "Cancer",
-   "Category": "Cat 3",
-   "Test": "Liver Function Test (LFT)",
-   "Test Type": "Tumor Marker",
-   "General Population Recommendation": "",
-   "Notes": "",
-   "Factors for Screening Recommendation": "",
-   ".": ""
- },
- {
-   "Disease": "Lung Cancer",
-   "Disease Type": "Cancer",
-   "Category": "Cat 2",
-   "Test": "Low-dose CT Screening for Lung Cancer",
-   "Test Type": "CT",
-   "General Population Recommendation": "",
-   "Notes": "High Risk Groups:\na) Individuals aged between 55 to 74 who have smoked ≥ 30 pack years and are continuing to smoke\nb) Individuals aged between 55 to 74 who have smoked ≥ 30 pack years but quit <15 years ago\nLow-dose CT screening should be done annually.",
-   "Factors for Screening Recommendation": "Age, Lifestyle",
-   ".": ""
- },
- {
-   "Disease": "Lung Cancer",
-   "Disease Type": "Cancer",
-   "Category": "Cat 3",
-   "Test": "Chest X-ray (CXR)",
-   "Test Type": "X-ray",
-   "General Population Recommendation": "",
-   "Notes": "",
-   "Factors for Screening Recommendation": "",
-   ".": ""
- },
- {
-   "Disease": "Lung Cancer",
-   "Disease Type": "Cancer",
-   "Category": "Cat 3",
-   "Test": "Tumor Marker for Lung Cancer",
-   "Test Type": "Tumor Marker",
-   "General Population Recommendation": "",
-   "Notes": "",
-   "Factors for Screening Recommendation": "",
-   ".": ""
- },
- {
-   "Disease": "Nasopharyngeal Carcinoma (NPC)",
-   "Disease Type": "Cancer",
-   "Category": "Cat 2",
-   "Test": "Nasopharyngoscopy",
-   "Test Type": "Scope",
-   "General Population Recommendation": "",
-   "Notes": "High Risk Groups: Individuals with a first degree relative (parent, sibling) with NPC",
-   "Factors for Screening Recommendation": "Family History",
-   ".": ""
- },
- {
-   "Disease": "Nasopharyngeal Carcinoma (NPC)",
-   "Disease Type": "Cancer",
-   "Category": "Cat 2",
-   "Test": "Tumor Marker for NPC (EBV-EA-EBNA-1)",
-   "Test Type": "Tumor Marker",
-   "General Population Recommendation": "",
-   "Notes": "High Risk Groups: Individuals with a first degree relative (parent, sibling) with NPC",
-   "Factors for Screening Recommendation": "Family History",
-   ".": ""
- },
- {
-   "Disease": "Oesophageal Cancer",
-   "Disease Type": "Cancer",
-   "Category": "Cat 3",
-   "Test": "Oesophago-Gastro-Duodenoscopy",
-   "Test Type": "Scope",
-   "General Population Recommendation": "",
-   "Notes": "",
-   "Factors for Screening Recommendation": "",
-   ".": ""
- },
- {
-   "Disease": "Ovarian Cancer",
-   "Disease Type": "Cancer",
-   "Category": "Cat 2",
-   "Test": "Transvaginal Ultrasound",
-   "Test Type": "Ultrasound",
-   "General Population Recommendation": "",
-   "Notes": "High Risk Group: BRCA-Carrier\nTransvaginal pelvic ultrasound as screening for ovarian cancer may be considered. However, it can result in unnecessary surgeries with no clear mortality benefit.",
-   "Factors for Screening Recommendation": "Family History, Genetics",
-   ".": ""
- },
- {
-   "Disease": "Ovarian Cancer",
-   "Disease Type": "Cancer",
-   "Category": "Cat 3",
-   "Test": "Cancer Antigen (CA) 125",
-   "Test Type": "Tumor Marker",
-   "General Population Recommendation": "",
-   "Notes": "",
-   "Factors for Screening Recommendation": "",
-   ".": ""
- },
- {
-   "Disease": "Ovarian Cancer",
-   "Disease Type": "Cancer",
-   "Category": "Cat 3",
-   "Test": "CT Pelvis",
-   "Test Type": "CT",
-   "General Population Recommendation": "",
-   "Notes": "",
-   "Factors for Screening Recommendation": "",
-   ".": ""
- },
- {
-   "Disease": "Pancreatic Cancer",
-   "Disease Type": "Cancer",
-   "Category": "Cat 3",
-   "Test": "CA 19-9",
-   "Test Type": "Tumor Marker",
-   "General Population Recommendation": "",
-   "Notes": "",
-   "Factors for Screening Recommendation": "",
-   ".": ""
- },
- {
-   "Disease": "Pancreatic Cancer",
-   "Disease Type": "Cancer",
-   "Category": "Cat 3",
-   "Test": "CT Scan",
-   "Test Type": "CT",
-   "General Population Recommendation": "",
-   "Notes": "",
-   "Factors for Screening Recommendation": "",
-   ".": ""
- },
- {
-   "Disease": "Prostate Cancer",
-   "Disease Type": "Cancer",
-   "Category": "Cat 2",
-   "Test": "Prostate-Specific Antigen (PSA)",
-   "Test Type": "Tumor Marker",
-   "General Population Recommendation": "",
-   "Notes": "High Risk Groups: High-risk men, such as men with a strong family history of prostate cancer, i.e. one or more first-degree relatives (father, brother) diagnosed before age 65 years, may be offered screening 5 to 10 years younger than the youngest prostate cancer in the family.",
-   "Factors for Screening Recommendation": "Family History",
-   ".": ""
- },
- {
-   "Disease": "Prostate Cancer",
-   "Disease Type": "Cancer",
-   "Category": "Cat 3",
-   "Test": "MRI Prostate",
-   "Test Type": "MRI",
-   "General Population Recommendation": "",
-   "Notes": "",
-   "Factors for Screening Recommendation": "",
-   ".": ""
- },
- {
-   "Disease": "Testicular Cancer",
-   "Disease Type": "Cancer",
-   "Category": "Cat 3",
-   "Test": "Tumor Markers (e.g. AFP and beta-hCG)",
-   "Test Type": "Tumor Marker",
-   "General Population Recommendation": "",
-   "Notes": "",
-   "Factors for Screening Recommendation": "",
-   ".": ""
- },
- {
-   "Disease": "Antenatal and Foetal Abnormalities (Congenital)",
-   "Disease Type": "Congenital and Pediatric",
-   "Category": "Cat 2",
-   "Test": "Screening tests done in pregnancy or antenatal screening tests (e.g. FBC, VDRL, HIV, Hepatitis B)",
-   "Test Type": "Blood",
-   "General Population Recommendation": "",
-   "Notes": "Recommendation: The above blood tests and urine test are recommended in early pregnancy (preferably during the first antenatal visit) as a once-off test.",
-   "Factors for Screening Recommendation": "Pregnancy",
-   ".": ""
- },
- {
-   "Disease": "Antenatal and Foetal Abnormalities (Congenital)",
-   "Disease Type": "Congenital and Pediatric",
-   "Category": "Cat 2",
-   "Test": "Screening tests done in pregnancy or antenatal screening tests (e.g. urine microscopy)",
-   "Test Type": "Urine",
-   "General Population Recommendation": "",
-   "Notes": "Recommendation: The above blood tests and urine test are recommended in early pregnancy (preferably during the first antenatal visit) as a once-off test.",
-   "Factors for Screening Recommendation": "Pregnancy",
-   ".": ""
- },
- {
-   "Disease": "Antenatal and Foetal Abnormalities (Congenital)",
-   "Disease Type": "Congenital and Pediatric",
-   "Category": "Cat 2",
-   "Test": "Screening tests done in pregnancy or antenatal screening tests (e.g.obstetric ultrasound foetal anomaly screening)",
-   "Test Type": "Ultrasound",
-   "General Population Recommendation": "",
-   "Notes": "All women should be offered an obstetric ultrasound before 22 weeks gestation. This will include an ultrasound for foetal morphology and placenta localisation usually at 18 to 22 weeks gestation.",
-   "Factors for Screening Recommendation": "Pregnancy",
-   ".": ""
- },
- {
    "Disease": "Developmental Vision Disorder",
    "Disease Type": "Congenital and Pediatric",
    "Category": "Cat 1",
@@ -448,28 +63,6 @@
    "General Population Recommendation": "For children aged 3 years and above.",
    "Notes": "",
    "Factors for Screening Recommendation": "Age",
-   ".": ""
- },
- {
-   "Disease": "Down Syndrome",
-   "Disease Type": "Congenital and Pediatric",
-   "Category": "Cat 2",
-   "Test": "Nuchal Translucency Screening ",
-   "Test Type": "Ultrasound",
-   "General Population Recommendation": "",
-   "Notes": "Recommendation: All pregnant women, regardless of age, should be considered to be at risk for foetal aneuploidy and should be offered screening for Down Syndrome. All women should be made aware of the availability of screening tests for Down Syndrome and other chromosomal abnormalities.",
-   "Factors for Screening Recommendation": "Pregnancy",
-   ".": ""
- },
- {
-   "Disease": "Down Syndrome",
-   "Disease Type": "Congenital and Pediatric",
-   "Category": "Cat 2",
-   "Test": "First trimester maternal serum screening or second trimester maternal serum testing",
-   "Test Type": "Blood",
-   "General Population Recommendation": "",
-   "Notes": "Recommendation: All pregnant women, regardless of age, should be considered to be at risk for foetal aneuploidy and should be offered screening for Down Syndrome. All women should be made aware of the availability of screening tests for Down Syndrome and other chromosomal abnormalities.",
-   "Factors for Screening Recommendation": "Pregnancy",
    ".": ""
  },
  {
@@ -528,6 +121,270 @@
    ".": ""
  },
  {
+   "Disease": "Diabetes Mellitus",
+   "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
+   "Category": "Cat 1",
+   "Test": "Fasting Blood Glucose",
+   "Test Type": "Blood",
+   "General Population Recommendation": "Screening should begin at age 40 years, and be considered in adults of any age if any of the risk factors for diabetes is present. Subsequently, screening should be carried out every three years for those with normal glucose tolerance and annually for those with Impaired Fasting Glycaemia (IFG) or Impaired Glucose Tolerance (IGT).",
+   "Notes": "Risk factors for Diabetes Mellitus include (any one of the following):\na) Overweight/obesity (body mass index ≥25.0 kg/m2)\nb) Hypertension ≥140/90 mmHg) or on therapy for hypertension\nc) First degree relative with diabetes mellitus\nd) Women who have delivered a baby 4 kg or more; or previously diagnosed with gestational diabetes mellitus\ne) History of cardiovascular disease\nf) Women with polycystic ovary disease\ng) Patients who are diagnosed to have TB\nh) HDL cholesterol level <1.0 mmol/L (male), <1.3 mmol/L (female) and/or triglyceride level ≥2.2 mmol/L\ni) IFG or IGT on previous testing\nj) High risk race/ethnicity",
+   "Factors for Screening Recommendation": "Obesity, Medical History, Family History, Pregnancy, Age, Ethnicity",
+   ".": ""
+ },
+ {
+   "Disease": "Diabetes Mellitus",
+   "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
+   "Category": "Cat 1",
+   "Test": "Glycosylated Haemoglobin (HbA1c)",
+   "Test Type": "Blood",
+   "General Population Recommendation": "Screening should begin at age 40 years, and be considered in adults of any age if any of the risk factors for diabetes is present. Subsequently, screening should be carried out every three years for those with normal glucose tolerance and annually for those with Impaired Fasting Glycaemia (IFG) or Impaired Glucose Tolerance (IGT).\n\nHba1c is not suitable for use in individuals with the following medical conditions and/or physiological states: Haemoglobinopathies including thalassemia, iron deficiency anemia, vitamin B12/ folate deficiency, recent blood loss, haemolytic anemia, recent blood transfusion, chronic renal failure, chronic liver disease and pregnancy.",
+   "Notes": "Risk factors for Diabetes Mellitus include (any one of the following):\na) Overweight/obesity (body mass index ≥25.0 kg/m2)\nb) Hypertension ≥140/90 mmHg) or on therapy for hypertension\nc) First degree relative with diabetes mellitus\nd) Women who have delivered a baby 4 kg or more; or previously diagnosed with gestational diabetes mellitus\ne) History of cardiovascular disease\nf) Women with polycystic ovary disease\ng) Patients who are diagnosed to have TB\nh) HDL cholesterol level <1.0 mmol/L (male), <1.3 mmol/L (female) and/or triglyceride level ≥2.2 mmol/L\ni) IFG or IGT on previous testing\nj) High risk race/ethnicity",
+   "Factors for Screening Recommendation": "Obesity, Medical History, Family History, Pregnancy, Age, Ethnicity",
+   ".": ""
+ },
+ {
+   "Disease": "Hyperlipidaemia",
+   "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
+   "Category": "Cat 1",
+   "Test": "Fasting Lipids",
+   "Test Type": "Blood",
+   "General Population Recommendation": "Screening should be carried out in all individuals aged 40 years and above. It is recommended that clinicians routinely screen younger adults (men and women aged 18 and older) for lipid disorders including hyperlipidaemia if they have other risk factors for coronary artery disease (CAD). If the results are within optimal range, screening should be repeated at 3 yearly intervals. For those assessed to be at very high risk or high risk of CAD in accordance to the Ministry of Health Clinical Practice Guidelines 2/2016, lipid screening should be repeated annually.",
+   "Notes": "In summary, the following groups are to be screened:\na) All individuals aged 40 years and above\nb) All first degree relatives of familial hypercholesterolemia patients. (Special consideration: Routine screening is generally not recommended in children. However, screening can be carried out from age of 2 years in children who have a first degree relative diagnosed with familial hypercholesterolemia, as this gives the opportunity to teach good eating practices)\nc) All adults with pre-existing CAD, cerebrovascular or peripheral artery disease irrespective of age\nd) All adults with diabetes mellitus irrespective of age\ne) All adults with IFG or IGT irrespective of age\nf) All adults aged 18 years and above who have other risk factors for CAD, which include:\n1. Multiple CAD risk factors (e.g. tobacco use, hypertension)\n2. A family history of cardiovascular disease before age 50 years in male relatives or before age 60 years in female relatives\n3. A family history suggestive of familial hyperlipidaemia",
+   "Factors for Screening Recommendation": "Age, Family History, Medical History, Lifestyle",
+   ".": ""
+ },
+ {
+   "Disease": "Hyperlipidaemia",
+   "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
+   "Category": "Cat 1",
+   "Test": "Non-Fasting Lipids",
+   "Test Type": "Blood",
+   "General Population Recommendation": "Screening should be carried out in all individuals aged 40 years and above. It is recommended that clinicians routinely screen younger adults (men and women aged 18 and older) for lipid disorders including hyperlipidaemia if they have other risk factors for coronary artery disease (CAD). If the results are within optimal range, screening should be repeated at 3 yearly intervals. For those assessed to be at very high risk or high risk of CAD in accordance to the Ministry of Health Clinical Practice Guidelines 2/2016, lipid screening should be repeated annually.",
+   "Notes": "In summary, the following groups are to be screened:\na) All individuals aged 40 years and above\nb) All first degree relatives of familial hypercholesterolemia patients. (Special consideration: Routine screening is generally not recommended in children. However, screening can be carried out from age of 2 years in children who have a first degree relative diagnosed with familial hypercholesterolemia, as this gives the opportunity to teach good eating practices)\nc) All adults with pre-existing CAD, cerebrovascular or peripheral artery disease irrespective of age\nd) All adults with diabetes mellitus irrespective of age\ne) All adults with IFG or IGT irrespective of age\nf) All adults aged 18 years and above who have other risk factors for CAD, which include:\n1. Multiple CAD risk factors (e.g. tobacco use, hypertension)\n2. A family history of cardiovascular disease before age 50 years in male relatives or before age 60 years in female relatives\n3. A family history suggestive of familial hyperlipidaemia",
+   "Factors for Screening Recommendation": "Age, Family History, Medical History, Lifestyle",
+   ".": ""
+ },
+ {
+   "Disease": "Hypertension",
+   "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
+   "Category": "Cat 1",
+   "Test": "Blood Pressure Measurement",
+   "Test Type": "",
+   "General Population Recommendation": "Periodic screening for hypertension is recommended for all adults aged 18 years or older. Blood pressure should be measured at least once every 2 years for individuals with diastolic pressure below 85 mmHg and a systolic\npressure below 130 mmHg (i.e. normal BP). Measurements are recommended annually for persons with a diastolic blood pressure of 85 to 89 mmHg or systolic blood pressure of 130 to 139 mmHg (i.e. high normal BP). Persons with higher blood pressures or a major coronary risk factor such as diabetes mellitus require more frequent measurement.",
+   "Notes": "",
+   "Factors for Screening Recommendation": "",
+   ".": ""
+ },
+ {
+   "Disease": "Obesity",
+   "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
+   "Category": "Cat 1",
+   "Test": "BMI",
+   "Test Type": "",
+   "General Population Recommendation": "All individuals 18 years of age or older should be screened\nannually",
+   "Notes": "",
+   "Factors for Screening Recommendation": "",
+   ".": ""
+ },
+ {
+   "Disease": "Obesity",
+   "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
+   "Category": "Cat 1",
+   "Test": "Waist Circumference",
+   "Test Type": "",
+   "General Population Recommendation": "All individuals 18 years of age or older should be screened\nannually",
+   "Notes": "",
+   "Factors for Screening Recommendation": "",
+   ".": ""
+ },
+ {
+   "Disease": "Breast Cancer",
+   "Disease Type": "Cancer",
+   "Category": "Cat 2",
+   "Test": "MRI Breast",
+   "Test Type": "MRI",
+   "General Population Recommendation": "- Women at more than 20% lifetime risk of breast cancer, carriers of BRCA or other high risk gene mutations, and women with previous history of chest radiation therapy\n- Women with cosmetic injection augmentation",
+   "Notes": "MRI cannot replace mammographic screening in these women as some cancers may manifest as micro-calcifications which may not be shown on MRI.",
+   "Factors for Screening Recommendation": "Gender, Age, Family History, Medical History, Genetics",
+   ".": ""
+ },
+ {
+   "Disease": "Colorectal Cancer",
+   "Disease Type": "Cancer",
+   "Category": "Cat 2",
+   "Test": "CT Colonography",
+   "Test Type": "CT",
+   "General Population Recommendation": "",
+   "Notes": "Alternative to colonoscopy if contraindicated (i.e. not possible due to clinical reasons) or incomplete.",
+   "Factors for Screening Recommendation": "Age, Family History, Medical History",
+   ".": ""
+ },
+ {
+   "Disease": "Colorectal Cancer",
+   "Disease Type": "Cancer",
+   "Category": "Cat 2",
+   "Test": "FIT-DNA Test",
+   "Test Type": "Stool",
+   "General Population Recommendation": "",
+   "Notes": "Alternative to FIT",
+   "Factors for Screening Recommendation": "Age, Family History, Medical History",
+   ".": ""
+ },
+ {
+   "Disease": "Endometrial Cancer",
+   "Disease Type": "Cancer",
+   "Category": "Cat 2",
+   "Test": "Ultrasound Pelvis",
+   "Test Type": "Ultrasound",
+   "General Population Recommendation": "",
+   "Notes": "High risk groups: Women with Hereditary Non-Polyposis Colon Cancer (HNPCC) or Lynch Syndrome, who are at higher risk for endometrial cancer, may consider annual screening with regular pelvic examination and endometrial sampling, starting between the ages of 30 and 35",
+   "Factors for Screening Recommendation": "Age, Family History, Gender",
+   ".": ""
+ },
+ {
+   "Disease": "Gastric Cancer",
+   "Disease Type": "Cancer",
+   "Category": "Cat 2",
+   "Test": "Oesophago-Gastro Duodenoscopy (OGD)",
+   "Test Type": "Scope",
+   "General Population Recommendation": "",
+   "Notes": "High risk groups: Individuals with Hereditary Non-Polyposis Colon Cancer (HNPCC) or Lynch Syndrome, who are at higher risk for gastric cancer, may benefit from screening with oesophago-gastro duodenoscopy (OGD), starting from age 30 to 35 years. A frequency of 2 to 3 years is recommended, based on the individual’s risk factors.",
+   "Factors for Screening Recommendation": "Age, Family History",
+   ".": ""
+ },
+ {
+   "Disease": "Liver Cancer (Hepatocellular Carcinoma)",
+   "Disease Type": "Cancer",
+   "Category": "Cat 2",
+   "Test": "Ultrasound Hepatobiliary System (US HBS)",
+   "Test Type": "Ultrasound",
+   "General Population Recommendation": "",
+   "Notes": "High Risk Groups: Hepatitis B carrier or individuals with liver cirrhosis. The test should be performed on a six monthly basis. There is no definite recommended age to start surveillance although local statistics show that Hepatocellular Carcinoma incidence starts to increase from the 40 to 49 age group.",
+   "Factors for Screening Recommendation": "Medical History",
+   ".": ""
+ },
+ {
+   "Disease": "Liver Cancer (Hepatocellular Carcinoma)",
+   "Disease Type": "Cancer",
+   "Category": "Cat 2",
+   "Test": "Alpha-Fetoprotein (AFP)",
+   "Test Type": "Tumor Marker",
+   "General Population Recommendation": "",
+   "Notes": "High Risk Groups: Hepatitis B carrier or individuals with liver cirrhosis. The test should be performed on a six monthly basis. There is no definite recommended age to start surveillance although local statistics show that Hepatocellular Carcinoma incidence starts to increase from the 40 to 49 age group.",
+   "Factors for Screening Recommendation": "Medical History",
+   ".": ""
+ },
+ {
+   "Disease": "Lung Cancer",
+   "Disease Type": "Cancer",
+   "Category": "Cat 2",
+   "Test": "Low-dose CT Screening for Lung Cancer",
+   "Test Type": "CT",
+   "General Population Recommendation": "",
+   "Notes": "High Risk Groups:\na) Individuals aged between 55 to 74 who have smoked ≥ 30 pack years and are continuing to smoke\nb) Individuals aged between 55 to 74 who have smoked ≥ 30 pack years but quit <15 years ago\nLow-dose CT screening should be done annually.",
+   "Factors for Screening Recommendation": "Age, Lifestyle",
+   ".": ""
+ },
+ {
+   "Disease": "Nasopharyngeal Carcinoma (NPC)",
+   "Disease Type": "Cancer",
+   "Category": "Cat 2",
+   "Test": "Nasopharyngoscopy",
+   "Test Type": "Scope",
+   "General Population Recommendation": "",
+   "Notes": "High Risk Groups: Individuals with a first degree relative (parent, sibling) with NPC",
+   "Factors for Screening Recommendation": "Family History",
+   ".": ""
+ },
+ {
+   "Disease": "Nasopharyngeal Carcinoma (NPC)",
+   "Disease Type": "Cancer",
+   "Category": "Cat 2",
+   "Test": "Tumor Marker for NPC (EBV-EA-EBNA-1)",
+   "Test Type": "Tumor Marker",
+   "General Population Recommendation": "",
+   "Notes": "High Risk Groups: Individuals with a first degree relative (parent, sibling) with NPC",
+   "Factors for Screening Recommendation": "Family History",
+   ".": ""
+ },
+ {
+   "Disease": "Ovarian Cancer",
+   "Disease Type": "Cancer",
+   "Category": "Cat 2",
+   "Test": "Transvaginal Ultrasound",
+   "Test Type": "Ultrasound",
+   "General Population Recommendation": "",
+   "Notes": "High Risk Group: BRCA-Carrier\nTransvaginal pelvic ultrasound as screening for ovarian cancer may be considered. However, it can result in unnecessary surgeries with no clear mortality benefit.",
+   "Factors for Screening Recommendation": "Family History, Genetics",
+   ".": ""
+ },
+ {
+   "Disease": "Prostate Cancer",
+   "Disease Type": "Cancer",
+   "Category": "Cat 2",
+   "Test": "Prostate-Specific Antigen (PSA)",
+   "Test Type": "Tumor Marker",
+   "General Population Recommendation": "",
+   "Notes": "High Risk Groups: High-risk men, such as men with a strong family history of prostate cancer, i.e. one or more first-degree relatives (father, brother) diagnosed before age 65 years, may be offered screening 5 to 10 years younger than the youngest prostate cancer in the family.",
+   "Factors for Screening Recommendation": "Family History",
+   ".": ""
+ },
+ {
+   "Disease": "Antenatal and Foetal Abnormalities (Congenital)",
+   "Disease Type": "Congenital and Pediatric",
+   "Category": "Cat 2",
+   "Test": "Screening tests done in pregnancy or antenatal screening tests (e.g. FBC, VDRL, HIV, Hepatitis B)",
+   "Test Type": "Blood",
+   "General Population Recommendation": "",
+   "Notes": "Recommendation: The above blood tests and urine test are recommended in early pregnancy (preferably during the first antenatal visit) as a once-off test.",
+   "Factors for Screening Recommendation": "Pregnancy",
+   ".": ""
+ },
+ {
+   "Disease": "Antenatal and Foetal Abnormalities (Congenital)",
+   "Disease Type": "Congenital and Pediatric",
+   "Category": "Cat 2",
+   "Test": "Screening tests done in pregnancy or antenatal screening tests (e.g. urine microscopy)",
+   "Test Type": "Urine",
+   "General Population Recommendation": "",
+   "Notes": "Recommendation: The above blood tests and urine test are recommended in early pregnancy (preferably during the first antenatal visit) as a once-off test.",
+   "Factors for Screening Recommendation": "Pregnancy",
+   ".": ""
+ },
+ {
+   "Disease": "Antenatal and Foetal Abnormalities (Congenital)",
+   "Disease Type": "Congenital and Pediatric",
+   "Category": "Cat 2",
+   "Test": "Screening tests done in pregnancy or antenatal screening tests (e.g.obstetric ultrasound foetal anomaly screening)",
+   "Test Type": "Ultrasound",
+   "General Population Recommendation": "",
+   "Notes": "All women should be offered an obstetric ultrasound before 22 weeks gestation. This will include an ultrasound for foetal morphology and placenta localisation usually at 18 to 22 weeks gestation.",
+   "Factors for Screening Recommendation": "Pregnancy",
+   ".": ""
+ },
+ {
+   "Disease": "Down Syndrome",
+   "Disease Type": "Congenital and Pediatric",
+   "Category": "Cat 2",
+   "Test": "Nuchal Translucency Screening ",
+   "Test Type": "Ultrasound",
+   "General Population Recommendation": "",
+   "Notes": "Recommendation: All pregnant women, regardless of age, should be considered to be at risk for foetal aneuploidy and should be offered screening for Down Syndrome. All women should be made aware of the availability of screening tests for Down Syndrome and other chromosomal abnormalities.",
+   "Factors for Screening Recommendation": "Pregnancy",
+   ".": ""
+ },
+ {
+   "Disease": "Down Syndrome",
+   "Disease Type": "Congenital and Pediatric",
+   "Category": "Cat 2",
+   "Test": "First trimester maternal serum screening or second trimester maternal serum testing",
+   "Test Type": "Blood",
+   "General Population Recommendation": "",
+   "Notes": "Recommendation: All pregnant women, regardless of age, should be considered to be at risk for foetal aneuploidy and should be offered screening for Down Syndrome. All women should be made aware of the availability of screening tests for Down Syndrome and other chromosomal abnormalities.",
+   "Factors for Screening Recommendation": "Pregnancy",
+   ".": ""
+ },
+ {
    "Disease": "Retinopathy of Prematurity (ROP)",
    "Disease Type": "Congenital and Pediatric",
    "Category": "Cat 2",
@@ -572,17 +429,6 @@
    ".": ""
  },
  {
-   "Disease": "Carotid Artery Stenosis",
-   "Disease Type": "Heart and Vascular",
-   "Category": "Cat 3",
-   "Test": "Duplex Ultrasonography",
-   "Test Type": "Ultrasound",
-   "General Population Recommendation": "",
-   "Notes": "",
-   "Factors for Screening Recommendation": "",
-   ".": ""
- },
- {
    "Disease": "Cerebral Aneurysm",
    "Disease Type": "Heart and Vascular",
    "Category": "Cat 2",
@@ -591,17 +437,6 @@
    "General Population Recommendation": "",
    "Notes": "High Risk Groups:\na) Individuals with a history of aneurysmal subarachnoid haemorrhage\nb) Individuals with autosomal dominant polycystic kidney disease\nc) Individuals who have two or more first-degree relatives (parent, sibling) with documented intracranial aneurysms.",
    "Factors for Screening Recommendation": "Family History, Medical History",
-   ".": ""
- },
- {
-   "Disease": "Cerebrovascular Disease (Stroke)",
-   "Disease Type": "Heart and Vascular",
-   "Category": "Cat 3",
-   "Test": "MRI/MRA Brain",
-   "Test Type": "MRI",
-   "General Population Recommendation": "",
-   "Notes": "",
-   "Factors for Screening Recommendation": "",
    ".": ""
  },
  {
@@ -660,39 +495,6 @@
    ".": ""
  },
  {
-   "Disease": "Coronary Heart Disease (CHD)",
-   "Disease Type": "Heart and Vascular",
-   "Category": "Cat 3",
-   "Test": "CT Coronary Angiogram",
-   "Test Type": "CT",
-   "General Population Recommendation": "",
-   "Notes": "",
-   "Factors for Screening Recommendation": "",
-   ".": ""
- },
- {
-   "Disease": "Coronary Heart Disease (CHD)",
-   "Disease Type": "Heart and Vascular",
-   "Category": "Cat 3",
-   "Test": "Homocysteine",
-   "Test Type": "Blood",
-   "General Population Recommendation": "",
-   "Notes": "",
-   "Factors for Screening Recommendation": "",
-   ".": ""
- },
- {
-   "Disease": "Coronary Heart Disease (CHD)",
-   "Disease Type": "Heart and Vascular",
-   "Category": "Cat 3",
-   "Test": "Serum Uric Acid",
-   "Test Type": "Blood",
-   "General Population Recommendation": "",
-   "Notes": "",
-   "Factors for Screening Recommendation": "",
-   ".": ""
- },
- {
    "Disease": "Peripheral Vascular Disease (PVD)",
    "Disease Type": "Heart and Vascular",
    "Category": "Cat 2",
@@ -723,17 +525,6 @@
    "General Population Recommendation": "",
    "Notes": "High risk group: Persons with at-risk sexual behaviour (e.g. having unprotected\nsex with multiple sexual partners, previous or co-existing STIs)",
    "Factors for Screening Recommendation": "Lifestyle, Profession",
-   ".": ""
- },
- {
-   "Disease": "Hepatitis A Infection",
-   "Disease Type": "Infectious",
-   "Category": "Cat 3",
-   "Test": "Hepatitis A Screen",
-   "Test Type": "Blood",
-   "General Population Recommendation": "",
-   "Notes": "",
-   "Factors for Screening Recommendation": "",
    ".": ""
  },
  {
@@ -858,28 +649,6 @@
    ".": ""
  },
  {
-   "Disease": "Diabetes Mellitus",
-   "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
-   "Category": "Cat 1",
-   "Test": "Fasting Blood Glucose",
-   "Test Type": "Blood",
-   "General Population Recommendation": "Screening should begin at age 40 years, and be considered in adults of any age if any of the risk factors for diabetes is present. Subsequently, screening should be carried out every three years for those with normal glucose tolerance and annually for those with Impaired Fasting Glycaemia (IFG) or Impaired Glucose Tolerance (IGT).",
-   "Notes": "Risk factors for Diabetes Mellitus include (any one of the following):\na) Overweight/obesity (body mass index ≥25.0 kg/m2)\nb) Hypertension ≥140/90 mmHg) or on therapy for hypertension\nc) First degree relative with diabetes mellitus\nd) Women who have delivered a baby 4 kg or more; or previously diagnosed with gestational diabetes mellitus\ne) History of cardiovascular disease\nf) Women with polycystic ovary disease\ng) Patients who are diagnosed to have TB\nh) HDL cholesterol level <1.0 mmol/L (male), <1.3 mmol/L (female) and/or triglyceride level ≥2.2 mmol/L\ni) IFG or IGT on previous testing\nj) High risk race/ethnicity",
-   "Factors for Screening Recommendation": "Obesity, Medical History, Family History, Pregnancy, Age, Ethnicity",
-   ".": ""
- },
- {
-   "Disease": "Diabetes Mellitus",
-   "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
-   "Category": "Cat 1",
-   "Test": "Glycosylated Haemoglobin (HbA1c)",
-   "Test Type": "Blood",
-   "General Population Recommendation": "Screening should begin at age 40 years, and be considered in adults of any age if any of the risk factors for diabetes is present. Subsequently, screening should be carried out every three years for those with normal glucose tolerance and annually for those with Impaired Fasting Glycaemia (IFG) or Impaired Glucose Tolerance (IGT).\n\nHba1c is not suitable for use in individuals with the following medical conditions and/or physiological states: Haemoglobinopathies including thalassemia, iron deficiency anemia, vitamin B12/ folate deficiency, recent blood loss, haemolytic anemia, recent blood transfusion, chronic renal failure, chronic liver disease and pregnancy.",
-   "Notes": "Risk factors for Diabetes Mellitus include (any one of the following):\na) Overweight/obesity (body mass index ≥25.0 kg/m2)\nb) Hypertension ≥140/90 mmHg) or on therapy for hypertension\nc) First degree relative with diabetes mellitus\nd) Women who have delivered a baby 4 kg or more; or previously diagnosed with gestational diabetes mellitus\ne) History of cardiovascular disease\nf) Women with polycystic ovary disease\ng) Patients who are diagnosed to have TB\nh) HDL cholesterol level <1.0 mmol/L (male), <1.3 mmol/L (female) and/or triglyceride level ≥2.2 mmol/L\ni) IFG or IGT on previous testing\nj) High risk race/ethnicity",
-   "Factors for Screening Recommendation": "Obesity, Medical History, Family History, Pregnancy, Age, Ethnicity",
-   ".": ""
- },
- {
    "Disease": "Diabetic Microalbuminuria/Albuminuria/Nephropathy",
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 2",
@@ -888,50 +657,6 @@
    "General Population Recommendation": "",
    "Notes": "Recommendation: Screening for albuminuria should begin 5 years after the\ndiagnosis of Type 1 Diabetes. It should, however, begin immediately with the\ndiagnosis of Type 2 Diabetes. Thereafter, screening for albuminuria should be\ndone annually.",
    "Factors for Screening Recommendation": "Medical History",
-   ".": ""
- },
- {
-   "Disease": "Gout",
-   "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
-   "Category": "Cat 3",
-   "Test": "Serum Uric Acid",
-   "Test Type": "Blood",
-   "General Population Recommendation": "",
-   "Notes": "",
-   "Factors for Screening Recommendation": "",
-   ".": ""
- },
- {
-   "Disease": "Hyperlipidaemia",
-   "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
-   "Category": "Cat 1",
-   "Test": "Fasting Lipids",
-   "Test Type": "Blood",
-   "General Population Recommendation": "Screening should be carried out in all individuals aged 40 years and above. It is recommended that clinicians routinely screen younger adults (men and women aged 18 and older) for lipid disorders including hyperlipidaemia if they have other risk factors for coronary artery disease (CAD). If the results are within optimal range, screening should be repeated at 3 yearly intervals. For those assessed to be at very high risk or high risk of CAD in accordance to the Ministry of Health Clinical Practice Guidelines 2/2016, lipid screening should be repeated annually.",
-   "Notes": "In summary, the following groups are to be screened:\na) All individuals aged 40 years and above\nb) All first degree relatives of familial hypercholesterolemia patients. (Special consideration: Routine screening is generally not recommended in children. However, screening can be carried out from age of 2 years in children who have a first degree relative diagnosed with familial hypercholesterolemia, as this gives the opportunity to teach good eating practices)\nc) All adults with pre-existing CAD, cerebrovascular or peripheral artery disease irrespective of age\nd) All adults with diabetes mellitus irrespective of age\ne) All adults with IFG or IGT irrespective of age\nf) All adults aged 18 years and above who have other risk factors for CAD, which include:\n1. Multiple CAD risk factors (e.g. tobacco use, hypertension)\n2. A family history of cardiovascular disease before age 50 years in male relatives or before age 60 years in female relatives\n3. A family history suggestive of familial hyperlipidaemia",
-   "Factors for Screening Recommendation": "Age, Family History, Medical History, Lifestyle",
-   ".": ""
- },
- {
-   "Disease": "Hyperlipidaemia",
-   "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
-   "Category": "Cat 1",
-   "Test": "Non-Fasting Lipids",
-   "Test Type": "Blood",
-   "General Population Recommendation": "Screening should be carried out in all individuals aged 40 years and above. It is recommended that clinicians routinely screen younger adults (men and women aged 18 and older) for lipid disorders including hyperlipidaemia if they have other risk factors for coronary artery disease (CAD). If the results are within optimal range, screening should be repeated at 3 yearly intervals. For those assessed to be at very high risk or high risk of CAD in accordance to the Ministry of Health Clinical Practice Guidelines 2/2016, lipid screening should be repeated annually.",
-   "Notes": "In summary, the following groups are to be screened:\na) All individuals aged 40 years and above\nb) All first degree relatives of familial hypercholesterolemia patients. (Special consideration: Routine screening is generally not recommended in children. However, screening can be carried out from age of 2 years in children who have a first degree relative diagnosed with familial hypercholesterolemia, as this gives the opportunity to teach good eating practices)\nc) All adults with pre-existing CAD, cerebrovascular or peripheral artery disease irrespective of age\nd) All adults with diabetes mellitus irrespective of age\ne) All adults with IFG or IGT irrespective of age\nf) All adults aged 18 years and above who have other risk factors for CAD, which include:\n1. Multiple CAD risk factors (e.g. tobacco use, hypertension)\n2. A family history of cardiovascular disease before age 50 years in male relatives or before age 60 years in female relatives\n3. A family history suggestive of familial hyperlipidaemia",
-   "Factors for Screening Recommendation": "Age, Family History, Medical History, Lifestyle",
-   ".": ""
- },
- {
-   "Disease": "Hypertension",
-   "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
-   "Category": "Cat 1",
-   "Test": "Blood Pressure Measurement",
-   "Test Type": "",
-   "General Population Recommendation": "Periodic screening for hypertension is recommended for all adults aged 18 years or older. Blood pressure should be measured at least once every 2 years for individuals with diastolic pressure below 85 mmHg and a systolic\npressure below 130 mmHg (i.e. normal BP). Measurements are recommended annually for persons with a diastolic blood pressure of 85 to 89 mmHg or systolic blood pressure of 130 to 139 mmHg (i.e. high normal BP). Persons with higher blood pressures or a major coronary risk factor such as diabetes mellitus require more frequent measurement.",
-   "Notes": "",
-   "Factors for Screening Recommendation": "",
    ".": ""
  },
  {
@@ -957,12 +682,353 @@
    ".": ""
  },
  {
-   "Disease": "Obesity",
+   "Disease": "Osteoporosis/ Osteopenia",
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
-   "Category": "Cat 1",
-   "Test": "BMI",
+   "Category": "Cat 2",
+   "Test": "Bone Mineral Density (BMD) Scan",
+   "Test Type": "X-ray",
+   "General Population Recommendation": "",
+   "Notes": "High Risk Group: Postmenopausal Asian women with high Osteoporosis Self-\nassessment Tool for Asians (OSTA) score.",
+   "Factors for Screening Recommendation": "Ethnicity, Age",
+   ".": ""
+ },
+ {
+   "Disease": "Thyroid Disorder (Thyroid Abnormality/ Thyroid Dysfunction)",
+   "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
+   "Category": "Cat 2",
+   "Test": "Thyroid Function Test (TFT)",
+   "Test Type": "Blood",
+   "General Population Recommendation": "",
+   "Notes": "High Risk Groups:\na) Obese people as defined conventionally by individuals in high-risk weight categories; hypothyroidism may be asymptomatic and yet, obesity accounts for excessive morbidity and mortality (Diabetes Mellitus, Hyperlipidaemia, Metabolic Syndrome, Polycystic Ovarian Syndrome, Ischaemic Heart Disease, Cancers and Obstructive Sleep Apnoea). Testing can be done just once in the workup for a secondary cause of obesity.\nb) Any individual with autoimmune disease as this will predispose to thyroid disorders such as Grave’s Disease or Hashimoto’s Thyroiditis. The Thyroid-Stimulating Hormone (TSH) level in the individual should be assessed annually.\nc) Pregnant women who have diabetes mellitus or adrenal disease as they tend to develop goitre during pregnancy and the consequences of mental retardation in the offspring are severe. Thyroid function test (TFT) should be performed once early on during pregnancy.",
+   "Factors for Screening Recommendation": "Obesity, Medical History, Pregnancy",
+   ".": ""
+ },
+ {
+   "Disease": "Maternal Colonisation with Group B Streptococcus (GBS) during pregnancy",
+   "Disease Type": "OB/GYN",
+   "Category": "Cat 2",
+   "Test": "Vaginal and Rectal swab",
    "Test Type": "",
-   "General Population Recommendation": "All individuals 18 years of age or older should be screened\nannually",
+   "General Population Recommendation": "",
+   "Notes": "High Risk Group: All pregnant women between 35 and 37 weeks gestation.",
+   "Factors for Screening Recommendation": "Pregnancy",
+   ".": ""
+ },
+ {
+   "Disease": "Diabetic Retinopathy",
+   "Disease Type": "Vision and Hearing",
+   "Category": "Cat 2",
+   "Test": "Retinal Fundal Photography",
+   "Test Type": "Eye",
+   "General Population Recommendation": "",
+   "Notes": "Recommendation: All patients diagnosed with diabetes require regular visual acuity assessment and eye examinations by trained personnel to screen for diabetic retinopathy. Type 1 diabetic patients should be examined 3 to 5 years after diagnosis of diabetes, and at least once yearly subsequently. Type 2 diabetic patients should have an ocular assessment at the time of diagnosis and at least once yearly subsequently.",
+   "Factors for Screening Recommendation": "Medical History",
+   ".": ""
+ },
+ {
+   "Disease": "Hearing Loss in adults (Deafness in adults)",
+   "Disease Type": "Vision and Hearing",
+   "Category": "Cat 2",
+   "Test": "Audiometry",
+   "Test Type": "",
+   "General Population Recommendation": "",
+   "Notes": "High Risk Group: All persons exposed to excessive noise must undergo pre-employment and annual medical examinations which include audiometry under the Workplace Safety and Health (Medical Examinations) Regulations by Ministry of Manpower.",
+   "Factors for Screening Recommendation": "Profession",
+   ".": ""
+ },
+ {
+   "Disease": "Bladder Cancer",
+   "Disease Type": "Cancer",
+   "Category": "Cat 3",
+   "Test": "Urine Tests",
+   "Test Type": "Urine",
+   "General Population Recommendation": "",
+   "Notes": "",
+   "Factors for Screening Recommendation": "",
+   ".": ""
+ },
+ {
+   "Disease": "Breast Cancer",
+   "Disease Type": "Cancer",
+   "Category": "Cat 3",
+   "Test": "Tumor Marker for Breast Cancer (e.g. CEA and CA15-3)",
+   "Test Type": "Tumor Marker",
+   "General Population Recommendation": "",
+   "Notes": "",
+   "Factors for Screening Recommendation": "",
+   ".": ""
+ },
+ {
+   "Disease": "Breast Cancer",
+   "Disease Type": "Cancer",
+   "Category": "Cat 3",
+   "Test": "Ultrasound Breast",
+   "Test Type": "Ultrasound",
+   "General Population Recommendation": "",
+   "Notes": "",
+   "Factors for Screening Recommendation": "",
+   ".": ""
+ },
+ {
+   "Disease": "Cervical Dysplasia/ Cervical Intraepithelial Lesion /Cervical Cancer",
+   "Disease Type": "Cancer",
+   "Category": "Cat 3",
+   "Test": "CT Pelvis",
+   "Test Type": "CT",
+   "General Population Recommendation": "",
+   "Notes": "",
+   "Factors for Screening Recommendation": "",
+   ".": ""
+ },
+ {
+   "Disease": "Cervical Dysplasia/ Cervical Intraepithelial Lesion /Cervical Cancer",
+   "Disease Type": "Cancer",
+   "Category": "Cat 3",
+   "Test": "Ultrasound Pelvis",
+   "Test Type": "Ultrasound",
+   "General Population Recommendation": "",
+   "Notes": "",
+   "Factors for Screening Recommendation": "",
+   ".": ""
+ },
+ {
+   "Disease": "Colorectal Cancer",
+   "Disease Type": "Cancer",
+   "Category": "Cat 3",
+   "Test": "Abdominal X-ray (AXR)",
+   "Test Type": "X-ray",
+   "General Population Recommendation": "",
+   "Notes": "",
+   "Factors for Screening Recommendation": "",
+   ".": ""
+ },
+ {
+   "Disease": "Colorectal Cancer",
+   "Disease Type": "Cancer",
+   "Category": "Cat 3",
+   "Test": "Carcinoembryonic Antigen (CEA)",
+   "Test Type": "Tumor Marker",
+   "General Population Recommendation": "",
+   "Notes": "",
+   "Factors for Screening Recommendation": "",
+   ".": ""
+ },
+ {
+   "Disease": "Colorectal Cancer",
+   "Disease Type": "Cancer",
+   "Category": "Cat 3",
+   "Test": "CT Abdomen",
+   "Test Type": "CT",
+   "General Population Recommendation": "",
+   "Notes": "",
+   "Factors for Screening Recommendation": "",
+   ".": ""
+ },
+ {
+   "Disease": "Colorectal Cancer",
+   "Disease Type": "Cancer",
+   "Category": "Cat 3",
+   "Test": "Methylated SEPT9 DNA Test",
+   "Test Type": "Tumor Marker",
+   "General Population Recommendation": "",
+   "Notes": "",
+   "Factors for Screening Recommendation": "",
+   ".": ""
+ },
+ {
+   "Disease": "Endometrial Cancer",
+   "Disease Type": "Cancer",
+   "Category": "Cat 3",
+   "Test": "CT Pelvis",
+   "Test Type": "CT",
+   "General Population Recommendation": "",
+   "Notes": "",
+   "Factors for Screening Recommendation": "",
+   ".": ""
+ },
+ {
+   "Disease": "Liver Cancer (Hepatocellular Carcinoma)",
+   "Disease Type": "Cancer",
+   "Category": "Cat 3",
+   "Test": "Liver Function Test (LFT)",
+   "Test Type": "Tumor Marker",
+   "General Population Recommendation": "",
+   "Notes": "",
+   "Factors for Screening Recommendation": "",
+   ".": ""
+ },
+ {
+   "Disease": "Lung Cancer",
+   "Disease Type": "Cancer",
+   "Category": "Cat 3",
+   "Test": "Chest X-ray (CXR)",
+   "Test Type": "X-ray",
+   "General Population Recommendation": "",
+   "Notes": "",
+   "Factors for Screening Recommendation": "",
+   ".": ""
+ },
+ {
+   "Disease": "Lung Cancer",
+   "Disease Type": "Cancer",
+   "Category": "Cat 3",
+   "Test": "Tumor Marker for Lung Cancer",
+   "Test Type": "Tumor Marker",
+   "General Population Recommendation": "",
+   "Notes": "",
+   "Factors for Screening Recommendation": "",
+   ".": ""
+ },
+ {
+   "Disease": "Oesophageal Cancer",
+   "Disease Type": "Cancer",
+   "Category": "Cat 3",
+   "Test": "Oesophago-Gastro-Duodenoscopy",
+   "Test Type": "Scope",
+   "General Population Recommendation": "",
+   "Notes": "",
+   "Factors for Screening Recommendation": "",
+   ".": ""
+ },
+ {
+   "Disease": "Ovarian Cancer",
+   "Disease Type": "Cancer",
+   "Category": "Cat 3",
+   "Test": "Cancer Antigen (CA) 125",
+   "Test Type": "Tumor Marker",
+   "General Population Recommendation": "",
+   "Notes": "",
+   "Factors for Screening Recommendation": "",
+   ".": ""
+ },
+ {
+   "Disease": "Ovarian Cancer",
+   "Disease Type": "Cancer",
+   "Category": "Cat 3",
+   "Test": "CT Pelvis",
+   "Test Type": "CT",
+   "General Population Recommendation": "",
+   "Notes": "",
+   "Factors for Screening Recommendation": "",
+   ".": ""
+ },
+ {
+   "Disease": "Pancreatic Cancer",
+   "Disease Type": "Cancer",
+   "Category": "Cat 3",
+   "Test": "CA 19-9",
+   "Test Type": "Tumor Marker",
+   "General Population Recommendation": "",
+   "Notes": "",
+   "Factors for Screening Recommendation": "",
+   ".": ""
+ },
+ {
+   "Disease": "Pancreatic Cancer",
+   "Disease Type": "Cancer",
+   "Category": "Cat 3",
+   "Test": "CT Scan",
+   "Test Type": "CT",
+   "General Population Recommendation": "",
+   "Notes": "",
+   "Factors for Screening Recommendation": "",
+   ".": ""
+ },
+ {
+   "Disease": "Prostate Cancer",
+   "Disease Type": "Cancer",
+   "Category": "Cat 3",
+   "Test": "MRI Prostate",
+   "Test Type": "MRI",
+   "General Population Recommendation": "",
+   "Notes": "",
+   "Factors for Screening Recommendation": "",
+   ".": ""
+ },
+ {
+   "Disease": "Testicular Cancer",
+   "Disease Type": "Cancer",
+   "Category": "Cat 3",
+   "Test": "Tumor Markers (e.g. AFP and beta-hCG)",
+   "Test Type": "Tumor Marker",
+   "General Population Recommendation": "",
+   "Notes": "",
+   "Factors for Screening Recommendation": "",
+   ".": ""
+ },
+ {
+   "Disease": "Carotid Artery Stenosis",
+   "Disease Type": "Heart and Vascular",
+   "Category": "Cat 3",
+   "Test": "Duplex Ultrasonography",
+   "Test Type": "Ultrasound",
+   "General Population Recommendation": "",
+   "Notes": "",
+   "Factors for Screening Recommendation": "",
+   ".": ""
+ },
+ {
+   "Disease": "Cerebrovascular Disease (Stroke)",
+   "Disease Type": "Heart and Vascular",
+   "Category": "Cat 3",
+   "Test": "MRI/MRA Brain",
+   "Test Type": "MRI",
+   "General Population Recommendation": "",
+   "Notes": "",
+   "Factors for Screening Recommendation": "",
+   ".": ""
+ },
+ {
+   "Disease": "Coronary Heart Disease (CHD)",
+   "Disease Type": "Heart and Vascular",
+   "Category": "Cat 3",
+   "Test": "CT Coronary Angiogram",
+   "Test Type": "CT",
+   "General Population Recommendation": "",
+   "Notes": "",
+   "Factors for Screening Recommendation": "",
+   ".": ""
+ },
+ {
+   "Disease": "Coronary Heart Disease (CHD)",
+   "Disease Type": "Heart and Vascular",
+   "Category": "Cat 3",
+   "Test": "Homocysteine",
+   "Test Type": "Blood",
+   "General Population Recommendation": "",
+   "Notes": "",
+   "Factors for Screening Recommendation": "",
+   ".": ""
+ },
+ {
+   "Disease": "Coronary Heart Disease (CHD)",
+   "Disease Type": "Heart and Vascular",
+   "Category": "Cat 3",
+   "Test": "Serum Uric Acid",
+   "Test Type": "Blood",
+   "General Population Recommendation": "",
+   "Notes": "",
+   "Factors for Screening Recommendation": "",
+   ".": ""
+ },
+ {
+   "Disease": "Hepatitis A Infection",
+   "Disease Type": "Infectious",
+   "Category": "Cat 3",
+   "Test": "Hepatitis A Screen",
+   "Test Type": "Blood",
+   "General Population Recommendation": "",
+   "Notes": "",
+   "Factors for Screening Recommendation": "",
+   ".": ""
+ },
+ {
+   "Disease": "Gout",
+   "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
+   "Category": "Cat 3",
+   "Test": "Serum Uric Acid",
+   "Test Type": "Blood",
+   "General Population Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
    ".": ""
@@ -974,17 +1040,6 @@
    "Test": "Body Fat Measurement",
    "Test Type": "",
    "General Population Recommendation": "",
-   "Notes": "",
-   "Factors for Screening Recommendation": "",
-   ".": ""
- },
- {
-   "Disease": "Obesity",
-   "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
-   "Category": "Cat 1",
-   "Test": "Waist Circumference",
-   "Test Type": "",
-   "General Population Recommendation": "All individuals 18 years of age or older should be screened\nannually",
    "Notes": "",
    "Factors for Screening Recommendation": "",
    ".": ""
@@ -1009,17 +1064,6 @@
    "General Population Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
-   ".": ""
- },
- {
-   "Disease": "Osteoporosis/ Osteopenia",
-   "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
-   "Category": "Cat 2",
-   "Test": "Bone Mineral Density (BMD) Scan",
-   "Test Type": "X-ray",
-   "General Population Recommendation": "",
-   "Notes": "High Risk Group: Postmenopausal Asian women with high Osteoporosis Self-\nassessment Tool for Asians (OSTA) score.",
-   "Factors for Screening Recommendation": "Ethnicity, Age",
    ".": ""
  },
  {
@@ -1078,17 +1122,6 @@
    ".": ""
  },
  {
-   "Disease": "Thyroid Disorder (Thyroid Abnormality/ Thyroid Dysfunction)",
-   "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
-   "Category": "Cat 2",
-   "Test": "Thyroid Function Test (TFT)",
-   "Test Type": "Blood",
-   "General Population Recommendation": "",
-   "Notes": "High Risk Groups:\na) Obese people as defined conventionally by individuals in high-risk weight categories; hypothyroidism may be asymptomatic and yet, obesity accounts for excessive morbidity and mortality (Diabetes Mellitus, Hyperlipidaemia, Metabolic Syndrome, Polycystic Ovarian Syndrome, Ischaemic Heart Disease, Cancers and Obstructive Sleep Apnoea). Testing can be done just once in the workup for a secondary cause of obesity.\nb) Any individual with autoimmune disease as this will predispose to thyroid disorders such as Grave’s Disease or Hashimoto’s Thyroiditis. The Thyroid-Stimulating Hormone (TSH) level in the individual should be assessed annually.\nc) Pregnant women who have diabetes mellitus or adrenal disease as they tend to develop goitre during pregnancy and the consequences of mental retardation in the offspring are severe. Thyroid function test (TFT) should be performed once early on during pregnancy.",
-   "Factors for Screening Recommendation": "Obesity, Medical History, Pregnancy",
-   ".": ""
- },
- {
    "Disease": "Benign Prostatic Hyperplasia (BPH)",
    "Disease Type": "Misc",
    "Category": "Cat 3",
@@ -1144,19 +1177,8 @@
    ".": ""
  },
  {
-   "Disease": "Maternal Colonisation with Group B Streptococcus (GBS) during pregnancy",
-   "Disease Type": "Ob-Gyn",
-   "Category": "Cat 2",
-   "Test": "Vaginal and Rectal swab",
-   "Test Type": "",
-   "General Population Recommendation": "",
-   "Notes": "High Risk Group: All pregnant women between 35 and 37 weeks gestation.",
-   "Factors for Screening Recommendation": "Pregnancy",
-   ".": ""
- },
- {
    "Disease": "Menopause",
-   "Disease Type": "Ob-Gyn",
+   "Disease Type": "OB/GYN",
    "Category": "Cat 3",
    "Test": "Serum 5-Dehydroepiandrosterone (DHEA)",
    "Test Type": "Blood",
@@ -1167,7 +1189,7 @@
  },
  {
    "Disease": "Menopause",
-   "Disease Type": "Ob-Gyn",
+   "Disease Type": "OB/GYN",
    "Category": "Cat 3",
    "Test": "Serum Estradiol (E2)",
    "Test Type": "Blood",
@@ -1178,7 +1200,7 @@
  },
  {
    "Disease": "Menopause",
-   "Disease Type": "Ob-Gyn",
+   "Disease Type": "OB/GYN",
    "Category": "Cat 3",
    "Test": "Serum Follicle-Stimulating Hormone (FSH)",
    "Test Type": "Blood",
@@ -1189,7 +1211,7 @@
  },
  {
    "Disease": "Menopause",
-   "Disease Type": "Ob-Gyn",
+   "Disease Type": "OB/GYN",
    "Category": "Cat 3",
    "Test": "Serum Insulin-Growth Factor-1 (IGF1)",
    "Test Type": "Blood",
@@ -1200,7 +1222,7 @@
  },
  {
    "Disease": "Menopause",
-   "Disease Type": "Ob-Gyn",
+   "Disease Type": "OB/GYN",
    "Category": "Cat 3",
    "Test": "Serum Progesterone",
    "Test Type": "Blood",
@@ -1211,7 +1233,7 @@
  },
  {
    "Disease": "Menopause",
-   "Disease Type": "Ob-Gyn",
+   "Disease Type": "OB/GYN",
    "Category": "Cat 3",
    "Test": "Serum Testosterone",
    "Test Type": "Blood",
@@ -1232,17 +1254,6 @@
    ".": ""
  },
  {
-   "Disease": "Diabetic Retinopathy",
-   "Disease Type": "Vision and Hearing",
-   "Category": "Cat 2",
-   "Test": "Retinal Fundal Photography",
-   "Test Type": "Eye",
-   "General Population Recommendation": "",
-   "Notes": "Recommendation: All patients diagnosed with diabetes require regular visual acuity assessment and eye examinations by trained personnel to screen for diabetic retinopathy. Type 1 diabetic patients should be examined 3 to 5 years after diagnosis of diabetes, and at least once yearly subsequently. Type 2 diabetic patients should have an ocular assessment at the time of diagnosis and at least once yearly subsequently.",
-   "Factors for Screening Recommendation": "Medical History",
-   ".": ""
- },
- {
    "Disease": "Glaucoma",
    "Disease Type": "Vision and Hearing",
    "Category": "Cat 3",
@@ -1251,17 +1262,6 @@
    "General Population Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
-   ".": ""
- },
- {
-   "Disease": "Hearing Loss in adults (Deafness in adults)",
-   "Disease Type": "Vision and Hearing",
-   "Category": "Cat 2",
-   "Test": "Audiometry",
-   "Test Type": "",
-   "General Population Recommendation": "",
-   "Notes": "High Risk Group: All persons exposed to excessive noise must undergo pre-employment and annual medical examinations which include audiometry under the Workplace Safety and Health (Medical Examinations) Regulations by Ministry of Manpower.",
-   "Factors for Screening Recommendation": "Profession",
    ".": ""
  },
  {

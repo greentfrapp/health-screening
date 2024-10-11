@@ -1,5 +1,6 @@
 import { createWebHistory, createRouter } from 'vue-router'
 import Main from '@/pages/Main.vue'
+import About from '@/pages/About.vue'
 import Search from '@/pages/Search.vue'
 
 export const routes = [
@@ -13,10 +14,15 @@ export const routes = [
     name: 'Search',
     component: Search,
   },
+  {
+    path: '/about',
+    name: 'About',
+    component: About,
+  },
 ]
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHistory('/health-screening'),
   routes,
 })
 

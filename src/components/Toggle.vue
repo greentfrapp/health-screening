@@ -1,5 +1,5 @@
 <template>
-  <button class="border-4 rounded-full px-3 py-0.5 hover:border-yellow-400 text-sm lg:text-base"
+  <button class="rounded-full px-4 py-1"
     :class="toggleClass">
     <slot></slot>
   </button>
@@ -16,7 +16,7 @@ const props = defineProps({
 
 const toggleClass = computed(() => {
   return props.active ?
-    'bg-yellow-300 border-yellow-300' :
-    'bg-white'
+    'bg-red-100' :
+    'bg-neutral-100'
 })
 </script>

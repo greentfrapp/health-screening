@@ -10,4 +10,8 @@ export default defineConfig({
     },
   },
   plugins: [vue()],
+  base: "https://greentfrapp.github.io/health-screening",
+  build: {
+    outDir: './docs'
+  }
 })
