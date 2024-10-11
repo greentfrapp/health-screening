@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-white flex flex-col items-center gap-10 py-10 max-w-[500px] mx-auto">
+  <div class="bg-white flex flex-col items-center gap-10 py-10 pb-20 max-w-[500px] mx-auto overflow-auto">
     <img src="@/assets/report.jpg" class="w-[150px]" />
     <div class="px-8 space-y-4" v-html="converter.makeHtml(copy)"></div>
   </div>
