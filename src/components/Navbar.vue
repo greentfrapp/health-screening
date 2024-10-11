@@ -23,7 +23,7 @@ import { useRoute } from 'vue-router'
 
 const links = [
   {
-    label: 'Home',
+    label: 'Discover',
     link: '/',
   },
   {

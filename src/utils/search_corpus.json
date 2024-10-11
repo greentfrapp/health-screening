@@ -11,7 +11,7 @@
    ".": ""
  },
  {
-   "Disease": "Cervical Dysplasia/ Cervical Intraepithelial Lesion /Cervical Cancer",
+   "Disease": "Cervical Dysplasia/Cervical Intraepithelial Lesion/Cervical Cancer",
    "Disease Type": "Cancer",
    "Category": "Cat 1",
    "Test": "Pap Smear",
@@ -22,7 +22,7 @@
    ".": ""
  },
  {
-   "Disease": "Cervical Dysplasia/ Cervical Intraepithelial Lesion /Cervical Cancer",
+   "Disease": "Cervical Dysplasia/Cervical Intraepithelial Lesion/Cervical Cancer",
    "Disease Type": "Cancer",
    "Category": "Cat 1",
    "Test": "Human Papilloma Virus (HPV) Testing",
@@ -355,7 +355,7 @@
    "Disease": "Antenatal and Foetal Abnormalities (Congenital)",
    "Disease Type": "Congenital and Pediatric",
    "Category": "Cat 2",
-   "Test": "Screening tests done in pregnancy or antenatal screening tests (e.g.obstetric ultrasound foetal anomaly screening)",
+   "Test": "Screening tests done in pregnancy or antenatal screening tests (e.g. obstetric ultrasound foetal anomaly screening)",
    "Test Type": "Ultrasound",
    "General Population Recommendation": "",
    "Notes": "All women should be offered an obstetric ultrasound before 22 weeks gestation. This will include an ultrasound for foetal morphology and placenta localisation usually at 18 to 22 weeks gestation.",
@@ -682,7 +682,7 @@
    ".": ""
  },
  {
-   "Disease": "Osteoporosis/ Osteopenia",
+   "Disease": "Osteoporosis/Osteopenia",
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 2",
    "Test": "Bone Mineral Density (BMD) Scan",
@@ -693,7 +693,7 @@
    ".": ""
  },
  {
-   "Disease": "Thyroid Disorder (Thyroid Abnormality/ Thyroid Dysfunction)",
+   "Disease": "Thyroid Disorder (Thyroid Abnormality/Thyroid Dysfunction)",
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 2",
    "Test": "Thyroid Function Test (TFT)",
@@ -770,7 +770,7 @@
    ".": ""
  },
  {
-   "Disease": "Cervical Dysplasia/ Cervical Intraepithelial Lesion /Cervical Cancer",
+   "Disease": "Cervical Dysplasia/Cervical Intraepithelial Lesion/Cervical Cancer",
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "CT Pelvis",
@@ -781,7 +781,7 @@
    ".": ""
  },
  {
-   "Disease": "Cervical Dysplasia/ Cervical Intraepithelial Lesion /Cervical Cancer",
+   "Disease": "Cervical Dysplasia/Cervical Intraepithelial Lesion/Cervical Cancer",
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "Ultrasound Pelvis",
@@ -1045,7 +1045,7 @@
    ".": ""
  },
  {
-   "Disease": "Osteoporosis/ Osteopenia",
+   "Disease": "Osteoporosis/Osteopenia",
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 3",
    "Test": "Erythrocyte Sedimentation Rate (ESR)",
@@ -1056,7 +1056,7 @@
    ".": ""
  },
  {
-   "Disease": "Osteoporosis/ Osteopenia",
+   "Disease": "Osteoporosis/Osteopenia",
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 3",
    "Test": "Serum Calcium",
@@ -1067,7 +1067,7 @@
    ".": ""
  },
  {
-   "Disease": "Osteoporosis/ Osteopenia",
+   "Disease": "Osteoporosis/Osteopenia",
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 3",
    "Test": "Serum Phosphate",
@@ -1078,7 +1078,7 @@
    ".": ""
  },
  {
-   "Disease": "Osteoporosis/ Osteopenia",
+   "Disease": "Osteoporosis/Osteopenia",
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 3",
    "Test": "Quantitative Ultrasound Scan (QUS) of the Calcaneum",
