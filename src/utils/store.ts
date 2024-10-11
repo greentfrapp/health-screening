@@ -6,7 +6,8 @@ import searchCorpus from '@/utils/search_corpus.json'
 export const useStore = defineStore(
   'store', {
     state: () => ({
-      showDisclaimer: true,
+      showSurveyIntro: true,
+      showSearchIntro: true,
       ageGroup: useStorage('ageGroup', AgeGroup._25_TO_39),
       sex: useStorage('sex', Sex.FEMALE),
       lifestyle: useStorage('lifestyle', []) as RemovableRef<Lifestyle[]>,
@@ -31,6 +32,11 @@ export const useStore = defineStore(
         if (state.searchTestCategory.length) {
           results = results.filter(r => {
             return state.searchTestCategory.some(c => c === r.Category)
+          })
+        }
+        if (state.searchDiseaseType.length) {
+          results = results.filter(r => {
+            return state.searchDiseaseType.some(c => c === r['Disease Type'])
           })
         }
         return results

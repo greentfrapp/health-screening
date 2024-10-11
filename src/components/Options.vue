@@ -1,9 +1,9 @@
 <template>
-  <div class="h-1/2 w-full lg:h-full lg:w-1/2 space-y-4 lg:space-y-6 overflow-auto p-2 lg:p-4">
+  <div class="grow shrink w-full lg:h-full lg:w-1/2 space-y-4 lg:space-y-6 overflow-auto p-4 lg:p-4 pb-10">
     <div v-for="option in options" class="space-y-2">
-      <Header2>
+      <Label>
         {{ option.label }}
-      </Header2>
+      </Label>
       <div class="flex flex-wrap gap-1">
         <Toggle v-for="i in getOptions(option.label)"
           :active="optionIsActive(option.key, i)"
@@ -15,7 +15,7 @@
   </div>
 </template>
 <script setup lang="ts">
-import Header2 from './Header2.vue';
+import Label from './Label.vue'
 import Toggle from './Toggle.vue'
 import {
   AgeGroup, FamilyHistory, Lifestyle,

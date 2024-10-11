@@ -1,8 +1,8 @@
 <template>
   <div class="text-sm space-y-2 pt-2">
-    <div v-for="filter in filters">
-      <div class="font-semibold text-xs uppercase">{{ filter.label }}</div>
-      <div class="flex flex-wrap gap-0.5">
+    <div v-for="filter in filters" class="space-y-1">
+      <Label>{{ filter.label }}</Label>
+      <div class="flex flex-wrap gap-1">
         <Toggle v-for="i in filter.options"
           :active="optionIsActive(filter.key, i.value)"
           @click="handleOptionClick(filter.key, i.value)">
@@ -15,6 +15,7 @@
 <script setup lang="ts">
 import { useStore } from '@/utils/store'
 import Toggle from './SmallToggle.vue'
+import Label from './Label.vue'
 import { SearchOptionKey } from '@/utils/types'
 
 const store = useStore()
@@ -48,18 +49,18 @@ const diseaseTypes = [
   },
   {
     label: 'Musculoskeletal',
-    value: 'Musculoskeletal',
+    value: 'MSK',
   },
   {
-    label: 'Ob-Gyn',
-    value: 'Ob-Gyn',
+    label: 'OB/GYN',
+    value: 'OB/GYN',
   },
   {
-    label: 'Vision/Hearing',
-    value: 'Vision/Hearing',
+    label: 'Vision and Hearing',
+    value: 'Vision and Hearing',
   },
   {
-    label: 'Pediatric',
+    label: 'Congenital and Pediatric',
     value: 'Congenital and Pediatric',
   },
   {
