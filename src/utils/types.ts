@@ -13,7 +13,7 @@ export enum Sex {
 export enum FamilyHistory {
   BREAST_CANCER = "Breast cancer",
   COLORECTAL_CANCER = "Colorectal cancer",
-  NOSE_CANCER = "Nose cancer",
+  NOSE_CANCER = "Nasopharyngeal cancer",
   PROSTATE_CANCER = "Prostate cancer",
   DIABETES = "Diabetes",
   HIGH_CHOLESTROL = "High cholestrol",
