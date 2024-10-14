@@ -2,6 +2,8 @@ import { defineStore } from 'pinia'
 import { useStorage, RemovableRef } from '@vueuse/core'
 import { AgeGroup, FamilyHistory, Lifestyle, MedicalHistory, Sex } from './types'
 import searchCorpus from '@/utils/search_corpus.json'
+import { Router, useRouter } from 'vue-router'
+import { nextTick } from 'vue'
 
 export const useStore = defineStore(
   'store', {
@@ -43,6 +45,14 @@ export const useStore = defineStore(
       },
     },
     actions: {
+      async syncSearchParams(this, router: Router) {
+        await nextTick()
+        router.push({ path: '/search', query: {
+          q: this.searchQuery || undefined,
+          testCategories: this.searchTestCategory,
+          diseaseTypes: this.searchDiseaseType,
+        } })
+      },
     },
   }
 )
