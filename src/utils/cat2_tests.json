@@ -11,7 +11,7 @@
         ]
       }
     ],
-    "descriptionHTML": "<p>Women with Hereditary Non-Polyposis Colon Cancer (HNPCC) or Lynch Syndrome, who are at higher risk for endometrial cancer, may consider annual screening via <b>pelvic ultrasound</b>, starting between the ages of 30 and 35.</p>",
+    "descriptionHTML": "Endometrial cancer refers to a type of cancer in the womb lining.\n\nWomen with Hereditary Non-Polyposis Colon Cancer (HNPCC) or Lynch Syndrome, who are at higher risk for endometrial cancer, may consider annual screening via **pelvic ultrasound**, starting between the ages of 30 and 35.",
     "riskGroups": [
       "Lynch syndrome"
     ]
@@ -25,7 +25,7 @@
         ]
       }
     ],
-    "descriptionHTML": "<p>Individuals with Hereditary Non-Polyposis Colon Cancer (HNPCC) or Lynch Syndrome, who are at higher risk for gastric cancer, may benefit from screening with <b>oesophago-gastro duodenoscopy (OGD)</b>, starting from age 30 to 35 years. A frequency of 2 to 3 years is recommended, based on the individual's risk factors.</p>",
+    "descriptionHTML": "Gastric cancer refers to cancers that occur in the stomach.\n\nIndividuals with Hereditary Non-Polyposis Colon Cancer (HNPCC) or Lynch Syndrome, who are at higher risk for gastric cancer, may benefit from screening with **oesophago-gastro duodenoscopy (OGD)**, starting from age 30 to 35 years. A frequency of 2 to 3 years is recommended, based on the individual's risk factors.",
     "riskGroups": [
       "Lynch syndrome"
     ]
@@ -40,7 +40,7 @@
         ]
       }
     ],
-    "descriptionHTML": "<p>High-risk individuals should perform either a <b>hepatobiliary system ultrasound (US HBS)</b> or a <b>Alpha-Fetoprotein (AFP) test</b> on a six monthly basis. There is no definite recommended age to start surveillance although local statistics show that liver cancer incidence starts to increase from the 40 to 49 age group.</p>",
+    "descriptionHTML": "High-risk individuals should perform either a **hepatobiliary system ultrasound (US HBS)** or a **Alpha-Fetoprotein (AFP) test** on a six-monthly basis. There is no definite recommended age to start surveillance although local (Singapore) statistics show that liver cancer incidence starts to increase from the 40 to 49 age group.",
     "riskGroups": [
       "Hepatitis B",
       "Liver cirrhosis"
@@ -59,23 +59,23 @@
         ]
       }
     ],
-    "descriptionHTML": "<p>High-risk individuals aged between 55 to 74 can perform <b>low-dose CT screening</b> on an annual basis. But this should be balanced with the unnecessary exposure to radiation, financial costs of CT screening, and a high rate of false positive findings.</p>",
+    "descriptionHTML": "High-risk individuals aged between 55 to 74 can perform **low-dose CT screening** on an annual basis. But this should be balanced with the unnecessary exposure to radiation, financial costs of CT screening, and a high rate of false positive findings.",
     "riskGroups": [
       "Smoked ≥ 30 pack years and still smoking or quit less than 15 years ago"
     ]
   },
   {
-    "condition": "Nose Cancer",
+    "condition": "Nasopharyngeal Cancer",
     "rules": [
       {
         "familyHistory": [
-          "Nose cancer"
+          "Nasopharyngeal Cancer"
         ]
       }
     ],
-    "descriptionHTML": "<p>High-risk individuals can perform a <b>tumor marker test for nose cancer (EBV-EA-EBNA-1)</b> and a <b>nasopharyngoscopy</b>. The tumor marker test alone without the endoscopy is not recommended.</p>",
+    "descriptionHTML": "Nasopharyngeal cancer (NPC) may also be referred to as nose cancer.\n\nHigh-risk individuals can perform a **tumor marker test for NPC (EBV-EA-EBNA-1)** and a **nasopharyngoscopy**. The tumor marker test alone without the endoscopy is not recommended.",
     "riskGroups": [
-      "First-degree relative with nose cancer"
+      "First-degree relative with NPC"
     ]
   },
   {
@@ -90,9 +90,9 @@
         ]
       }
     ],
-    "descriptionHTML": "<p>BRCA carriers can consider a <b>transvaginal pelvic ultrasound</b>. However, it can result in unnecessary surgeries with no clear mortality benefit.</p>",
+    "descriptionHTML": "Carriers of BRCA1, BRCA2, or PALB2 mutations may be at higher risk of ovarian cancer and can consider a **transvaginal pelvic ultrasound**. However, it can result in unnecessary surgeries with no clear mortality benefit.",
     "riskGroups": [
-      "Females with BRCA mutation"
+      "Carriers of BRCA1, BRCA2, PALB2, or other high-risk gene mutations"
     ]
   },
   {
@@ -101,7 +101,9 @@
       {
         "ageGroup": [
             "50 to 69"
-        ],
+        ]
+      },
+      {
         "sex": [
             "Male"
         ],
@@ -110,13 +112,13 @@
         ]
       }
     ],
-    "descriptionHTML": "<p>Men who are between 50 to 70 years of age, with an estimated life expectancy of more than 10 years, may be offered screening with the <b>prostate-specific antigen (PSA) tumor marker</b>, after a discussion of both the potential benefits and harms associated with prostate cancer screening.</p>",
+    "descriptionHTML": "Men who are between 50 to 70 years of age, with an estimated life expectancy of more than 10 years, may be offered screening with the **prostate-specific antigen (PSA) tumor marker**, after a discussion of both the potential benefits and harms associated with prostate cancer screening.",
     "riskGroups": [
       "First-degree relative with prostate cancer before age 65 years"
     ]
   },
   {
-    "condition": "Abdominal Aortic Aneurysm",
+    "condition": "Abdominal Aortic Aneurysm (AAA)",
     "rules": [
       {
         "ageGroup": [
@@ -131,7 +133,7 @@
         ]
       }
     ],
-    "descriptionHTML": "<p>High-risk individuals can perform a screening with <b>abdominal ultrasound</b>.</p>",
+    "descriptionHTML": "Abdominal aortic aneurysm (AAA) refers to an enlargement of the abdominal aorta, the main blood vessel carrying blood from the heart to the abdomen. An aneurysm can be life-threatening if it ruptures.\n\nHigh-risk individuals can perform a screening with **abdominal ultrasound**.",
     "riskGroups": [
       "Men aged 65 to 75 years who have ever smoked"
     ]
@@ -151,7 +153,7 @@
         ]
       }
     ],
-    "descriptionHTML": "<p>High-risk individuals can perform a screening via a <b>brain MRI</b>.</p>",
+    "descriptionHTML": "A cerebral aneurysm refers to an enlargement of a blood vessel in the brain. A ruptured cerebral aneurysm can cause life-threatening conditions such as a stroke.\n\nHigh-risk individuals can perform a screening via a **brain MRI**.",
     "riskGroups": [
       "Aneurysmal subarachnoid haemorrhage",
       "Autosomal dominant polycystic kidney disease (ADPKD)",
@@ -181,7 +183,7 @@
         ]
       }
     ],
-    "descriptionHTML": "<p>High-risk individuals may wish to perform any of the following screenings after a discussion of both the potential benefits and harms.</p><b><ul><li>ECG</li><li>hsCRP</li><li>Apolipoprotein A and B</li><li>Coronary artery calcium score (CACS)</li><li>Treadmill stress test</li></ul></b>",
+    "descriptionHTML": "Coronary heart disease or coronary artery disease (CAD) refers to damage or blockage to the heart's blood vessels, often due to the build-up of fats and cholestrol. This in turn increases the risk of a heart attack.\n\nHigh-risk individuals may wish to perform any of the following screenings after a discussion of both the potential benefits and harms with a healthcare professional.\n\n- **ECG**\n\n- **hsCRP**\n\n- **Apolipoprotein A and B**\n\n- **Coronary artery calcium score (CACS)**\n\n- **Treadmill stress test**",
     "riskGroups": [
       "Smoking",
       "First-degree relative with cardiovascular disease",
@@ -218,11 +220,11 @@
         ]
       }
     ],
-    "descriptionHTML": "<p>High-risk individuals can undergo the <b>ankle brachial index (ABI)</b>, a simple non-invasive test.</p>",
+    "descriptionHTML": "Peripheral vascular disease (PVD) refers to the constriction or blockage of blood vessels outside the heart, often affecting the legs.\n\nHigh-risk individuals can undergo the **ankle brachial index (ABI)**, a simple non-invasive test.",
     "riskGroups": [
       "Diabetes",
       "Aged 50 to 70 years who smoke",
-      "Aged 50 to 70 years with both hypertension and hyperlipidaemia"
+      "Aged 50 to 70 years with both high blood pressure and high cholestrol"
     ]
   },
   {
@@ -239,7 +241,7 @@
         ]
       }
     ],
-    "descriptionHTML": "<p>High-risk individuals can undergo the <b>urine PCR test</b> or a <b>cervical or urethral swab for PCR</b>.</p>",
+    "descriptionHTML": "Chlamydia and gonorrhoea are both sexually transmitted infections caused by different bacteria.\n\nHigh-risk individuals can undergo the **urine PCR test** or a **cervical or urethral swab for PCR**.",
     "riskGroups": [
       "At-risk sexual behaviour",
       "Other STIs"
@@ -255,13 +257,13 @@
         ]
       }
     ],
-    "descriptionHTML": "<p>High-risk individuals can perform the <b>Hepatitis B screen</b>. All pregnant women should be tested for Hepatitis B during early antenatal visit. There is good evidence that universal prenatal screening for HBV infection substantially reduces prenatal transmission of HBV and the subsequent development of chronic HBV infection.</p>",
+    "descriptionHTML": "Hepatitis B is a viral infection that affects the liver. It is commonly transmitted via exposure to body fluids, including sexual contact or blood.\n\nHigh-risk individuals can perform the **Hepatitis B screen**.\n\nAll pregnant women should be tested for Hepatitis B during early antenatal visit. There is good evidence that universal prenatal screening for HBV infection substantially reduces prenatal transmission of HBV and the subsequent development of chronic HBV infection.",
     "riskGroups": [
       "Healthcare workers",
       "Chronic haemodialysis patients",
       "HIV",
       "Travelers from countries where Hepatitis B is endemic",
-      "Potential exposure via blood, sexual activity, or other body fluid"
+      "Potential exposure via infected blood, sexual activity, or other body fluid"
     ]
   },
   {
@@ -273,13 +275,13 @@
         ]
       }
     ],
-    "descriptionHTML": "<p>High-risk individuals can perform the <b>Hepatitis C screen</b>.</p>",
+    "descriptionHTML": "Hepatitis C is a viral infection that affects the liver. It is primarily transmitted via exposure to infected blood.\n\nHigh-risk individuals can perform the **Hepatitis C screen**.",
     "riskGroups": [
       "Healthcare workers",
       "Chronic haemodialysis patients",
       "HIV",
       "Travelers from countries where Hepatitis C is endemic",
-      "Potential exposure via blood, sexual activity, or other body fluid"
+      "Potential exposure via infected blood"
     ]
   },
   {
@@ -299,7 +301,7 @@
         ]
       }
     ],
-    "descriptionHTML": "<p>High-risk individuals can perform the <b>HIV screen</b>. All pregnant women should be tested for HIV, since steps can be taken to prevent viral spread to the unborn baby and during delivery.</p>",
+    "descriptionHTML": "Human immunodeficiency virus (HIV) is a virus that affects the immune system and makes it harder to combat other diseases.\n\nHigh-risk individuals can perform the **HIV screen**. All pregnant women should be tested for HIV, since steps can be taken to prevent viral spread to the unborn baby and during delivery.",
     "riskGroups": [
       "Active tuberculosis infection",
       "Healthcare workers",
@@ -324,7 +326,7 @@
         ]
       }
     ],
-    "descriptionHTML": "<p>High-risk individuals can perform the <b>syphilis enzyme immunoassay</b> or other tests such as TPPA or TPHA. All pregnant women are recommended to screen for syphilis due to the high risk of infant morbidity and mortality.</p>",
+    "descriptionHTML": "Syphilis is a sexually transmitted infection that can eventually result in damage to multiple organs.\n\nHigh-risk individuals can perform the **syphilis enzyme immunoassay** or other tests such as **TPPA** or **TPHA**. All pregnant women are recommended to screen for syphilis due to the high risk of infant morbidity and mortality.",
     "riskGroups": [
       "Active tuberculosis infection",
       "Healthcare workers",
@@ -341,13 +343,13 @@
         ]
       }
     ],
-    "descriptionHTML": "<p>Tuberculosis is an airborne infectious disease that can be spread when patients cough or sneeze. Individuals with close contact to existing patients can perform the <b>Mantoux test</b> or a <b>chest X-ray</b>.</p>",
+    "descriptionHTML": "Tuberculosis is an airborne infectious disease that can be spread when patients cough or sneeze.\n\nIndividuals with close contact to existing patients can perform the **Mantoux test** or a **chest X-ray**.",
     "riskGroups": [
-      "Close contacts of infectious TB patients"
+      "Close contacts of infectious tuberculosis patients"
     ]
   },
   {
-    "condition": "Anemia",
+    "condition": "Anaemia",
     "rules": [
       {
         "medicalHistory": [
@@ -355,7 +357,7 @@
         ]
       }
     ],
-    "descriptionHTML": "<p>Screening is recommended for all pregnant women because anemia increases the risk of a premature birth, as well as the likelihood of a low birth weight baby and postpartum depression. Anemia can be screened via the <b>a full blood count test</b>.</p>"
+    "descriptionHTML": "Anaemia is a condition where the blood lacks sufficient healthy red blood cells and hemoglobin to carry oxygen throughout the body.\n\nScreening is recommended for all pregnant women because anaemia increases the risk of a premature birth, as well as the likelihood of a low birth weight baby and postpartum depression. Anaemia can be screened via the **a full blood count test**."
   },
   {
     "condition": "Kidney disease",
@@ -382,7 +384,7 @@
         ]
       }
     ],
-    "descriptionHTML": "<p>Screening for albuminuria, a type of kidney disorder, should be done annually after the diagnosis of diabetes (after 5 years for Type 1, immediately for Type 2), via the a <b>urine test for microalbumin/creatinine ratio</b>.</p><p>Other individuals at risk of kidney disease should also undergo <b>kidney function tests</b> or <b>urine analysis</b>.</p>",
+    "descriptionHTML": "Kidneys help to filter waste and excess fluid from the blood. Kidney disorders can lead to excess build up of waste and fluid in the body.\n\nFor diabetic patients, screening for albuminuria, a type of kidney disorder, should be done annually after the diagnosis of diabetes (after 5 years for Type 1, immediately for Type 2), via the **urine test for microalbumin/creatinine ratio**.\n\nOther individuals at risk of kidney disease should also undergo **kidney function tests** or **urine analysis**.",
     "riskGroups": [
       "Diabetes",
       "High blood pressure",
@@ -412,7 +414,7 @@
         ]
       }
     ],
-    "descriptionHTML": "<p>For females, the <a href=\"https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Conditions-and-Treatments-Details.aspx?condition=Osteoporosis-Self-Assessment-Tool-for-Asians-OSTA\">Osteoporosis Self-Assessment Tool (OSTA)</a> for postmenopausal Asian women should be used as a risk assessment tool first before deciding on whether a <b>bone mass density (BMD) measurement</b> should be offered.</p>",
+    "descriptionHTML": "Osteoporosis is a condition where bones become increasingly weak and brittle. Post-menopausal white and Asian women are typically at the highest risk.\n\nFor Asian females, the [Osteoporosis Self-Assessment Tool (OSTA)](https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Conditions-and-Treatments-Details.aspx?condition=Osteoporosis-Self-Assessment-Tool-for-Asians-OSTA) for postmenopausal Asian women should be used as a risk assessment tool first before deciding on whether a **bone mass density (BMD) measurement** or **DEXA scan** should be offered.",
     "riskGroups": [
       "Postmenopausal Asian women with a high score for the OSTA"
     ]
@@ -428,9 +430,9 @@
         ]
       }
     ],
-    "descriptionHTML": "<p>High-risk individuals can perform the <b>thyroid function test (TFT)</b>.</p><p>Additionally, for obese individuals, hypothyroidism may be a potential cause.</p><p>Pregnant women who have diabetes or adrenal disease may develop goitre during pregnancy, potentially causing mental retardation in the baby. TFT should be performed once early on during pregnancy.</p>",
+    "descriptionHTML": "The thyroid gland helps to regulate body functions by producing hormones. A thyroid disorder can affect other body functions.\n\nHigh-risk individuals can perform the **thyroid function test (TFT)**.\n\nAdditionally, for obese individuals, hypothyroidism may be a potential cause.\n\nPregnant women who have diabetes or adrenal disease may develop goitre (enlarged thyroid) during pregnancy, potentially causing mental retardation in the infant. TFT should be performed once early on during pregnancy.",
     "riskGroups": [
-      "Pregnancy",
+      "Pregnancy with diabetes or adrenal disease",
       "Obesity",
       "Autoimmune disease"
     ]
@@ -444,7 +446,7 @@
         ]
       }
     ],
-    "descriptionHTML": "<p>All patients diagnosed with diabetes require regular visual acuity assessment and eye examinations by trained personnel to screen for diabetic retinopathy. Type 1 diabetic patients should be examined 3 to 5 years after diagnosis of diabetes, and at least once yearly subsequently. Type 2 diabetic patients should have an ocular assessment at the time of diagnosis and at least once yearly subsequently.</p>",
+    "descriptionHTML": "Diabetic retinopathy refers to vision loss when high blood sugar causes damage to blood vessels in the eyes.\n\nAll patients diagnosed with diabetes require **regular visual acuity assessment and eye examinations** by trained personnel to screen for diabetic retinopathy. Type 1 diabetic patients should be examined 3 to 5 years after diagnosis of diabetes, and at least once yearly subsequently. Type 2 diabetic patients should have an ocular assessment at the time of diagnosis and at least once yearly subsequently.",
     "riskGroups": [
       "Diabetes"
     ]

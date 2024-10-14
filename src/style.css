@@ -19,11 +19,16 @@ a {
   text-decoration: underline;
 }
 
-b, h3 {
+b, h3, strong {
   font-weight: 600;
 }
 
 ul {
-  margin-left: -3.5px;
+  margin-left: 20px;
   list-style-position: outside;
+  list-style-type: disc;
+}
+
+li p {
+  display: inline;
 }

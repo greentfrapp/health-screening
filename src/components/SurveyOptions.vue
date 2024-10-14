@@ -5,7 +5,7 @@
         {{ option.label }}
       </Label>
       <div class="flex flex-wrap gap-1">
-        <Toggle v-for="i in getOptions(option.label)"
+        <Toggle v-for="i in Object.values(getOptions(option.label)).sort()"
           :active="optionIsActive(option.key, i)"
           @click="handleOptionClick(option.key, i)">
           {{ i }}

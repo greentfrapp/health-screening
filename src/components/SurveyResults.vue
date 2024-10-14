@@ -15,11 +15,11 @@
           class="bg-white border-4 border-red-100 rounded-3xl p-1 py-3 space-y-2">
           <Header2 class="mx-2">{{ test.condition }}</Header2>
           <div class="space-y-2">
-            <div class="space-y-1 mx-2" :innerHTML="test.descriptionHTML"></div>
+            <div class="space-y-1 mx-2" :innerHTML="converter.makeHtml(test.description || test.descriptionHTML)"></div>
             <div class="px-1 pt-1" v-if="test.riskGroups && test.riskGroups.length">
-              <Collapsible label="High-risk groups"
+              <Collapsible label="High-risk factors"
                 class="w-full bg-red-100 text-sm px-2 py-0.5 rounded-lg">
-                <ul class="pt-1 space-y-0.5">
+                <ul class="highrisk pt-1 space-y-0.5">
                   <li v-for="g in test.riskGroups" class="flex gap-0.5">
                     <div class="w-4 h-4 mt-1 shrink-0 flex items-center justify-center">
                       <BulletIcon class="w-1.5 h-1.5" />
@@ -53,6 +53,12 @@
     height: 100%;
   }
 }
+
+ul.highrisk {
+  margin-left: -3.5px;
+  list-style-position: outside;
+  list-style-type: disc;
+}
 </style>
 <script setup lang="ts">
 import cat1Tests from '@/utils/cat1_tests.json'
@@ -68,6 +74,9 @@ import {
 } from '@heroicons/vue/20/solid'
 import { targetBlank } from '@/utils/utils'
 import BulletIcon from './icons/BulletIcon.vue'
+import showdown from 'showdown'
+
+const converter = new showdown.Converter()
 
 const store = useStore()
 const tests = ([] as any[]).concat(cat1Tests, cat2Tests)
