@@ -1,8 +1,8 @@
 import { defineStore } from 'pinia'
 import { useStorage, RemovableRef } from '@vueuse/core'
-import { AgeGroup, FamilyHistory, Lifestyle, MedicalHistory, Sex } from './types'
+import { AgeGroup, FamilyHistory, Lifestyle, MedicalHistory, MedicalHistoryFemale, Sex } from './types'
 import searchCorpus from '@/utils/search_corpus.json'
-import { Router, useRouter } from 'vue-router'
+import { Router } from 'vue-router'
 import { nextTick } from 'vue'
 
 export const useStore = defineStore(
@@ -14,7 +14,7 @@ export const useStore = defineStore(
       sex: useStorage('sex', Sex.FEMALE),
       lifestyle: useStorage('lifestyle', []) as RemovableRef<Lifestyle[]>,
       familyHistory: useStorage('familyHistory', []) as RemovableRef<FamilyHistory[]>,
-      medicalHistory: useStorage('medicalHistory', []) as RemovableRef<MedicalHistory[]>,
+      medicalHistory: useStorage('medicalHistory', []) as RemovableRef<(MedicalHistory|MedicalHistoryFemale)[]>,
       searchQuery: '',
       searchTestCategory: [] as any[],
       searchDiseaseType: [] as any[],
