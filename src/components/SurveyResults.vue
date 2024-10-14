@@ -20,7 +20,10 @@
               <Collapsible label="High-risk groups"
                 class="w-full bg-red-100 text-sm px-2 py-0.5 rounded-lg">
                 <ul class="pt-1 space-y-0.5">
-                  <li v-for="g in test.riskGroups">
+                  <li v-for="g in test.riskGroups" class="flex gap-0.5">
+                    <div class="w-4 h-4 mt-1 shrink-0 flex items-center justify-center">
+                      <BulletIcon class="w-1.5 h-1.5" />
+                    </div>
                     {{ g }}
                   </li>
                 </ul>
@@ -64,6 +67,7 @@ import {
   ArrowsPointingOutIcon,
 } from '@heroicons/vue/20/solid'
 import { targetBlank } from '@/utils/utils'
+import BulletIcon from './icons/BulletIcon.vue'
 
 const store = useStore()
 const tests = ([] as any[]).concat(cat1Tests, cat2Tests)

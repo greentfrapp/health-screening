@@ -24,10 +24,6 @@ b, h3 {
 }
 
 ul {
+  margin-left: -3.5px;
   list-style-position: outside;
-  list-style-type: disc;
-}
-
-li {
-  margin-left: 15px;
 }
