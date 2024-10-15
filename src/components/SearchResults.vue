@@ -36,7 +36,14 @@ import { useStore } from '@/utils/store'
 import Header2 from '@/components/Header2.vue'
 import showdown from 'showdown'
 import Collapsible from './Collapsible.vue'
+import { nextTick, watch } from 'vue'
+import { targetBlank } from '@/utils/utils'
 
 const store = useStore()
 const converter = new showdown.Converter()
+
+watch(() => store.searchResults.length, async () => {
+  await nextTick()
+  targetBlank()
+}, { immediate: true })
 </script>
