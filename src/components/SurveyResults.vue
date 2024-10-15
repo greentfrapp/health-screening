@@ -1,7 +1,7 @@
 <template>
   <div class="shrink-0 w-full lg:h-full lg:w-1/2 overflow-hidden shadow-3xl lg:shadow-none flex flex-col items-center"
     :class="[expandResults ? 'expanded' : 'collapsed']">
-    <div class="overflow-hidden flex flex-col lg:w-[90%] lg:h-[90%] lg:shadow-lg lg:border lg:rounded-xl">
+    <div class="overflow-hidden flex flex-col lg:w-[95%] lg:h-[95%] lg:shadow-lg lg:border lg:rounded-xl">
       <div class="font-medium text-center shrink-0 p-2 relative text-neutral-600"
         @click="expandResults = !expandResults">
         {{ relevantTests.length }} suggestion{{ relevantTests.length !== 1 ? 's' : '' }}
