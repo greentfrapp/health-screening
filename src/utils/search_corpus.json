@@ -4,12 +4,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 1",
    "Test": "Mammogram",
-   "Tags": "",
    "Test Type": "X-ray",
    "General Population Recommendation": "All normal risk, asymptomatic women 50 to 69 years of age should be screened with mammography only, every 2 years.",
    "Individual Recommendation": "",
    "Notes": "The underlying premise for breast cancer screening is that it allows for the detection of breast cancers before they become palpable. Small tumours are more likely to be early stage disease, having better prognosis, and are more successfully treated.\nMammography-based screening is widely accepted as appropriate and beneficial for women above the age of 50. Combined analysis of eight prospective randomized clinical trials suggest that screening mammography produced a mortality benefit of approximately 22% for women aged 50 to 69 years old in populations invited to screening. For women aged 40 to 49, there is great variation on recommendations for mammographic screening. The additional mortality benefit is small for initiating screening at 40 instead of 50 years old, although it saves more life-years at a population level. The peak incidence of breast cancer in Singapore also continues to shift towards 60 years old. The recommendations for the 40 to 49 years old age group in Singapore are based on a balance between international guidelines and practice, the low incidence, higher costs and higher false positive rate of mammographic detection in this age group.\nClinicians should discuss with women at normal risk aged 40 to 49 years old about the potential benefits, limitations and harms associated with screening mammography so that an informed choice can be made about attending breast cancer screening. They should base screening mammography decisions on the benefits and harms of screening, as well as on the woman’s preferences and breast cancer risk profile. If screening is to be performed, it should be done annually.\nPotential risks of mammography include false-positive results, diagnosis and treatment for cancer that would not have become clinically evident during the patient's lifetime (over diagnosis), radiation exposure, false reassurance, and procedure-associated problems. False-positive mammography can lead to increased anxiety and to feelings of increased susceptibility to breast cancer, as well as unnecessary diagnostic tests. Women with false negative mammograms may be given false assurance. Up to one-fourth of all invasive breast cancers are not detected by mammography in 40 to 49 years old, compared with one-tenth of breast cancers in 50 to 69 years old. The diagnosis and treatment of breast cancer may be delayed because of a \"normal\" mammogram.",
    "Factors for Screening Recommendation": "Age, Gender",
+   "Tags": "",
    ".": ""
  },
  {
@@ -17,12 +17,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 1",
    "Test": "Pap Smear",
-   "Tags": "Cervix",
    "Test Type": "",
    "General Population Recommendation": "All women who have ever had sexual intercourse should undergo screening for cervical cancer from the age of 25. Women aged 25 to 29 years should be screened with the Pap smear, at least once every 3 years.",
    "Individual Recommendation": "",
    "Notes": "Women from age 30 years and above should be screened with HPV testing. In the event that they are screened positive for non 16 or 18 HPV strains, a Pap smear should be performed.\nHPV testing using the Cobas HPV Test (Roche Molecular Systems, Inc) was approved by the US Food and Drug Administration (FDA) in April 2014 for primary cervical cancer screening. HPV Testing for primary cervical screening allows for less frequent screening and helps to identify women who need increased surveillance.\nStudies have shown that compared with cytology, HPV DNA testing is more sensitive for identifying women who have CIN2+ (95% versus 55%). According to Ronco et al., a screening interval of at least 5 years for hrHPV screening is safer than cytology every 3 years.\nHowever, HPV testing has lower specificity compared with cytology (94% versus 97%). Current screening guidelines recommend initiation of HPV testing at 30 years of age. Primary HPV screening at age 25 years may lead to increased colposcopies and unnecessary intervention; progression of dysplasia to cancer is uncommon in this age group; detection of most of the disease found in this age group can be safely deferred until age 30 and older; and it is unclear that identification of these women with CIN3+ would translate into a meaningful reduction of cervical cancer. Hence HPV testing in women younger than 30 years would have even lower specificity and not be useful in these women where there is a higher incidence of high risk HPV infection which is often regressive in nature.\nHPV testing should **not** be used:\na. For screening before deciding on HPV vaccination\nb. For routine Sexually Transmitted Infection (STI) screening\nc. To screen women < 30 years old.\nThe overall effect of HPV vaccination on high grade lesions and cervical cancer is not yet established. It is presumed that vaccination would reduce the need for screening. However, current trials do not provide data on long term efficacy and the effects of vaccination would only be seen in 10 to 20 years’ time. Hence, women who have been vaccinated should continue to be screened according to the proposed protocol.",
    "Factors for Screening Recommendation": "Age, Gender",
+   "Tags": "Cervix",
    ".": ""
  },
  {
@@ -30,12 +30,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 1",
    "Test": "Human Papilloma Virus (HPV) Testing",
-   "Tags": "Cervix",
    "Test Type": "",
    "General Population Recommendation": "Primary HPV testing is not recommended for women from the age of 25 to 29.\nWomen aged 30 years and above should be screened with HPV testing. This should be performed at least once every 5 years.",
    "Individual Recommendation": "",
    "Notes": "Women from age 30 years and above should be screened with HPV testing. In the event that they are screened positive for non 16 or 18 HPV strains, a Pap smear should be performed.\nHPV testing using the Cobas HPV Test (Roche Molecular Systems, Inc) was approved by the US Food and Drug Administration (FDA) in April 2014 for primary cervical cancer screening. HPV Testing for primary cervical screening allows for less frequent screening and helps to identify women who need increased surveillance.\nStudies have shown that compared with cytology, HPV DNA testing is more sensitive for identifying women who have CIN2+ (95% versus 55%). According to Ronco et al., a screening interval of at least 5 years for hrHPV screening is safer than cytology every 3 years.\nHowever, HPV testing has lower specificity compared with cytology (94% versus 97%). Current screening guidelines recommend initiation of HPV testing at 30 years of age. Primary HPV screening at age 25 years may lead to increased colposcopies and unnecessary intervention; progression of dysplasia to cancer is uncommon in this age group; detection of most of the disease found in this age group can be safely deferred until age 30 and older; and it is unclear that identification of these women with CIN3+ would translate into a meaningful reduction of cervical cancer. Hence HPV testing in women younger than 30 years would have even lower specificity and not be useful in these women where there is a higher incidence of high risk HPV infection which is often regressive in nature.\nHPV testing should **not** be used:\na. For screening before deciding on HPV vaccination\nb. For routine Sexually Transmitted Infection (STI) screening\nc. To screen women < 30 years old.\nThe overall effect of HPV vaccination on high grade lesions and cervical cancer is not yet established. It is presumed that vaccination would reduce the need for screening. However, current trials do not provide data on long term efficacy and the effects of vaccination would only be seen in 10 to 20 years’ time. Hence, women who have been vaccinated should continue to be screened according to the proposed protocol.",
    "Factors for Screening Recommendation": "Age, Gender",
+   "Tags": "Cervix",
    ".": ""
  },
  {
@@ -43,12 +43,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 1",
    "Test": "Colonoscopy",
-   "Tags": "\"Colon, Rectum\"",
    "Test Type": "Scope",
    "General Population Recommendation": "Colonoscopy is one of the recommended screening tests for the average risk asymptomatic population, from age 50 years. For screening the general population at average risk, colonoscopy should be performed at an interval of no more than 5 to 10 years.\nRecommended testing age and frequency differs for increased-risk and high-risk populations.",
    "Individual Recommendation": "",
-   "Notes": "For individuals at increased risk or high risk, screening by colonoscopy is also indicated. Please refer to the table in page 14 of the report.",
+   "Notes": "For individuals at increased risk or high risk, screening by colonoscopy is also indicated. Please refer to the table in page 14 of the [report](https://www.ams.edu.sg/view-pdf.aspx?file=media%5c4817_fi_59.pdf&ofile=STRC+Report+March+2019.pdf).",
    "Factors for Screening Recommendation": "Age, Family History, Medical History",
+   "Tags": "\"Colon, Rectum\"",
    ".": ""
  },
  {
@@ -56,12 +56,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 1",
    "Test": "Faecal Immunochemical Test (FIT)",
-   "Tags": "\"Colon, Rectum\"",
    "Test Type": "Stool",
    "General Population Recommendation": "For average-risk individuals, screening for colorectal cancer should begin at age 50 years.\nFIT is one of the recommended screening tests and should be performed annually.\nAverage-risk individuals refer to asymptomatic individuals and individuals who do not have a family history of colorectal cancer, as well as those with family history confined to non-first degree relatives or relatives older than 60 years old.",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "Age, Family History",
+   "Tags": "\"Colon, Rectum\"",
    ".": ""
  },
  {
@@ -69,12 +69,12 @@
    "Disease Type": "Congenital and Pediatric",
    "Category": "Cat 1",
    "Test": "Visual Acuity Test",
-   "Tags": "\"Eye, Vision, Visual, Sight\"",
    "Test Type": "Eye",
    "General Population Recommendation": "For children aged 3 years and above.",
    "Individual Recommendation": "",
    "Notes": "The USPSTF recommends vision screening for all children at least once between the ages of 3 and 5 years, to detect the presence of amblyopia or its risk factors. The most common causes of vision impairment in children are amblyopia and associated risk factors (strabismus, anisometropia, astigmatism, and hyperopia) and refractive errors not associated with amblyopia.\nIn its assessment, the USPSTF found adequate evidence that treatment for amblyopia or unilateral refractive errors is associated with moderate improvements in visual acuity for children 3 to 5 years of age and, in theory, permanent improvements throughout life. Although the average improvement in visual acuity resulting from treatment for amblyopia was ~1 line on a Snellen eye chart, the USPSTF concluded that the benefits are moderate because untreated amblyopia results in permanent, uncorrectable vision loss and the potential benefits are experienced over the individual's life span. Harms from treatment seem to be minimal. Therefore, the USPSTF concluded with moderate certainty that the overall net benefit is moderate.\nUnder the National Myopia Prevention Programme under the auspices of the Health Promotion Board, yearly vision screening is conducted for Kindergarten 1 and Kindergarten 2 students in all pre-schools. For the primary and secondary students, visual acuity screening is conducted as part of the annual health screening by the School Health Service. Additionally, three-dimensional (3D) vision screening and colour vision screening are performed on all Primary 1 children.",
    "Factors for Screening Recommendation": "Age",
+   "Tags": "\"Eye, Vision, Visual, Sight\"",
    ".": ""
  },
  {
@@ -82,12 +82,12 @@
    "Disease Type": "Congenital and Pediatric",
    "Category": "Cat 1",
    "Test": "Cord Blood G6PD Screening",
-   "Tags": "Blood",
    "Test Type": "Blood",
    "General Population Recommendation": "All newborns in Singapore are screened for G6PD deficiency using umbilical cord blood.",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "Age",
+   "Tags": "Blood",
    ".": ""
  },
  {
@@ -95,12 +95,12 @@
    "Disease Type": "Congenital and Pediatric",
    "Category": "Cat 1",
    "Test": "Audiometry",
-   "Tags": "\"Ear, Hearing, Audio\"",
    "Test Type": "",
    "General Population Recommendation": "All newborns in Singapore are screened for congenital hearing impairment under the “Universal Newborn Hearing Screening” programme.",
    "Individual Recommendation": "",
    "Notes": "Screening is carried out using automated Auditory Brain-stem Response (AABR), Transient Evoked Oto-acoustic Emission (TEOAE) or Distortion Product Oto-Acoustic Emission (DPOAE). It should be completed preferably before hospital discharge, so that diagnosis of congenital hearing impairment can be confirmed before the infant is 3 months old and intervention can begin before the infant is 6 months old. This is in line with recommendations of the Joint Committee on Infant Hearing (JCIH) 2007 of the American Academy of Paediatrics (AAP).\nIn high-risk groups who have normal hearing screens at birth but remain at risk of progressive or delayed-onset hearing loss, repeat hearing screen is recommended, at up to 6-monthly intervals.\n*High-risk conditions for progressive or delayed-onset hearing loss*\na) Parental or caregiver concern over hearing or delayed language, speech or development\nb) Family history of permanent childhood hearing loss\nc) Clinical findings associated with syndromes that are known to include sensori-neural or conductive hearing loss\nd) Postnatal infections associated with sensori-neural hearing loss, including bacterial meningitis\ne) In utero infection with toxoplasmosis, rubella, cytomegalovirus, herpes or syphilis\nf) Neonatal conditions, specifically hyper-bilirubinaemia requiring exchange transfusion or persistent pulmonary hypertension requiring mechanical ventilation\ng) Syndromes associated with progressive hearing loss, such as neurofibromatosis\nh) Neuro-degenerative conditions (e.g. Hunter syndrome)\ni) Head trauma\nj) Recurrent or persistent otitis media with effusion for at least 3 months",
    "Factors for Screening Recommendation": "Age",
+   "Tags": "\"Ear, Hearing, Audio\"",
    ".": ""
  },
  {
@@ -108,12 +108,12 @@
    "Disease Type": "Congenital and Pediatric",
    "Category": "Cat 1",
    "Test": "Scoliometer",
-   "Tags": "Spine",
    "Test Type": "",
    "General Population Recommendation": "Screening examination for scoliosis should be conducted for all females and males during the early adolescent years.",
    "Individual Recommendation": "",
    "Notes": "Under the Health Promotion Board’s School Health Screening Programme, all adolescents would receive spinal screening. Females are screened at Primary 5 and 6, Secondary 1 and 2 to check for abnormal curvature of the backbone.\nMales are screened at Secondary 2.\nScoliosis screening should be aimed at identification of suspect cases of scoliosis for referral for early diagnostic evaluation and confirmation to facilitate non-surgical therapy (i.e. bracing), preventing the need for surgery, or to rule out suspicion. The Scoliosis Research Society International Task Force, an expert panel, recommends scoliometer (alone with an Adams Forward bending test) as the best tool in terms of reliability and validity to measure truncal asymmetry, a proxy for spinal deformities.",
    "Factors for Screening Recommendation": "Age",
+   "Tags": "Spine",
    ".": ""
  },
  {
@@ -121,12 +121,12 @@
    "Disease Type": "Congenital and Pediatric",
    "Category": "Cat 1",
    "Test": "Metabolic Screen (Tandem Mass Spectrometry (TMS))",
-   "Tags": "",
    "Test Type": "Blood",
    "General Population Recommendation": "Under the National Expanded Newborn Screening Programme, all neonates would undergo an additional newborn screening test called the Metabolic Screen. The metabolic screen tests newborn babies for a group of disorders called Inborn Errors of Metabolism (IEM). About 25 to 30 IEMs can be screened for from a blood spot using a novel technology called TMS.",
    "Individual Recommendation": "",
    "Notes": "The metabolic screen test using TMS has a high predictive value with a sensitivity of 96%, specificity 99.8% and recall rate 1.5 to 2%. Patients with grossly abnormal screening tests are referred to metabolic specialists for further management. Those with borderline abnormal results are recalled for a repeat screening test.",
    "Factors for Screening Recommendation": "Age",
+   "Tags": "",
    ".": ""
  },
  {
@@ -134,12 +134,12 @@
    "Disease Type": "Congenital and Pediatric",
    "Category": "Cat 1",
    "Test": "Thyroid Function Test (TFT)",
-   "Tags": "",
    "Test Type": "Blood",
    "General Population Recommendation": "All new-borns in Singapore will get their cord blood tested once for primary hypothyroidism with Thyroid-Stimulating Hormone (TSH). If TSH is abnormal, then free thyroxine (T4) is tested.",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "Age",
+   "Tags": "",
    ".": ""
  },
  {
@@ -147,12 +147,12 @@
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 1",
    "Test": "Fasting Blood Glucose",
-   "Tags": "\"High blood sugar, Glucose\"",
    "Test Type": "Blood",
    "General Population Recommendation": "Screening should begin at age 40 years, and be considered in adults of any age if any of the risk factors for diabetes is present. Subsequently, screening should be carried out every three years for those with normal glucose tolerance and annually for those with Impaired Fasting Glycaemia (IFG) or Impaired Glucose Tolerance (IGT).",
    "Individual Recommendation": "Risk factors for Diabetes Mellitus include (any one of the following):\na) Overweight/obesity (body mass index ≥25.0 kg/m2)\nb) Hypertension ≥140/90 mmHg) or on therapy for hypertension\nc) First degree relative with diabetes mellitus\nd) Women who have delivered a baby 4 kg or more; or previously diagnosed with gestational diabetes mellitus\ne) History of cardiovascular disease\nf) Women with polycystic ovary disease\ng) Patients who are diagnosed to have TB\nh) HDL cholesterol level <1.0 mmol/L (male), <1.3 mmol/L (female) and/or triglyceride level ≥2.2 mmol/L\ni) IFG or IGT on previous testing\nj) High risk race/ethnicity",
    "Notes": "",
    "Factors for Screening Recommendation": "Obesity, Medical History, Family History, Pregnancy, Age, Ethnicity",
+   "Tags": "\"High blood sugar, Glucose\"",
    ".": ""
  },
  {
@@ -160,12 +160,12 @@
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 1",
    "Test": "Glycosylated Haemoglobin (HbA1c)",
-   "Tags": "\"High blood sugar, Glucose\"",
    "Test Type": "Blood",
    "General Population Recommendation": "Screening should begin at age 40 years, and be considered in adults of any age if any of the risk factors for diabetes is present. Subsequently, screening should be carried out every three years for those with normal glucose tolerance and annually for those with Impaired Fasting Glycaemia (IFG) or Impaired Glucose Tolerance (IGT).\nHba1c is not suitable for use in individuals with the following medical conditions and/or physiological states: Haemoglobinopathies including thalassemia, iron deficiency anemia, vitamin B12/ folate deficiency, recent blood loss, haemolytic anemia, recent blood transfusion, chronic renal failure, chronic liver disease and pregnancy.",
    "Individual Recommendation": "Risk factors for Diabetes Mellitus include (any one of the following):\na) Overweight/obesity (body mass index ≥25.0 kg/m2)\nb) Hypertension ≥140/90 mmHg) or on therapy for hypertension\nc) First degree relative with diabetes mellitus\nd) Women who have delivered a baby 4 kg or more; or previously diagnosed with gestational diabetes mellitus\ne) History of cardiovascular disease\nf) Women with polycystic ovary disease\ng) Patients who are diagnosed to have TB\nh) HDL cholesterol level <1.0 mmol/L (male), <1.3 mmol/L (female) and/or triglyceride level ≥2.2 mmol/L\ni) IFG or IGT on previous testing\nj) High risk race/ethnicity",
    "Notes": "HbA1c has been adopted as a diagnostic test for DM by the World Health Organization (WHO), the International Expert Committee of the American Diabetes Association (ADA), as well as other countries such as UK, Australia, New Zealand, Japan and Malaysia.\nBased on analysis of local data from the National Health Survey (2010), both fasting blood glucose and HbA1c were found to be able to discriminate effectively between those with and without diabetes mellitus.",
    "Factors for Screening Recommendation": "Obesity, Medical History, Family History, Pregnancy, Age, Ethnicity",
+   "Tags": "\"High blood sugar, Glucose\"",
    ".": ""
  },
  {
@@ -173,12 +173,12 @@
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 1",
    "Test": "Fasting Lipids",
-   "Tags": "\"High cholestrol, Triglycerides, Fats\"",
    "Test Type": "Blood",
    "General Population Recommendation": "Screening should be carried out in all individuals aged 40 years and above. It is recommended that clinicians routinely screen younger adults (men and women aged 18 and older) for lipid disorders including hyperlipidaemia if they have other risk factors for coronary artery disease (CAD). If the results are within optimal range, screening should be repeated at 3 yearly intervals. For those assessed to be at very high risk or high risk of CAD in accordance to the Ministry of Health Clinical Practice Guidelines 2/2016, lipid screening should be repeated annually.",
    "Individual Recommendation": "In summary, the following groups are to be screened:\na) All individuals aged 40 years and above\nb) All first degree relatives of familial hypercholesterolemia patients.\n(Special consideration: Routine screening is generally not recommended in children. However, screening can be carried out from age of 2 years in children who have a first degree relative diagnosed with familial hypercholesterolemia, as this gives the opportunity to teach good eating practices)\nc) All adults with pre-existing CAD, cerebrovascular or peripheral artery disease irrespective of age\nd) All adults with diabetes mellitus irrespective of age\ne) All adults with IFG or IGT irrespective of age\nf) All adults aged 18 years and above who have other risk factors for CAD, which include:\n1. Multiple CAD risk factors (e.g. tobacco use, hypertension)\n2. A family history of cardiovascular disease before age 50 years in male relatives or before age 60 years in female relatives\n3. A family history suggestive of familial hyperlipidaemia",
    "Notes": "",
    "Factors for Screening Recommendation": "Age, Family History, Medical History, Lifestyle",
+   "Tags": "\"High cholestrol, Triglycerides, Fats\"",
    ".": ""
  },
  {
@@ -186,12 +186,12 @@
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 1",
    "Test": "Non-Fasting Lipids",
-   "Tags": "\"High cholestrol, Triglycerides, Fats\"",
    "Test Type": "Blood",
    "General Population Recommendation": "Screening should be carried out in all individuals aged 40 years and above. It is recommended that clinicians routinely screen younger adults (men and women aged 18 and older) for lipid disorders including hyperlipidaemia if they have other risk factors for coronary artery disease (CAD). If the results are within optimal range, screening should be repeated at 3 yearly intervals. For those assessed to be at very high risk or high risk of CAD in accordance to the Ministry of Health Clinical Practice Guidelines 2/2016, lipid screening should be repeated annually.",
    "Individual Recommendation": "In summary, the following groups are to be screened:\na) All individuals aged 40 years and above\nb) All first degree relatives of familial hypercholesterolemia patients.\n(Special consideration: Routine screening is generally not recommended in children. However, screening can be carried out from age of 2 years in children who have a first degree relative diagnosed with familial hypercholesterolemia, as this gives the opportunity to teach good eating practices)\nc) All adults with pre-existing CAD, cerebrovascular or peripheral artery disease irrespective of age\nd) All adults with diabetes mellitus irrespective of age\ne) All adults with IFG or IGT irrespective of age\nf) All adults aged 18 years and above who have other risk factors for CAD, which include:\n1. Multiple CAD risk factors (e.g. tobacco use, hypertension)\n2. A family history of cardiovascular disease before age 50 years in male relatives or before age 60 years in female relatives\n3. A family history suggestive of familial hyperlipidaemia",
    "Notes": "In the non-fasting state, triglyceride (TG) levels may be slightly higher than the corresponding levels in the fasting state. For Low Density Lipoprotein – Cholesterol (LDL-C), the levels may be slightly lower in the non-fasting state as compared to the corresponding levels in the fasting state. Population-based studies suggest that the variation in TG levels ranges from +0.1mmol/L to +0.3mmol/L while that the LDL-C ranges from -0.3mmol/L to -0.1mmol/L. A repeat fasting lipid panel may be considered in cases where there is uncertainty surrounding non-fasting lipid panel results.",
    "Factors for Screening Recommendation": "Age, Family History, Medical History, Lifestyle",
+   "Tags": "\"High cholestrol, Triglycerides, Fats\"",
    ".": ""
  },
  {
@@ -199,12 +199,12 @@
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 1",
    "Test": "Blood Pressure Measurement",
-   "Tags": "High blood pressure",
    "Test Type": "",
    "General Population Recommendation": "Periodic screening for hypertension is recommended for all adults aged 18 years or older. Blood pressure should be measured at least once every 2 years for individuals with diastolic pressure below 85 mmHg and a systolic pressure below 130 mmHg (i.e. normal BP). Measurements are recommended annually for persons with a diastolic blood pressure of 85 to 89 mmHg or systolic blood pressure of 130 to 139 mmHg (i.e. high normal BP). Persons with higher blood pressures or a major coronary risk factor such as diabetes mellitus require more frequent measurement.",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "High blood pressure",
    ".": ""
  },
  {
@@ -212,12 +212,12 @@
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 1",
    "Test": "BMI",
-   "Tags": "\"Fat, Overweight, Obese\"",
    "Test Type": "",
    "General Population Recommendation": "All individuals 18 years of age or older should be screened annually",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "\"Fat, Overweight, Obese\"",
    ".": ""
  },
  {
@@ -225,12 +225,12 @@
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 1",
    "Test": "Waist Circumference",
-   "Tags": "\"Fat, Overweight, Obese\"",
    "Test Type": "",
    "General Population Recommendation": "All individuals 18 years of age or older should be screened annually",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "\"Fat, Overweight, Obese\"",
    ".": ""
  },
  {
@@ -238,12 +238,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 2",
    "Test": "MRI Breast",
-   "Tags": "",
    "Test Type": "MRI",
    "General Population Recommendation": "",
-   "Individual Recommendation": "High Risk Groups: Women at more than 20% lifetime risk of breast cancer, carriers of BRCA or other high risk gene mutations (characteristics of women at risk for hereditary breast cancer predisposition syndromes are detailed in Annex E of the report), and women with previous history of chest radiation therapy.\nOthers: Women with cosmetic injection augmentation.",
+   "Individual Recommendation": "High Risk Groups: Women at more than 20% lifetime risk of breast cancer, carriers of BRCA or other high risk gene mutations (characteristics of women at risk for hereditary breast cancer predisposition syndromes are detailed in Annex E of the [report](https://www.ams.edu.sg/view-pdf.aspx?file=media%5c4817_fi_59.pdf&ofile=STRC+Report+March+2019.pdf)), and women with previous history of chest radiation therapy.\nOthers: Women with cosmetic injection augmentation.",
    "Notes": "In women with high genetic risk for breast cancer, MRI breast screening is performed annually as an adjunct to mammography as studies have shown that MRI detects more cancers (with a sensitivity of 71% to 100%) compared to mammography (sensitivity 25% to 40%). Mammogram screening should still be performed with MRI as some cancers which manifest as micro-calcifications on mammography may not be detected on MRI. MRI cannot replace mammographic screening in these women as some cancers may manifest as micro-calcifications which may not be shown on MRI.\nScreening should start at age 25 to 30 years for women with gene mutations conferring high risk of developing breast cancer and their untested first degree relatives. In those with strong family history of breast cancer but no proven mutation, screening is recommended to commence as early as 5 to 10 years prior to the age of onset in the youngest family member to contract breast cancer, but not earlier than age 25 to 30.\nWomen who received radiation treatment to the chest, such as for Hodgkin disease, are also at high risk for developing breast cancer.\nDiagnosis of breast cancer occurred at a mean of 18 years after diagnosis of Hodgkin disease with a range of 7 to 30 years. Although there is a lack of evidence with regards to MRI screening in this group, there is consensus opinion that MRI screening commencing 8 years after radiotherapy to the chest may offer similar benefit as for women with a strong family history.\nThere is not enough data demonstrating clinical benefit for MRI screening in women with moderate risk of breast cancer (15 to 20% lifetime risk), e.g. personal history of breast cancer, prior biopsy with atypical ductal hyperplasia or lobular neoplasia. Hence, no specific MRI screening recommendation is made for these women.\nBreast MRI is not suitable for routine breast screening of women who are at normal risk of developing breast cancer. However, in women with diffuse breast injection augmentation, particularly of the free silicone type, the injected material may significantly obscure mammographic and sonographic visibility of the underlying breast tissue. This renders mammogram and ultrasound assessments ineffective for breast cancer screening. Hence MRI should replace mammogram screening in these cases. The recommended age and frequency of screening are similar to the mammogram screening guidelines for normal risk women.",
    "Factors for Screening Recommendation": "Gender, Age, Family History, Medical History, Genetics",
+   "Tags": "",
    ".": ""
  },
  {
@@ -251,12 +251,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 2",
    "Test": "CT Colonography",
-   "Tags": "\"Colon, Rectum\"",
    "Test Type": "CT",
    "General Population Recommendation": "",
    "Individual Recommendation": "As an alternative screening test to colonoscopy for average-risk individuals aged 50 years and above. The recommended frequency for individuals who opt for CT colonography is once every 5 years if initial screening is negative.",
    "Notes": "CT colonography, also known as virtual colonoscopy, is a minimally invasive imaging examination of the colon and rectum, using CT scan to acquire images and computer software to process the data for interpretation. It is the best available imaging test if optical colonoscopy is contraindicated or incomplete. When performed with bowel preparation and tagging agents it has been shown to be effective in detecting neoplasms ≥6 mm albeit with a slightly higher false positive rate compared with lesions ≥10 mm.",
    "Factors for Screening Recommendation": "Age, Family History, Medical History",
+   "Tags": "\"Colon, Rectum\"",
    ".": ""
  },
  {
@@ -264,12 +264,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 2",
    "Test": "FIT-DNA Test",
-   "Tags": "\"Colon, Rectum\"",
    "Test Type": "Stool",
    "General Population Recommendation": "",
    "Individual Recommendation": "As an alternative screening test to FIT stool analysis for average-risk individuals aged 50 years and above. The recommended frequency for individuals who opt for FIT-DNA test is once every 3 years if initial screening is negative.",
    "Notes": "",
    "Factors for Screening Recommendation": "Age, Family History, Medical History",
+   "Tags": "\"Colon, Rectum\"",
    ".": ""
  },
  {
@@ -277,12 +277,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 2",
    "Test": "Ultrasound Pelvis",
-   "Tags": "\"Womb, Uterus\"",
    "Test Type": "Ultrasound",
    "General Population Recommendation": "",
    "Individual Recommendation": "High risk groups: Women with Hereditary Non-Polyposis Colon Cancer (HNPCC) or Lynch Syndrome, who are at higher risk for endometrial cancer, may consider annual screening with regular pelvic examination and endometrial sampling, starting between the ages of 30 and 35.",
-   "Notes": "Trans-vaginal ultrasound screening for endometrial cancer has good sensitivity before symptoms appear. However, there is limited evidence on mortality benefit. More than 75% of women with Lynch Syndrome who develop endometrial cancer present with stage 1 disease, similar to sporadic endometrial cancer, and are associated with a high survival rate. The potential benefits and limitations should be discussed with the patient to enable informed decision-making. Criteria regarding referral for cancer genetic risk assessment for women suspected Lynch Syndrome are detailed in Annex E of the report.",
+   "Notes": "Trans-vaginal ultrasound screening for endometrial cancer has good sensitivity before symptoms appear. However, there is limited evidence on mortality benefit. More than 75% of women with Lynch Syndrome who develop endometrial cancer present with stage 1 disease, similar to sporadic endometrial cancer, and are associated with a high survival rate. The potential benefits and limitations should be discussed with the patient to enable informed decision-making. Criteria regarding referral for cancer genetic risk assessment for women suspected Lynch Syndrome are detailed in Annex E of the [report](https://www.ams.edu.sg/view-pdf.aspx?file=media%5c4817_fi_59.pdf&ofile=STRC+Report+March+2019.pdf).",
    "Factors for Screening Recommendation": "Age, Family History, Gender",
+   "Tags": "\"Womb, Uterus\"",
    ".": ""
  },
  {
@@ -290,12 +290,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 2",
    "Test": "Oesophago-Gastro Duodenoscopy (OGD)",
-   "Tags": "Stomach",
    "Test Type": "Scope",
    "General Population Recommendation": "",
    "Individual Recommendation": "High risk groups: Individuals with Hereditary Non-Polyposis Colon Cancer (HNPCC) or Lynch Syndrome, who are at higher risk for gastric cancer, may benefit from screening with oesophago-gastro duodenoscopy (OGD), starting from age 30 to 35 years. A frequency of 2 to 3 years is recommended, based on the individual’s risk factors.",
-   "Notes": "Criteria regarding referral for cancer genetic risk assessment for women suspected HNPCC (Lynch Syndrome) are detailed in Annex E of the report.",
+   "Notes": "Criteria regarding referral for cancer genetic risk assessment for women suspected HNPCC (Lynch Syndrome) are detailed in Annex E of the [report](https://www.ams.edu.sg/view-pdf.aspx?file=media%5c4817_fi_59.pdf&ofile=STRC+Report+March+2019.pdf).",
    "Factors for Screening Recommendation": "Age, Family History",
+   "Tags": "Stomach",
    ".": ""
  },
  {
@@ -303,12 +303,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 2",
    "Test": "Ultrasound Hepatobiliary System (US HBS)",
-   "Tags": "",
    "Test Type": "Ultrasound",
    "General Population Recommendation": "",
    "Individual Recommendation": "High Risk Groups: Hepatitis B carrier or individuals with liver cirrhosis\nThe test should be performed on a six monthly basis. There is no definite recommended age to start surveillance although local statistics show that hepatocellular carcinoma incidence starts to increase from the 40 to 49 age group.",
    "Notes": "The sensitivity of ultrasonography of the liver ranges from 58% to 87% in cirrhotics to 71% to 90% in non-cirrhotics, with a false positive rate of 28% to 82%. Regenerating and/or dysplastic nodules in cirrhosis are the leading cause of false-positive ultrasonography of the liver. A new finding of focal liver abnormality at ultrasound should prompt consideration of hepatocellular carcinoma, and this may be further evaluated by quadriphasic CT scan, MRI or where expertise is available, contrast-enhanced ultrasound.",
    "Factors for Screening Recommendation": "Medical History",
+   "Tags": "",
    ".": ""
  },
  {
@@ -316,12 +316,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 2",
    "Test": "Alpha-Fetoprotein (AFP)",
-   "Tags": "",
    "Test Type": "Tumor Marker",
    "General Population Recommendation": "",
    "Individual Recommendation": "High Risk Groups: Hepatitis B carrier or individuals with liver cirrhosis\nThe test should be performed on a six monthly basis. There is no definite recommended age to start surveillance although local statistics show that Hepatocellular Carcinoma incidence starts to increase from the 40 to 49 age group.",
    "Notes": "Patients with chronic Hepatitis B infection or liver cirrhosis from other aetiologies are at increased risk of developing hepatocellular carcinoma, and surveillance should be offered to these at-risk individuals with the aim of detecting hepatocellular carcinoma that could be more amenable to therapy, and hence potentially leading to better outcomes.\nA rise in AFP level (>20 ng/ml) in the absence of significant liver inflammation suggests hepatocellular carcinoma with a negative predictive value of 99% and a positive predictive value of up to 30% in non-cirrhotics and 60% in cirrhotics.\nA rising trend strongly suggests the presence of hepatocellular carcinoma, although AFP should never be used alone to diagnose hepatocellular carcinoma.",
    "Factors for Screening Recommendation": "Medical History",
+   "Tags": "",
    ".": ""
  },
  {
@@ -329,12 +329,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 2",
    "Test": "Low-dose CT Screening for Lung Cancer",
-   "Tags": "Lungs",
    "Test Type": "CT",
    "General Population Recommendation": "",
    "Individual Recommendation": "High Risk Groups:\na) Individuals aged between 55 to 74 who have smoked ≥ 30 pack years and are continuing to smoke\nb) Individuals aged between 55 to 74 who have smoked ≥ 30 pack years but quit <15 years ago\nLow-dose CT screening should be done annually.",
    "Notes": "Low-dose computerized tomography (LDCT) refers to a non-contrast study obtained with a multidetector CT scanner during a single maximal inspiratory breath-hold. Radiation dose exposure is less than a third of a standard-dose diagnostic chest CT scan. Several cohort studies and randomized control trials have demonstrated that screening was significantly more sensitive than chest radiograph in identifying early stage, asymptomatic lung cancers. The National Lung Screening Trial (NLST), a large randomized trial of screening LDCT in high-risk individuals, demonstrated a lung cancer mortality benefit of 20%, with all-cause mortality reduced by 6.7%. Many expert screening groups have incorporated results from the NLST in their recommendations, and generally suggested annual screening until high-risk individuals are no longer eligible for definitive treatments.\nHowever, this has to be balanced with the unnecessary exposure to radiation, financial costs of CT screening, and a high rate of false positive findings. These may further lead to implications of further evaluation, such as the potential for morbidity and mortality from invasive procedures like a lung biopsy.\nThere is also an increasing incidence of lung adenocarcinoma in the Singapore population. The rate of lung carcinoma is also higher compared to United States and other western countries where the largest lung cancer screening trials were conducted. This reflects the Asia-pacific trend of higher rates of adenocarcinoma, particularly in women and also in non-smokers. This may be due to a fundamental difference in genetic predisposition amongst Chinese non-smokers to lung adenocarcinoma, as well as the effects from exposure to environmental risk factors. Further evidence is required from local population research so that any causative link between lung adenocarcinoma and the East Asian female and/or never-smoker phenotype can be established in the local context so that future screening guidelines can include these as risk factor targets for lung cancer screening.",
    "Factors for Screening Recommendation": "Age, Lifestyle",
+   "Tags": "Lungs",
    ".": ""
  },
  {
@@ -342,12 +342,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 2",
    "Test": "Nasopharyngoscopy",
-   "Tags": "\"Nose, Throat\"",
    "Test Type": "Scope",
    "General Population Recommendation": "",
    "Individual Recommendation": "High Risk Groups: Individuals with a first degree relative (parent, sibling) with NPC",
    "Notes": "",
    "Factors for Screening Recommendation": "Family History",
+   "Tags": "\"Nose, Throat\"",
    ".": ""
  },
  {
@@ -355,12 +355,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 2",
    "Test": "Tumor Marker for NPC (EBV-EA-EBNA-1)",
-   "Tags": "\"Nose, Throat\"",
    "Test Type": "Tumor Marker",
    "General Population Recommendation": "",
    "Individual Recommendation": "High Risk Groups: Individuals with a first degree relative (parent, sibling) with NPC",
    "Notes": "Familial aggregation of NPC is well documented in many epidemiological studies. Between 6.0% to 15.5% of newly diagnosed NPC patients will have a family history of NPC. In many studies and follow-up reports, first degree relatives have increased risk compared to the general population in the same age groups. This magnitude of familial risk in endemic regions is one of the highest among cancers.\nTumour markers for NPC (EBV IgA serology) should be combined with nasopharyngoscopy in the screening of high risk individuals. Serological tests alone, without endoscopy, are not recommended as a means of screening or monitoring of high risk individuals. As such, screening of high-risk individuals should be performed by a qualified specialist and include an appropriate history and examination, including nasopharyngoscopy.",
    "Factors for Screening Recommendation": "Family History",
+   "Tags": "\"Nose, Throat\"",
    ".": ""
  },
  {
@@ -368,12 +368,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 2",
    "Test": "Transvaginal Ultrasound",
-   "Tags": "\"Ovary, Ovaries\"",
    "Test Type": "Ultrasound",
    "General Population Recommendation": "",
    "Individual Recommendation": "High Risk Group: BRCA-Carrier",
    "Notes": "Transvaginal pelvic ultrasound as screening for ovarian cancer may be considered. However, it can result in unnecessary surgeries with no clear mortality benefit. The potential benefits and limitations should be discussed with the patient for informed decision-making.",
    "Factors for Screening Recommendation": "Family History, Genetics",
+   "Tags": "\"Ovary, Ovaries\"",
    ".": ""
  },
  {
@@ -381,12 +381,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 2",
    "Test": "Prostate-Specific Antigen (PSA)",
-   "Tags": "",
    "Test Type": "Tumor Marker",
    "General Population Recommendation": "",
    "Individual Recommendation": "Men who are between 50 to 70 years of age, with an estimated life expectancy of more than 10 years, may be offered screening for prostate cancer after a discussion of both the potential benefits and harms associated with prostate cancer screening.\nHigh Risk Groups: High-risk men, such as men with a strong family history of prostate cancer, i.e. one or more first-degree relatives (father, brother) diagnosed before age 65 years, may be offered screening 5 to 10 years younger than the youngest prostate cancer in the family.",
    "Notes": "Due to the uncertainty that PSA testing results in more benefit than harm, a thoughtful and broad approach to PSA is critical. The decision to use PSA for the early detection of prostate cancer should be individualised. Patients need to be informed of the risks and benefits of testing before it is undertaken.\nProstate cancer survival is related to many factors, especially the extent of tumour at the time of diagnosis. The 5-year relative survival among men with cancer confined to the prostate (localised) or with just regional spread is 100%, compared with 31.9% among those diagnosed with distant metastases. While men with advanced stage disease may benefit from palliative treatment, their tumours are generally not curable.\nAlthough prostate biopsies rarely cause complications serious enough to require hospitalisation, screening is not an entirely benign process and may be associated with discomfort and possible complications of biopsy. In addition, false-positive results have a psychological cost. Chronic anxiety can also follow a negative prostate biopsy because this apparently favourable result cannot completely rule out prostate cancer given the relatively high false-negative biopsy rate.",
    "Factors for Screening Recommendation": "Family History",
+   "Tags": "",
    ".": ""
  },
  {
@@ -394,12 +394,12 @@
    "Disease Type": "Congenital and Pediatric",
    "Category": "Cat 2",
    "Test": "Screening tests done in pregnancy or antenatal screening tests (e.g. FBC, VDRL, HIV, Hepatitis B, urine microscopy as well as obstetric ultrasound foetal anomaly screening)",
-   "Tags": "",
    "Test Type": "",
    "General Population Recommendation": "",
    "Individual Recommendation": "Recommendation: The above blood tests and urine test are recommended in early pregnancy (preferably during the first antenatal visit) as a once-off test. All women should be offered an obstetric ultrasound before 22 weeks gestation. This will include an ultrasound for foetal morphology and placenta localisation usually at 18 to 22 weeks gestation.",
    "Notes": "",
    "Factors for Screening Recommendation": "Pregnancy",
+   "Tags": "",
    ".": ""
  },
  {
@@ -407,12 +407,12 @@
    "Disease Type": "Congenital and Pediatric",
    "Category": "Cat 2",
    "Test": "Down Syndrome Screening Test",
-   "Tags": "",
    "Test Type": "",
    "General Population Recommendation": "",
    "Individual Recommendation": "Recommendation: All pregnant women, regardless of age, should be considered to be at risk for foetal aneuploidy and should be offered screening for Down Syndrome. All women should be made aware of the availability of screening tests for Down Syndrome and other chromosomal abnormalities.\nThis should include Nuchal Translucency Screening (NTS) combined with first trimester maternal serum screening (also known as the first trimester combined screening) or NTS combined with second trimester maternal serum testing (also known as step-wise sequential screening).",
    "Notes": "",
    "Factors for Screening Recommendation": "Pregnancy",
+   "Tags": "",
    ".": ""
  },
  {
@@ -420,12 +420,12 @@
    "Disease Type": "Congenital and Pediatric",
    "Category": "Cat 2",
    "Test": "Indirect Ophthalmoscope, Eye Speculum or Scleral Indentor",
-   "Tags": "\"Eye, Vision, Visual, Sight\"",
    "Test Type": "Eye",
    "General Population Recommendation": "",
    "Individual Recommendation": "Recommendation: Screening should be carried out for infants with any one of the following:\na. Birth weight less than 1500 g or\nb. Gestational age less than 32 weeks or\nc. Prolonged oxygen therapy use",
    "Notes": "*Screening Protocol*\na. Babies born before 27 weeks gestational age (i.e. up to 26 weeks and 6 days) - the first ROP screening examination should be undertaken at 30 to 31 week\nb. Babies born between 27 and 32 weeks gestational age (i.e. up to 31 weeks and 6 days) - the first ROP screening examination should be undertaken between 4 to 5 weeks (i.e. 28 to 35 days) postnatal age\nc. Babies >32 weeks gestational age but with birth weight <1500 grams – the first ROP screening examination should be undertaken between 4 to 5 weeks (i.e. 28 to 35 days) postnatal age\nd. Minimum frequencies of screening should be weekly when:\n1. the vessels end in zone I or posterior zone II; or\n2. there is any plus or pre-plus disease or\n3. there is any stage 3 disease in any zone\ne. Minimum frequencies of screening should be every 2 weeks:\nf. In all other circumstances until the criteria for termination have been reached\ng. All babies <32 weeks gestational age or birth weight <1500g or have undergone prolonged oxygen therapy should have their first ROP screening examination prior to discharge\n*Termination of ROP screening*\nScreening can be stopped when a baby is no longer at risk of sight-threatening ROP. In babies who never develop any ROP, the risk of sight-threatening ROP developing is minimal once the retinal vessels have entered zone III and eye examinations may be stopped when this happens, usually after 36 completed week’s postmenstrual age.\nIn babies developing ROP which does not meet the criteria for treatment, screening can be safely stopped when any of the following characteristics of regression are seen on at least 2 successive examinations:\na. Lack of increase in severity\nb. Partial resolution progressing towards complete resolution\nc. Change in colour in the ridge from salmon pink to white\nd. Transgression of vessels through the demarcation line\ne. Commencement of the process of replacement of active ROP lesions by scar tissue",
    "Factors for Screening Recommendation": "Prematurity",
+   "Tags": "\"Eye, Vision, Visual, Sight\"",
    ".": ""
  },
  {
@@ -433,12 +433,12 @@
    "Disease Type": "Congenital and Pediatric",
    "Category": "Cat 2",
    "Test": "Antero-Posterior Pelvis X-ray",
-   "Tags": "Cerebral Palsy",
    "Test Type": "X-ray",
    "General Population Recommendation": "",
    "Individual Recommendation": "Recommendations: For children with cerebral palsy",
    "Notes": "Children with cerebral palsy are at risk of spastic hip displacement. Clinical examination alone is insufficient to evaluate hip displacement in this particular group. Decisions for treatment and surveillance must be made in conjunction with an antero-posterior radiograph of the pelvis and hip joint with the child in the supine position. The most accepted and reproducible measurement for hip displacement is migration percentage (MP) which is the most valid, reliable, and useful measure of hip displacement in children with CP. However, radiological measures may be less accurate in the very young and will not be accurate below 12 months of age.",
    "Factors for Screening Recommendation": "Medical History, Age",
+   "Tags": "Cerebral Palsy",
    ".": ""
  },
  {
@@ -446,12 +446,12 @@
    "Disease Type": "Congenital and Pediatric",
    "Category": "Cat 2",
    "Test": "Thalassaemia Screen",
-   "Tags": "Blood",
    "Test Type": "Blood",
    "General Population Recommendation": "",
    "Individual Recommendation": "High Risk Groups:\na) Pregnant women who are from racial and ethnic groups with a high incidence of haemoglobinopathies (e.g., individuals of African, Caribbean, Latin American, Mediterranean, Middle Eastern, or Southeast Asian descent) should be screened, preferably at the first prenatal visit.\nb) Family history of Thalassaemia\nThe screening should be done once-off at the first prenatal visit for pregnant women.",
    "Notes": "The USPSTF recommends screening for haemoglobinopathies like thalassaemia with haemoglobin electrophoresis or other tests of comparable accuracy in pregnant women at the first prenatal visit. This is especially for those who are members of racial and ethnic groups with a high incidence of haemoglobinopathies (e.g., individuals of African, Caribbean, Latin American, Mediterranean, Middle Eastern, or Southeast Asian descent).",
    "Factors for Screening Recommendation": "Pregnancy, Ethnicity, Family History",
+   "Tags": "Blood",
    ".": ""
  },
  {
@@ -459,12 +459,12 @@
    "Disease Type": "Heart and Vascular",
    "Category": "Cat 2",
    "Test": "Abdominal Ultrasonography",
-   "Tags": "",
    "Test Type": "Ultrasound",
    "General Population Recommendation": "",
    "Individual Recommendation": "High Risk Groups: Men aged 65 to 75 years who have ever smoked",
    "Notes": "The United States Preventive Services Task Force (USPSTF) found good evidence that screening for AAA and surgical repair of large AAAs (5.5 cm or more) in men aged 65 to 75 years who have ever smoked (current and former smokers) leads to decreased AAA-specific mortality. There is good evidence that abdominal ultrasonography, performed in a setting with adequate quality assurance (i.e. in an accredited facility with credentialed technologists), is an accurate screening test for AAA. There is also good evidence of important harms of screening and early treatment, including an increased number of surgeries with associated clinically-significant morbidity and mortality, and short-term psychological harms. Based on the moderate magnitude of net benefit, the USPSTF concluded that the benefits of screening for AAA in men aged 65 to 75 years who have ever smoked outweigh the harms.",
    "Factors for Screening Recommendation": "Age, Lifestyle",
+   "Tags": "",
    ".": ""
  },
  {
@@ -472,12 +472,12 @@
    "Disease Type": "Heart and Vascular",
    "Category": "Cat 2",
    "Test": "MRI/MRA Brain",
-   "Tags": "",
    "Test Type": "MRI",
    "General Population Recommendation": "",
    "Individual Recommendation": "High Risk Groups:\na) Individuals with a history of aneurysmal subarachnoid haemorrhage\nb) Individuals with autosomal dominant polycystic kidney disease\nc) Individuals who have two or more first-degree relatives (parent, sibling) with documented intracranial aneurysms.",
    "Notes": "Unruptured intracranial aneurysms occur in up to 6% of the general population. Most persons with these aneurysms remain asymptomatic and are usually unaware of their presence.\nSubarachnoid haemorrhage associated with aneurysmal rupture is a potentially lethal event with a mortality rate as high as 50%. Many patients who survive the initial haemorrhage have permanent disability. In patients with a history of aneurysmal subarachnoid haemorrhage, the annual rate of new aneurysm formation is between 1 and 2%, and the risk of aneurysmal rupture appears to have increased. Therefore, surveillance of these patients with magnetic resonance angiography may be justified. Patients with a prior history of cerebral aneurysms have a higher rate of future de novo aneurysm formation and should be screened at 5-year intervals.\nScreening should also be considered in patients with some rare conditions (e.g., autosomal dominant polycystic kidney disease) that are associated with an increased risk of aneurysms.\nPatients with one affected first-degree relative should be differentiated from those with more than one such relative. Based on literature review, the Stroke Council of the American Heart Association does not recommend screening for aneurysms in patients who have only one first-degree relative with aneurysmal subarachnoid haemorrhage. The decision on whether or not to screen for intracranial aneurysms in patients who have two or more first-degree relatives with documented subarachnoid haemorrhage is best decided on a case-by-case basis.",
    "Factors for Screening Recommendation": "Family History, Medical History",
+   "Tags": "",
    ".": ""
  },
  {
@@ -485,12 +485,12 @@
    "Disease Type": "Heart and Vascular",
    "Category": "Cat 2",
    "Test": "Apolipoprotein A and B",
-   "Tags": "",
    "Test Type": "Blood",
    "General Population Recommendation": "",
    "Individual Recommendation": "Apolipoprotein A and B determination is not recommended for routine cardiovascular disease screening.\nIts advantage in prediction of events over non-HDL; which is technically easier to measure; has not been shown and their values correlates with treatment and effect of treatment.\nApolipoprotein measurements may be considered in patients with a strong family history or unusual manifestation of premature cardiovascular disease.",
    "Notes": "",
    "Factors for Screening Recommendation": "Family History, Medical History",
+   "Tags": "",
    ".": ""
  },
  {
@@ -498,12 +498,12 @@
    "Disease Type": "Heart and Vascular",
    "Category": "Cat 2",
    "Test": "CT Coronary Calcium Score",
-   "Tags": "",
    "Test Type": "CT",
    "General Population Recommendation": "",
    "Individual Recommendation": "Use of Coronary Artery Calcium Score (CACS), may be considered if the information provided by the CACS will help to guide the patient’s management (e.g. initiation of lipid therapy), and after a global clinical risk score has been performed.\nIt may help to reclassify clinical risk score in asymptomatic patients with intermediate (10% and 20%) 10-year CHD risk or unusual risk factors and family history.\nThese recommendations do not apply to symptomatic patients regardless of risk.",
    "Notes": "Based on median dose of 2.3 mSv (range, 0.8 to 10.5 mSv) of exposure, a single scan at the age of 40 years old is estimated to result in a lifetime excess cancer risk of 9 (range, 3 to 42) and 28 (range, 9 to 130) cancers per 100 000 persons for men and women, respectively. Hence, unselected screening of individuals without prior consideration of the global risk score, or whether the CACS will alter management is not encouraged by all major international guidelines.\nThere is also currently no evidence to recommend repeat testing of CACS to assess progression of atherosclerosis and treatment may paradoxically increase calcium score.",
    "Factors for Screening Recommendation": "Family History, Medical History",
+   "Tags": "",
    ".": ""
  },
  {
@@ -511,12 +511,12 @@
    "Disease Type": "Heart and Vascular",
    "Category": "Cat 2",
    "Test": "Electrocardiography (ECG)",
-   "Tags": "",
    "Test Type": "ECG",
    "General Population Recommendation": "",
    "Individual Recommendation": "The resting 12-lead ECG provides valuable information in the evaluation of symptoms such as, but not limited to, chest pain, syncope or breathlessness. However, there is presently no evidence that the routine ambulatory ECG provides additional information on cardiovascular risk or events in low asymptomatic subjects.\nInter-observer variability, false positives and negatives are areas of concern in the widespread use of ECG in low risk populations.\nECG may be performed:\na) In asymptomatic hypertensive patients to evaluate for target end organ damage (Ventricular Hypertrophy)\nb) During and after initiation of medication that might alter QT intervals or has pro-arrhythmic effect.\nc) Pre-Participation in competitive sporting activity for all age groups or in age defined individuals who are previously sedentary as per local/international guidelines.\nd) Subjects in high risk occupation (such as but not exclusive to; airline pilots, firemen, commercial drivers)\nCurrent data neither supports nor contradicts the use of routine screening ECG in patients with moderate to high cardiovascular risk.",
    "Notes": "A local study of asymptomatic patients referred to a tertiary cardiac centre for the suspicion of Coronary Artery Disease (CAD) based solely on ECG findings found a prevalence of 0.8% CAD in this population, suggesting that using the ECG as a screen for CAD is not helpful.",
    "Factors for Screening Recommendation": "Medical History",
+   "Tags": "",
    ".": ""
  },
  {
@@ -524,12 +524,12 @@
    "Disease Type": "Heart and Vascular",
    "Category": "Cat 2",
    "Test": "High-Sensitivity C-Reactive Protein (hsCRP)",
-   "Tags": "",
    "Test Type": "Blood",
    "General Population Recommendation": "",
    "Individual Recommendation": "hsCRP is a marker of inflammation, and may potentially reclassify risk for future cardiovascular events to identify asymptomatic individuals in addition to traditional clinical risk calculators. at risk for acute coronary events. Restricted and judicious use of hsCRP measurement is suggested for health screening.\nhsCRP may be performed after a global risk assessment of coronary heart disease. Use of hsCRP measurement may be performed for health screening in those with an intermediate risk of 10 to 20% 10-year risk (it may also be performed if there are unusual cardiovascular risk factors or if the result will change the decision to initiate lipid lowering therapy)\nhsCRP should not be routinely offered to those at either very low or very high cardiovascular risk.\nhsCRP using standardised assays categorises patients as follows\na. Low risk <1.0 mg/L;\nb. Moderate risk 1.0 to 3.0 mg/L;\nc. High risk >3.0 mg/L;",
    "Notes": "",
    "Factors for Screening Recommendation": "Medical History",
+   "Tags": "",
    ".": ""
  },
  {
@@ -537,12 +537,12 @@
    "Disease Type": "Heart and Vascular",
    "Category": "Cat 2",
    "Test": "Treadmill Stress Test",
-   "Tags": "",
    "Test Type": "",
    "General Population Recommendation": "",
    "Individual Recommendation": "In selected individuals, screening for CAD with treadmill stress test may be undertaken on an individualised basis in the evaluation of asymptomatic subjects such as:\na. Men older than 45 years of age and women older than 55 years of age who plan to start an exercise program.\nb. Moderate to high CAD risk or subjects with diabetes who plan to start an exercise programme.\nc. Subjects involved in high risk occupations with public safety implications.\nThis list is not meant to be exhaustive and contemporary recommendations from national/international societies apply.\nExercise testing is meant to assess exercise capacity, cardiovascular fitness, cardiovascular risk and flow limiting coronary lesions in major coronary branches. It was never intended to detect non-flow limiting vulnerable plagues which rupture and lead to Acute Coronary Syndrome (ACS). Non-flow limiting vulnerable plagues are the primary cause of ACS and the best predictors of the risk of plaque rupture are clinical risk scores and biomarkers such as lipids.\nNo test has 100% specificity and that includes exercise stress testing, where there is a high likelihood of false positive results when treadmill testing is carried out in an asymptomatic low risk population. In the past, this has led to further testing with stress imaging or invasive coronary angiography to allay concerns. This should be explained to the patient prior to testing.",
    "Notes": "",
    "Factors for Screening Recommendation": "Age, Gender, Medical History",
+   "Tags": "",
    ".": ""
  },
  {
@@ -550,12 +550,12 @@
    "Disease Type": "Heart and Vascular",
    "Category": "Cat 2",
    "Test": "Ankle Brachial Index (ABI)",
-   "Tags": "",
    "Test Type": "",
    "General Population Recommendation": "",
    "Individual Recommendation": "High Risk Groups:\na) Asymptomatic individuals with diabetes mellitus\nb) Individual aged 50 to 70 years who smoke\nc) Individuals aged 50 to 70 years with both hypertension and hyperlipidaemia",
    "Notes": "ABI is a test for peripheral vascular disease which has been shown to be associated with CAD. The attraction of ABI screening as a biomarker of cardiovascular risk is that this test is relatively easy to do in the primary care setting and is non-invasive. As with any screening test, it should be considered after global risk scoring and when the result of testing is likely to alter management. Despite the potential value of ABI, a recent randomised trial of the use of aspirin in patients with abnormal ABI did not show any benefit.",
    "Factors for Screening Recommendation": "Medical History, Lifestyle",
+   "Tags": "",
    ".": ""
  },
  {
@@ -563,12 +563,12 @@
    "Disease Type": "Infectious",
    "Category": "Cat 2",
    "Test": "Urine PCR",
-   "Tags": "\"Sexually Transmitted Infections, STIs, STDs\"",
    "Test Type": "Urine",
    "General Population Recommendation": "",
    "Individual Recommendation": "High risk group: Persons with at-risk sexual behaviour (e.g. having unprotected sex with multiple sexual partners, previous or co-existing STIs)",
    "Notes": "Chlamydia and Gonorrhoea are causes of urethritis in men and cervicitis and Pelvic Inflammatory Disease (PID) in women. In females, the primary benefit of screening and treatment is in the reduction of personal risk of reproductive sequelae, such as ectopic pregnancy and infertility. In males, who frequently have asymptomatic disease, screening and treatment reduces overall transmission of infection.\nThe same specimen can be used to test for both chlamydia and gonorrhoea",
    "Factors for Screening Recommendation": "Lifestyle, Profession",
+   "Tags": "\"Sexually Transmitted Infections, STIs, STDs\"",
    ".": ""
  },
  {
@@ -576,12 +576,12 @@
    "Disease Type": "Infectious",
    "Category": "Cat 2",
    "Test": "Cervical (for women)/Urethral (for men) swab for PCR",
-   "Tags": "\"Sexually Transmitted Infections, STIs, STDs\"",
    "Test Type": "",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "High risk group: Persons with at-risk sexual behaviour (e.g. having unprotected sex with multiple sexual partners, previous or co-existing STIs)\nChlamydia and Gonorrhoea are causes of urethritis in men and cervicitis and Pelvic Inflammatory Disease (PID) in women. In females, the primary benefit of screening and treatment is in the reduction of personal risk of reproductive sequelae, such as ectopic pregnancy and infertility. In males, who frequently have asymptomatic disease, screening and treatment reduces overall transmission of infection.\nThe same specimen can be used to test for both chlamydia and gonorrhoea",
    "Factors for Screening Recommendation": "Lifestyle, Profession",
+   "Tags": "\"Sexually Transmitted Infections, STIs, STDs\"",
    ".": ""
  },
  {
@@ -589,12 +589,12 @@
    "Disease Type": "Infectious",
    "Category": "Cat 2",
    "Test": "Hepatitis B Screen",
-   "Tags": "\"Sexually Transmitted Infections, STIs, STDs\", Liver",
    "Test Type": "Blood",
    "General Population Recommendation": "",
    "Individual Recommendation": "a) Asymptomatic Singapore residents with no known hepatitis B carrier status born before 1987 and did not undergo the local catch-up immunisation programmes from 2001 to 2004 (which were conducted for secondary schools, colleges and tertiary institutions) should be screened for Hepatitis B.\nb) Pregnant women:\nAll pregnant women, regardless of their age, should be tested for HBsAg during early antenatal visit, preferably during the first visit.\nc) Healthcare workers:\nAll healthcare workers with direct patient contact are encouraged to know their status with regards to Hepatitis B infection, besides HIV and Hepatitis C infection, by going for appropriate and regular testing. Healthcare workers who are practising in specialities or areas involving exposure-prone procedures should know their status.\nd) Other groups include foreigners and immigrants from countries where HBV are endemic should also be considered for screening.\nWhere appropriate, those who are found to have not been infected and have no antibody levels on screening should also be offered Hepatitis B vaccination to prevent future infections.\ne) At Risk Groups:\n1. Chronic haemodialysis patients\n2. Past or present injection drug users\n3. Individuals who underwent invasive procedures in health-care facilities with inadequate infection control practices\n4. Individuals with known exposures to HBV, e.g. healthcare workers following needle stick injury involving HBV-positive blood, or recipients of blood or organs from a donor who tested HBV-positive\n5. Individuals whose past or present sex partners were/are HBV-infected or injection drug users\n6. HIV patients",
    "Notes": "A national Hepatitis B seroprevalence study was conducted in 2010 to assess the seroprevalence of Hepatitis B Virus (HBV) markers in our adult population in Singapore and a comparison was made with the seroprevalence in 1998 and 2004.\nThe overall Hepatitis B Surface Antigen (HBsAg) prevalence among Singapore residents aged 18 to 69 years has remained stable, from 4.0% (1998) to 2.7% (2004) and 3.6% (2010), and was within the range of intermediate HBV endemicity; the overall population immunity to HBV was 43.9%.\nWhile the national childhood HBV immunisation and catch-up programmes implemented in 1987 and 2001 to 2004 respectively, had a significant impact in reducing HBV infection and in raising the immunity of the local adult population 18 to 29 years of age, the prevalence of HBV infection in age groups 30 and above have increased from 2004 to 2010. Hence, it is recommended for all normal risk, asymptomatic adults with no known Hepatitis B carrier status born before 1987 and did not undergo the catch-up immunisation programmes from 2001 to 2004 to be screened for Hepatitis B.\nThe USPSTF found good evidence that universal prenatal screening for HBV infection using HBsAg substantially reduces prenatal transmission of HBV and the subsequent development of chronic HBV infection. The current practice of vaccinating all infants against HBV infection and post exposure prophylaxis with Hepatitis B immune globulin administered at birth (within 12 hours) to infants of HBV-infected mothers substantially reduces the risk for acquiring HBV infection.\nExposure-prone procedures refer to those invasive procedures where there is a risk that injury to the worker may result in exposure of the patient’s open tissues to the blood of the worker. These procedures include those where the worker’s gloved hands may be in contact with sharp instruments, needle tips or sharp tissues (e.g. spicules of bone or teeth) inside a patient’s confined anatomical space where the hands or fingertips may not be completely visible at all times, open body cavity, or wound. Refer to MOH Directive 2/2014 for details.",
    "Factors for Screening Recommendation": "Medical History, Pregnancy, Profession",
+   "Tags": "\"Sexually Transmitted Infections, STIs, STDs\", Liver",
    ".": ""
  },
  {
@@ -602,12 +602,12 @@
    "Disease Type": "Infectious",
    "Category": "Cat 2",
    "Test": "Hepatitis C Screen",
-   "Tags": "Liver",
    "Test Type": "Blood",
    "General Population Recommendation": "",
    "Individual Recommendation": "a) At Risk Groups:\n1. Children born to Hepatitis C Virus (HCV)-positive mothers\n2. Chronic haemodialysis patients\n3. Past or present intravenous drug abusers\n4. Individuals who underwent invasive procedures in health-care facilities with inadequate infection control practices\n5. Individuals with known exposures to HCV, e.g. healthcare workers following needle stick injury involving HCV-positive blood, or recipients of blood or organs from a donor who tested HCV-positive\n6. Individuals whose past or present sex partners were/are HCV-infected or intravenous drug abusers\n7. HIV patients\nb) Healthcare workers:\nAll healthcare workers with direct patient contact are encouraged to know their status with regards to Hepatitis C infection, besides HIV and Hepatitis B infection by going for appropriate and regular testing. Healthcare workers who are practising in specialities or areas involving exposure-prone procedures should know their status.\nExposure-prone procedures refer to those invasive procedures where there is a risk that injury to the worker may result in exposure of the patient’s open tissues to the blood of the worker. These procedures include those where the worker’s gloved hands may be in contact with sharp instruments, needle tips or sharp tissues (e.g. spicules of bone or teeth) inside a patient’s confined anatomical space where the hands or fingertips may not be completely visible at all times, open body cavity, or wound. Refer to MOH Directive 2/2014 for details.",
    "Notes": "",
    "Factors for Screening Recommendation": "Family History, Medical History, Profession",
+   "Tags": "Liver",
    ".": ""
  },
  {
@@ -615,12 +615,12 @@
    "Disease Type": "Infectious",
    "Category": "Cat 2",
    "Test": "HIV Screen",
-   "Tags": "\"Sexually Transmitted Infections, STIs, STDs\"",
    "Test Type": "Blood",
    "General Population Recommendation": "",
    "Individual Recommendation": "a) Pregnant women:\nPregnant women should be offered the test during early antenatal visit. A repeat of the test may be necessary during the third trimester for pregnant women or those with a partner who engage in at-risk activities.\nb) Individuals with active Tuberculosis (TB) infection:\nHIV screening should be offered to those with recent diagnosis of active TB.\nc) Healthcare workers:\nAll healthcare workers with direct patient contact are encouraged to know their status with regards to HIV infection, besides Hepatitis B and C infection by going for appropriate and regular testing. Healthcare workers who are practising in specialities or areas involving exposure-prone procedures should know their status.\nExposure-prone procedures refer to those invasive procedures where there is a risk that injury to the worker may result in exposure of the patient’s open tissues to the blood of the worker. These procedures include those where the worker’s gloved hands may be in contact with sharp instruments, needle tips or sharp tissues (e.g. spicules of bone or teeth) inside a patient’s confined anatomical space where the hands or fingertips may not be completely visible at all times, open body cavity, or wound. Refer to MOH Directive 2/2014 for details.\nd) Individuals with at risk behaviours:\n1. Men and women (heterosexuals and men who have sex with men) having unprotected sex with multiple partners\n2. Past or present injection drug users\n3. Commercial sex workers\n4. Individuals whose past or present sex partner(s) are HIV-infected or injection drug users\n5. Individuals whose past or present sex partner(s) have at-risk behaviours\n6. Individuals diagnosed with Sexually Transmitted Infections (STIs) (i.e., Chlamydia, Gonorrhoea, Genital Herpes Simplex, Syphilis and HPV) or with Genital ulceration\nIndividuals with recent high-risk exposure should be screened at 1 month and repeated at 3 months after the last high-risk exposure to rule out a possible initial false negative result.\nIndividuals who continue to engage in high-risk behaviour should have screening tests on a regular basis. For these individuals, screening should be performed 6-monthly or more often, decided on a case-by-case basis.",
    "Notes": "The U.S. Preventive Services Task Force (USPSTF) strongly recommends that clinicians should screen for HIV in all adolescents, adults at increased risk for HIV infection and all pregnant women.\nThe USPSTF found good evidence that appropriately timed interventions, particularly Highly Active Antiretroviral Therapy (HAART), lead to improved health outcomes for many of those screened, including reduced risk for clinical progression and reduced mortality. Since false-positive test results are rare, harms associated with HIV screening are minimal. Potential harms of true-positive test results include increased anxiety, labeling, and effects on close relationships. Most adverse events associated with HAART, including metabolic disturbances associated with an increased risk for cardiovascular events, may be ameliorated by changes in regimen or appropriate treatment.\nThe USPSTF concluded that the benefits of screening individuals at increased risk substantially outweigh potential harms.\nThe USPSTF also found good evidence that introduction of universal prenatal counselling and voluntary testing increases the proportion of HIV-infected women who are diagnosed and are treated before delivery. There is good evidence that recommended regimens of HAART are acceptable to pregnant women and lead to significantly reduced rates of mother-to-child transmission.\nEarly detection of maternal HIV infection also allows for discussion of elective caesarean section if viral load cannot be suppressed before delivery and avoidance of breastfeeding, both of which are associated with lower HIV transmission rates.\nThere is no evidence of an increase in foetal anomalies or other foetal harm associated with currently recommended antiretroviral regimens (with the exception of efavirenz). Serious or fatal maternal events are rare using currently recommended combination therapies. The USPSTF concluded that the benefits of screening all pregnant women substantially outweigh potential harms.\nHIV infection is a known risk factor for progression from latent TB infection to TB disease. Progression to TB disease is often rapid among people infected with HIV and can be deadly. In addition, TB outbreaks can rapidly expand in patient groups infected with HIV. When HIV is diagnosed early, appropriately timed interventions can lead to improved health outcomes, including slower progression and reduced mortality.",
    "Factors for Screening Recommendation": "Profession, Pregnancy, Medical History, Lifestyle",
+   "Tags": "\"Sexually Transmitted Infections, STIs, STDs\"",
    ".": ""
  },
  {
@@ -628,12 +628,12 @@
    "Disease Type": "Infectious",
    "Category": "Cat 2",
    "Test": "Stool Test for Ova, Cyst and Parasites",
-   "Tags": "",
    "Test Type": "Stool",
    "General Population Recommendation": "",
    "Individual Recommendation": "Special consideration: New immigrants from countries with high prevalence of such diseases should be considered for screening.\nAsymptomatic international travellers, who have been abroad for many months or longer, particularly in resource limited settings, could be screened for certain diseases, including stool examination for ova and parasites.",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "",
    ".": ""
  },
  {
@@ -641,12 +641,12 @@
    "Disease Type": "Infectious",
    "Category": "Cat 2",
    "Test": "Rubella Serology",
-   "Tags": "",
    "Test Type": "Blood",
    "General Population Recommendation": "",
    "Individual Recommendation": "All pregnant women should be screened for rubella susceptibility during their first clinical encounter as a preventive measure.\nThe American Academy of Pediatrics (AAP), American College of Obstetricians and Gynaecologists (ACOG) and Advisory Committee on Immunization Practices (ACIP) recommend routine prenatal or antepartum serologic screening of all pregnant women and postpartum vaccination of those found to be susceptible.",
    "Notes": "",
    "Factors for Screening Recommendation": "Pregnancy",
+   "Tags": "",
    ".": ""
  },
  {
@@ -654,12 +654,12 @@
    "Disease Type": "Infectious",
    "Category": "Cat 2",
    "Test": "Syphilis Enzyme Immunoassay",
-   "Tags": "\"Sexually Transmitted Infections, STIs, STDs\"",
    "Test Type": "Blood",
    "General Population Recommendation": "",
    "Individual Recommendation": "a) All pregnant women\nPregnant women should be screened for Syphilis (regardless of perceived risk) at the first antenatal visit in order to prevent in utero transmission of asymptomatic infection, which can lead to congenital Syphilis.\nb) Individuals with at-risk behaviours:\n1. Men and women (heterosexuals and men who have sex with men) having unprotected sex with multiple partners\n2. Commercial sex workers\n3. Persons who exchange sex for drugs\n4. Persons diagnosed with other Sexually Transmitted Infections (STIs) (i.e., Chlamydia/Non-gonococcal Urethritis, Gonorrhoea, Genital Herpes, HPV, and HIV) or with Genital ulceration\nThe optimal frequency of screening is a matter of clinical discretion. Screening for syphilis should be performed 1 month after exposure, and repeated again after 3 months for at-risk groups as defined by above.",
    "Notes": "Routine screening for all pregnant women is justified in view of the severe neonatal morbidity and mortality associated with congenital syphilis, as well as its potential preventability. There is evidence from several studies which demonstrate that prenatal screening for syphilis is cost-effective.\nAlthough the USPSTF found no new direct evidence that screening for syphilis infection leads to improved health outcomes in persons at increased risk, there is adequate evidence that screening tests can accurately detect syphilis infection and that antibiotics can cure syphilis. Screening may result in potential harms (such as clinical evaluation of false-positive results, unnecessary anxiety to the patient, and harms of antibiotic use). The USPSTF concludes that the benefits of screening persons at increased risk for syphilis infection substantially outweigh the potential harms.\nAccording to the US CDC, treponemal tests such as EIA detect antibodies specific for syphilis, and are detectable for life even after successful treatment. If a treponemal test is used for screening and the results are positive, a nontreponemal test with titre should be performed to confirm diagnosis and guide patient management decisions.\nNontreponemal tests such as VDRL and RPR are simple, and are often used for screening. However, they are not specific for syphilis, can produce false-positive results, and by themselves, are insufficient for diagnosis. VDRL and RPR should each have their antibody titre results reported quantitatively. Persons with a reactive nontreponemal test should receive a treponemal test to confirm a syphilis diagnosis.",
    "Factors for Screening Recommendation": "Pregnancy, Lifestyle, Medical History, Profession",
+   "Tags": "\"Sexually Transmitted Infections, STIs, STDs\"",
    ".": ""
  },
  {
@@ -667,12 +667,12 @@
    "Disease Type": "Infectious",
    "Category": "Cat 2",
    "Test": "Treponema Pallidum Particle Agglutination (TPPA)/ Treponema Pallidum Haemagglutination (TPHA)",
-   "Tags": "\"Sexually Transmitted Infections, STIs, STDs\"",
    "Test Type": "Blood",
    "General Population Recommendation": "",
    "Individual Recommendation": "a) All pregnant women\nPregnant women should be screened for Syphilis (regardless of perceived risk) at the first antenatal visit in order to prevent in utero transmission of asymptomatic infection, which can lead to congenital Syphilis.\nb) Individuals with at-risk behaviours:\n1. Men and women (heterosexuals and men who have sex with men) having unprotected sex with multiple partners\n2. Commercial sex workers\n3. Persons who exchange sex for drugs\n4. Persons diagnosed with other Sexually Transmitted Infections (STIs) (i.e., Chlamydia/Non-gonococcal Urethritis, Gonorrhoea, Genital Herpes, HPV, and HIV) or with Genital ulceration\nThe optimal frequency of screening is a matter of clinical discretion. Screening for syphilis should be performed 1 month after exposure, and repeated again after 3 months for at-risk groups as defined by above.",
    "Notes": "Routine screening for all pregnant women is justified in view of the severe neonatal morbidity and mortality associated with congenital syphilis, as well as its potential preventability. There is evidence from several studies which demonstrate that prenatal screening for syphilis is cost-effective.\nAlthough the USPSTF found no new direct evidence that screening for syphilis infection leads to improved health outcomes in persons at increased risk, there is adequate evidence that screening tests can accurately detect syphilis infection and that antibiotics can cure syphilis. Screening may result in potential harms (such as clinical evaluation of false-positive results, unnecessary anxiety to the patient, and harms of antibiotic use). The USPSTF concludes that the benefits of screening persons at increased risk for syphilis infection substantially outweigh the potential harms.\nAccording to the US CDC, treponemal tests such as EIA detect antibodies specific for syphilis, and are detectable for life even after successful treatment. If a treponemal test is used for screening and the results are positive, a nontreponemal test with titre should be performed to confirm diagnosis and guide patient management decisions.\nNontreponemal tests such as VDRL and RPR are simple, and are often used for screening. However, they are not specific for syphilis, can produce false-positive results, and by themselves, are insufficient for diagnosis. VDRL and RPR should each have their antibody titre results reported quantitatively. Persons with a reactive nontreponemal test should receive a treponemal test to confirm a syphilis diagnosis.",
    "Factors for Screening Recommendation": "Pregnancy, Lifestyle, Medical History, Profession",
+   "Tags": "\"Sexually Transmitted Infections, STIs, STDs\"",
    ".": ""
  },
  {
@@ -680,12 +680,12 @@
    "Disease Type": "Infectious",
    "Category": "Cat 2",
    "Test": "Tuberculin Skin Test (TST) / Mantoux",
-   "Tags": "",
    "Test Type": "",
    "General Population Recommendation": "",
    "Individual Recommendation": "High risk group: Screening for Latent Tuberculosis Infection (LTBI) in asymptomatic individuals with IGRA or TST is recommended for close contacts of infectious TB cases (i.e. bacteriologically positive cases of pulmonary tuberculosis, especially if acid-fast bacilli smear is positive), in particular, family members who live together or co-workers in workplace, HIV patients, transplant patients (Solid organ and Haem), dialysis, patients receiving anti-TNF agents.",
    "Notes": "Either the TST or the IGRA may be used for the diagnosis of LTBI in adults and children 5 years or older. IGRA is the preferred test for adolescents and adults who have received Bacillus Calmette-Guerin (BCG) vaccination, while the TST is the preferred test for the diagnosis of latent tuberculosis in children <5 years of age.",
    "Factors for Screening Recommendation": "Lifestyle, Profession, Medical History",
+   "Tags": "",
    ".": ""
  },
  {
@@ -693,12 +693,12 @@
    "Disease Type": "Infectious",
    "Category": "Cat 2",
    "Test": "Chest X-ray (CXR)",
-   "Tags": "",
    "Test Type": "X-ray",
    "General Population Recommendation": "",
    "Individual Recommendation": "High risk group: Screening for active pulmonary TB with CXR is recommended for close contacts of infectious TB patients (i.e. bacteriologically positive cases of pulmonary TB, especially if acid-fast bacilli smear is positive), specifically family members who live together, who have symptoms of TB (e.g. prolonged cough of more than three weeks), and/or are positive on IGRA / Mantoux tests suggesting possible LTBI.\nSpecial consideration: Foreigners and employees from countries where the disease is highly prevalent.",
    "Notes": "",
    "Factors for Screening Recommendation": "Lifestyle, Profession, Medical History",
+   "Tags": "",
    ".": ""
  },
  {
@@ -706,12 +706,12 @@
    "Disease Type": "Infectious",
    "Category": "Cat 2",
    "Test": "Interferon-Gamma Release Assay (IGRA)",
-   "Tags": "",
    "Test Type": "Blood",
    "General Population Recommendation": "",
    "Individual Recommendation": "High risk group: Screening for Latent Tuberculosis Infection (LTBI) in asymptomatic individuals with IGRA or TST is recommended for close contacts of infectious TB cases (i.e. bacteriologically positive cases of pulmonary tuberculosis, especially if acid-fast bacilli smear is positive), in particular, family members who live together or co-workers in workplace, HIV patients, transplant patients (Solid organ and Haem), dialysis, patients receiving anti-TNF agents.",
    "Notes": "Either the TST or the IGRA may be used for the diagnosis of LTBI in adults and children 5 years or older. IGRA is the preferred test for adolescents and adults who have received Bacillus Calmette-Guerin (BCG) vaccination, while the TST is the preferred test for the diagnosis of latent tuberculosis in children <5 years of age.",
    "Factors for Screening Recommendation": "Lifestyle, Profession, Medical History",
+   "Tags": "",
    ".": ""
  },
  {
@@ -719,12 +719,12 @@
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 2",
    "Test": "Full Blood Count (FBC)",
-   "Tags": "Blood, Anemia",
    "Test Type": "Blood",
    "General Population Recommendation": "",
    "Individual Recommendation": "High Risk Groups:\na) Pregnant women and women planning to conceive\nb) Preterm infants and low birth weight infants\nc) Infants who are fed a diet of non-iron-fortified infant formula for >2 months\nd) Breast-fed infants who do not consume a diet adequate in iron after age 6 months (i.e. who receive insufficient iron from supplementary foods)\ne) Children who have special health-care needs (e.g. children who use medications that interfere with iron absorption and those who have chronic infection, inflammatory disorders, restricted diets, or extensive blood loss from a wound, an accident, or surgery).\nAll pregnant women should be screened at the first prenatal visit; for women planning to conceive, they should be screened once before pregnancy. For infants and children at high risk as defined from (c) to (e), the frequency is once a year until 5 years old.",
    "Notes": "",
    "Factors for Screening Recommendation": "Pregnancy, Prematurity, Lifestyle",
+   "Tags": "Blood, Anemia",
    ".": ""
  },
  {
@@ -732,12 +732,12 @@
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 2",
    "Test": "Urine Microalbumin/Creatinine Ratio",
-   "Tags": "\"High blood sugar, Glucose\", Diabetes",
    "Test Type": "Urine",
    "General Population Recommendation": "",
    "Individual Recommendation": "Recommendation: Screening for albuminuria should begin 5 years after the diagnosis of Type 1 Diabetes. It should, however, begin immediately with the diagnosis of Type 2 Diabetes. Thereafter, screening for albuminuria should be done annually.",
    "Notes": "Kidney disease develops in a similar, though not identical fashion in Type 1 and Type 2 Diabetes, with progressive proteinuria heralding the development of nephropathy. Less commonly, however, renal dysfunction may occur in the absence of the classic progressive albuminuria.\nMicroalbuminuria (defined as low levels of urine albumin from 30 to 299 mg/day) develops in 40% of Type 1 diabetic patients about 5 years after initial presentation. When microalbuminuria is due to diabetic nephropathy, it is persistent. Without specific interventions, 80% will progress to a stage of clinical proteinuria over a period of 10 to 15 years, where the urine albumin levels are >300 mg/l. End Stage Renal Disease (ESRD) usually occurs in 50% of Type 1 Diabetes with overt nephropathy within 10 years, and in more than 75% by 20 years.\nA higher proportion of Type 2 diabetic patients may have proteinuria at the time of diagnosis of hyperglycaemia, as the onset of development of hyperglycaemia is usually not distinct like it is with Type 1 Diabetes. Without specific interventions, a smaller proportion (20 to 40%) with microalbuminuria will progress to overt nephropathy, but only about 20% of these patients would have progressed to ESRD within 20 years.",
    "Factors for Screening Recommendation": "Medical History",
+   "Tags": "\"High blood sugar, Glucose\", Diabetes",
    ".": ""
  },
  {
@@ -745,12 +745,12 @@
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 2",
    "Test": "Kidney Function Test/Renal Panel",
-   "Tags": "",
    "Test Type": "Blood",
    "General Population Recommendation": "",
    "Individual Recommendation": "Recommendation: Individuals at increased risk of developing chronic renal disease should undergo testing of serum creatinine in order to estimate the glomerular filtration rate.\nHigh Risk Groups (Any one of the following risk factors):\na) Individuals with diabetes mellitus\nb) Individuals with hypertension\nc) Individuals with cardiovascular disease\nd) Individuals aged 50 years and above and who is a smoker\ne) Individuals with a family history of ESRD\nThe test is performed annually.",
    "Notes": "",
    "Factors for Screening Recommendation": "Family History, Medical History, Age, Lifestyle",
+   "Tags": "",
    ".": ""
  },
  {
@@ -758,12 +758,12 @@
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 2",
    "Test": "Urine Analysis",
-   "Tags": "",
    "Test Type": "Urine",
    "General Population Recommendation": "",
    "Individual Recommendation": "Screening using dipstick analysis should be performed for the following individuals at risk for kidney disease:\nHigh Risk Groups (Any one of the following risk factors):\na) Individuals with Diabetes Mellitus (DM)\nb) Individuals with Hypertension (HTN)\nc) Individuals with cardiovascular disease\nd) Individuals aged 50 years and above and who is a smoker\ne) Individuals with a family history of ESRD\nScreening to detect microscopic haematuria and proteinuria in asymptomatic population is not recommended.",
    "Notes": "The US Multiple Risk Factor Intervention Trial had shown that older age, smoking, hypertension and diabetes were significant risk factors for ESRD.\nFamilial aggregation of renal disease, in excess of that predicted by clustering of diabetes and hypertension, had also been reported in a population-based case-control study. In view of this, individuals with any one of the mentioned risk factors should be considered for screening.\nThe National Kidney Foundation has more than 10 years of field experience with the Kidney Early Evaluation Programme (KEEP), a targeted screening programme directed at the general population with diabetes, hypertension or family history of kidney diseases. The criteria for high-risk groups were developed in the mid-1990s based on diabetes and hypertension being the leading cause of ESRD, accounting for 71% of all cases, and on increased ESRD rates in family members of dialysis patients.",
    "Factors for Screening Recommendation": "Family History, Medical History, Age, Lifestyle",
+   "Tags": "",
    ".": ""
  },
  {
@@ -771,12 +771,12 @@
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 2",
    "Test": "Bone Mineral Density (BMD) Scan",
-   "Tags": "",
    "Test Type": "X-ray",
    "General Population Recommendation": "",
    "Individual Recommendation": "High Risk Group: Postmenopausal Asian women with high Osteoporosis Self-assessment Tool for Asians (OSTA) score.",
    "Notes": "It is not advisable to screen BMD in the whole population though the definition of osteoporosis is based on BMD, as the measurements are costly and the cost-benefit or cost-effectiveness of such a strategy has not been demonstrated.\nFor females, the Osteoporosis Self-Assessment Tool (OSTA) for postmenopausal Asian women should be used as a risk assessment tool first before deciding on whether BMD should be offered. The Osteoporosis Self-assessment Tool for Asians (OSTA), which is based on age and weight, categorises postmenopausal Asian women into high, moderate and low risk of having osteoporosis on subsequent BMD measurement.\nA case-finding approach should be employed for women falling into the moderate risk category and they should be evaluated for clinical risk factors, and have BMD measured if these factors are present. The prevalence of osteoporosis is low enough in the low risk category for BMD to be deferred, unless the woman has other identified clinical risk factors.\nWomen with osteoporosis, who are being monitored for progression or who are being treated, should have a follow-up BMD, usually at an interval of at least one year. In women with osteopenia (BMD between 1 and 2.5 S.D. below the mean peak bone mass of young adults) a reasonable interval might be 1 to 2 years, while in those with normal BMD (more than -1 S.D. below the mean peak bone mass of young adults) a more reasonable interval may be 2 to 5 years.\n*OSTA formula (for females): Applicable for Asian females who are postmenopausal*\nAge (years) – weight (kg) =\n> 20 high risk (should screen with BMD)\n0-20 moderate risk (screen with BMD if other risk factors for osteoporosis present)\n< 0 low risk\nRisk factors for low bone mass for which BMD measurement might be considered are as follows:\n*Non-modifiable risk factors*\na) Personal history of previous fracture as an adult\nb) History of fracture in a first degree relative (especially maternal)\nc) Low body weight\nd) Older age\n*Potentially modifiable risk factors*\na) Current cigarette smoking\nb) Alcohol abuse\nc) Early natural or surgical menopause before the age of 45 years, or prolonged premenopausal amenorrhea lasting > 1 year\nd) Drugs e.g. corticosteroids (equivalent to prednisolone > 7.5 mg/day for more than 6 months), excess thyroxine, anticonvulsants\ne) Ongoing disease conditions e.g. hypogonadism, hyperthyroidism, hyperparathyroidism, Cushing’s syndrome, chronic obstructive airways disease, liver disease, malabsorption, chronic renal failure, rheumatoid arthritis, organ transplantation and anorexia nervosa\nf) Prolonged immobilisation, poor health or fragility\ng) Lifelong low calcium intake (< 500 mg/day among Asians)\nh) Lack of regular physical activity\nFor Asian males, there is no validated osteoporosis self-assessment screening tool available as yet. Clinical risk factors should be assessed and the BMD measured if indicated based on medical assessment.",
    "Factors for Screening Recommendation": "Ethnicity, Age",
+   "Tags": "",
    ".": ""
  },
  {
@@ -784,12 +784,12 @@
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 2",
    "Test": "Thyroid Function Test (TFT)",
-   "Tags": "",
    "Test Type": "Blood",
    "General Population Recommendation": "",
    "Individual Recommendation": "High Risk Groups:\na) Obese people as defined conventionally by individuals in high-risk weight categories; hypothyroidism may be asymptomatic and yet, obesity accounts for excessive morbidity and mortality (Diabetes Mellitus, Hyperlipidaemia, Metabolic Syndrome, Polycystic Ovarian Syndrome, Ischaemic Heart Disease, Cancers and Obstructive Sleep Apnoea). Testing can be done just once in the workup for a secondary cause of obesity.\nb) Any individual with autoimmune disease as this will predispose to thyroid disorders such as Grave’s Disease or Hashimoto’s Thyroiditis. The Thyroid-Stimulating Hormone (TSH) level in the individual should be assessed annually.\nc) Pregnant women who have diabetes mellitus or adrenal disease as they tend to develop goitre during pregnancy and the consequences of mental retardation in the offspring are severe. Thyroid function test (TFT) should be performed once early on during pregnancy.",
    "Notes": "",
    "Factors for Screening Recommendation": "Obesity, Medical History, Pregnancy",
+   "Tags": "",
    ".": ""
  },
  {
@@ -797,12 +797,12 @@
    "Disease Type": "OB/GYN",
    "Category": "Cat 2",
    "Test": "Vaginal and Rectal swab",
-   "Tags": "",
    "Test Type": "",
    "General Population Recommendation": "",
    "Individual Recommendation": "High Risk Group: All pregnant women between 35 and 37 weeks gestation.\nThe Centres for Disease Control and Prevention (CDC) and the American Academy of Pediatrics (AAP) recommend universal prenatal screening at 35-37 weeks of gestation. This contradicts the Royal College of Obstetricians and Gynaecologists (RCOG) guideline which does not recommend universal prenatal screening for GBS carrier. Though universal screening is not recommended by the RCOG, the indications for intrapartum antimicrobial prophylaxis (IAP) as stated in the RCOG guideline are similar to that of the CDC guideline.",
    "Notes": "",
    "Factors for Screening Recommendation": "Pregnancy",
+   "Tags": "",
    ".": ""
  },
  {
@@ -810,12 +810,12 @@
    "Disease Type": "Vision and Hearing",
    "Category": "Cat 2",
    "Test": "Retinal Fundal Photography",
-   "Tags": "Diabetes, \"Eye, Vision, Visual, Sight\"",
    "Test Type": "Eye",
    "General Population Recommendation": "",
    "Individual Recommendation": "Recommendation: All patients diagnosed with diabetes require regular visual acuity assessment and eye examinations by trained personnel to screen for diabetic retinopathy. Type 1 diabetic patients should be examined 3 to 5 years after diagnosis of diabetes, and at least once yearly subsequently. Type 2 diabetic patients should have an ocular assessment at the time of diagnosis and at least once yearly subsequently.",
    "Notes": "",
    "Factors for Screening Recommendation": "Medical History",
+   "Tags": "Diabetes, \"Eye, Vision, Visual, Sight\"",
    ".": ""
  },
  {
@@ -823,12 +823,12 @@
    "Disease Type": "Vision and Hearing",
    "Category": "Cat 2",
    "Test": "Audiometry",
-   "Tags": "\"Ear, Hearing, Audio\"",
    "Test Type": "",
    "General Population Recommendation": "",
    "Individual Recommendation": "High Risk Group: All persons exposed to excessive noise must undergo pre-employment and annual medical examinations which include audiometry under the Workplace Safety and Health (Medical Examinations) Regulations by Ministry of Manpower.",
    "Notes": "",
    "Factors for Screening Recommendation": "Profession",
+   "Tags": "\"Ear, Hearing, Audio\"",
    ".": ""
  },
  {
@@ -836,12 +836,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "Urine dipstick or microscopic urinalysis, urine cytology and tests for urine\nbiomarkers",
-   "Tags": "",
    "Test Type": "Urine",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "",
    ".": ""
  },
  {
@@ -849,12 +849,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "Tumor Marker for Breast Cancer (e.g. CEA and CA15-3)",
-   "Tags": "",
    "Test Type": "Tumor Marker",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "",
    ".": ""
  },
  {
@@ -862,12 +862,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "Ultrasound Breast",
-   "Tags": "",
    "Test Type": "Ultrasound",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "In women with dense breasts, adjunct ultrasound screening increases the breast cancer detection yield compared to mammogram screening alone.\nHowever, this will be associated with a significant rise in false positives and in the use of additional healthcare resources for the work-up of added breast findings, most of which will be benign and not clinically significant. Moreover, there is no survival data available. In view of its doubtful overall benefit, the routine use adjunct ultrasound screening is not recommended.",
    "Factors for Screening Recommendation": "",
+   "Tags": "",
    ".": ""
  },
  {
@@ -875,12 +875,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "CT Pelvis",
-   "Tags": "Cervix",
    "Test Type": "CT",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "Cervix",
    ".": ""
  },
  {
@@ -888,12 +888,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "Ultrasound Pelvis",
-   "Tags": "Cervix",
    "Test Type": "Ultrasound",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "Cervix",
    ".": ""
  },
  {
@@ -901,12 +901,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "Abdominal X-ray (AXR)",
-   "Tags": "\"Colon, Rectum\"",
    "Test Type": "X-ray",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "\"Colon, Rectum\"",
    ".": ""
  },
  {
@@ -914,12 +914,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "Carcinoembryonic Antigen (CEA)",
-   "Tags": "\"Colon, Rectum\"",
    "Test Type": "Tumor Marker",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "\"Colon, Rectum\"",
    ".": ""
  },
  {
@@ -927,12 +927,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "CT Abdomen",
-   "Tags": "\"Colon, Rectum\"",
    "Test Type": "CT",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "\"Colon, Rectum\"",
    ".": ""
  },
  {
@@ -940,12 +940,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "Methylated SEPT9 DNA Test",
-   "Tags": "\"Colon, Rectum\"",
    "Test Type": "Tumor Marker",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "\"Colon, Rectum\"",
    ".": ""
  },
  {
@@ -953,12 +953,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "CT Pelvis",
-   "Tags": "\"Womb, Uterus\"",
    "Test Type": "CT",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "\"Womb, Uterus\"",
    ".": ""
  },
  {
@@ -966,12 +966,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "Liver Function Test (LFT)",
-   "Tags": "",
    "Test Type": "Tumor Marker",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "",
    ".": ""
  },
  {
@@ -979,12 +979,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "Chest X-ray (CXR)",
-   "Tags": "Lungs",
    "Test Type": "X-ray",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "Lungs",
    ".": ""
  },
  {
@@ -992,12 +992,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "Tumor Marker for Lung Cancer",
-   "Tags": "Lungs",
    "Test Type": "Tumor Marker",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "Lungs",
    ".": ""
  },
  {
@@ -1005,12 +1005,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "Oesophago-Gastro-Duodenoscopy",
-   "Tags": "Gullet",
    "Test Type": "Scope",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "Gullet",
    ".": ""
  },
  {
@@ -1018,12 +1018,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "Cancer Antigen (CA) 125",
-   "Tags": "\"Ovary, Ovaries\"",
    "Test Type": "Tumor Marker",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "\"Ovary, Ovaries\"",
    ".": ""
  },
  {
@@ -1031,12 +1031,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "CT Pelvis",
-   "Tags": "\"Ovary, Ovaries\"",
    "Test Type": "CT",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "\"Ovary, Ovaries\"",
    ".": ""
  },
  {
@@ -1044,12 +1044,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "CA 19-9",
-   "Tags": "Pancreas",
    "Test Type": "Tumor Marker",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "Pancreas",
    ".": ""
  },
  {
@@ -1057,12 +1057,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "CT Scan",
-   "Tags": "Pancreas",
    "Test Type": "CT",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "Pancreas",
    ".": ""
  },
  {
@@ -1070,12 +1070,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "MRI Prostate",
-   "Tags": "",
    "Test Type": "MRI",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "",
    ".": ""
  },
  {
@@ -1083,12 +1083,12 @@
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "Tumor Markers (e.g. AFP and beta-hCG)",
-   "Tags": "Testicles",
    "Test Type": "Tumor Marker",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "Testicles",
    ".": ""
  },
  {
@@ -1096,12 +1096,12 @@
    "Disease Type": "Heart and Vascular",
    "Category": "Cat 3",
    "Test": "Duplex Ultrasonography",
-   "Tags": "",
    "Test Type": "Ultrasound",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "",
    ".": ""
  },
  {
@@ -1109,12 +1109,12 @@
    "Disease Type": "Heart and Vascular",
    "Category": "Cat 3",
    "Test": "MRI/MRA Brain",
-   "Tags": "",
    "Test Type": "MRI",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "",
    ".": ""
  },
  {
@@ -1122,12 +1122,12 @@
    "Disease Type": "Heart and Vascular",
    "Category": "Cat 3",
    "Test": "CT Coronary Angiogram",
-   "Tags": "",
    "Test Type": "CT",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "",
    ".": ""
  },
  {
@@ -1135,12 +1135,12 @@
    "Disease Type": "Heart and Vascular",
    "Category": "Cat 3",
    "Test": "Homocysteine",
-   "Tags": "",
    "Test Type": "Blood",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "",
    ".": ""
  },
  {
@@ -1148,12 +1148,12 @@
    "Disease Type": "Heart and Vascular",
    "Category": "Cat 3",
    "Test": "Serum Uric Acid",
-   "Tags": "",
    "Test Type": "Blood",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "",
    ".": ""
  },
  {
@@ -1161,12 +1161,12 @@
    "Disease Type": "Infectious",
    "Category": "Cat 3",
    "Test": "Hepatitis A Screen",
-   "Tags": "\"Sexually Transmitted Infections, STIs, STDs\", Liver",
    "Test Type": "Blood",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "\"Sexually Transmitted Infections, STIs, STDs\", Liver",
    ".": ""
  },
  {
@@ -1174,12 +1174,12 @@
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 3",
    "Test": "Serum Uric Acid",
-   "Tags": "",
    "Test Type": "Blood",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "",
    ".": ""
  },
  {
@@ -1187,12 +1187,12 @@
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 3",
    "Test": "Body Fat Measurement",
-   "Tags": "\"Fat, Overweight, Obese\"",
    "Test Type": "",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "\"Fat, Overweight, Obese\"",
    ".": ""
  },
  {
@@ -1200,12 +1200,12 @@
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 3",
    "Test": "Erythrocyte Sedimentation Rate (ESR)",
-   "Tags": "",
    "Test Type": "Blood",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "",
    ".": ""
  },
  {
@@ -1213,12 +1213,12 @@
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 3",
    "Test": "Serum Calcium",
-   "Tags": "",
    "Test Type": "Blood",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "",
    ".": ""
  },
  {
@@ -1226,12 +1226,12 @@
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 3",
    "Test": "Serum Phosphate",
-   "Tags": "",
    "Test Type": "Blood",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "",
    ".": ""
  },
  {
@@ -1239,12 +1239,12 @@
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 3",
    "Test": "Quantitative Ultrasound Scan (QUS) of the Calcaneum",
-   "Tags": "",
    "Test Type": "Ultrasound",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "Quantitative ultrasound measures ultrasound velocity and ultrasound broadband attenuation in bone for assessing bone density compared to the more commonly used Dual-energy X-ray Absorptiometry (DXA) scan. The benefits of QUS include portability, not exposing patients to radiation, and being less expensive.\nHowever, there is limited application for QUS in screening due to its low sensitivity for detecting osteoporosis. Also, T-scores on different QUS machines are not directly translatable to DXA T-scores based on WHO classification. Since DXA T-scores are well validated for diagnosis and prognosis, a low T-score on QUS heel would still require subsequent DXA scanning to confirm the diagnosis. Locally, the normative databases for Singaporeans for QUS machines have not been established and there are no agreed upon criteria. In addition, there is good access to DXA scanning in Singapore.",
    "Factors for Screening Recommendation": "",
+   "Tags": "",
    ".": ""
  },
  {
@@ -1252,12 +1252,12 @@
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 3",
    "Test": "Rheumatoid Factor",
-   "Tags": "Rheumatism",
    "Test Type": "Blood",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "Rheumatism",
    ".": ""
  },
  {
@@ -1265,12 +1265,12 @@
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 3",
    "Test": "Anti-Double Stranded DNA Antibody (Anti-DS DNA Ab)",
-   "Tags": "",
    "Test Type": "Blood",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "",
    ".": ""
  },
  {
@@ -1278,12 +1278,12 @@
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 3",
    "Test": "Anti-Nuclear Antibody (ANA)",
-   "Tags": "",
    "Test Type": "Blood",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "",
    ".": ""
  },
  {
@@ -1291,12 +1291,12 @@
    "Disease Type": "Misc",
    "Category": "Cat 3",
    "Test": "MRI Prostate",
-   "Tags": "",
    "Test Type": "MRI",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "",
    ".": ""
  },
  {
@@ -1304,12 +1304,12 @@
    "Disease Type": "Misc",
    "Category": "Cat 3",
    "Test": "Prostate-Specific Antigen (PSA)",
-   "Tags": "",
    "Test Type": "Tumor Marker",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "",
    ".": ""
  },
  {
@@ -1317,12 +1317,12 @@
    "Disease Type": "Misc",
    "Category": "Cat 3",
    "Test": "Spirometry",
-   "Tags": "",
    "Test Type": "",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "",
    ".": ""
  },
  {
@@ -1330,12 +1330,12 @@
    "Disease Type": "MSK",
    "Category": "Cat 3",
    "Test": "MRI Lumbar Spine",
-   "Tags": "",
    "Test Type": "MRI",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "",
    ".": ""
  },
  {
@@ -1343,12 +1343,12 @@
    "Disease Type": "MSK",
    "Category": "Cat 3",
    "Test": "MRI Cervical Spine",
-   "Tags": "",
    "Test Type": "MRI",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "",
    ".": ""
  },
  {
@@ -1356,12 +1356,12 @@
    "Disease Type": "OB/GYN",
    "Category": "Cat 3",
    "Test": "Serum 5-Dehydroepiandrosterone (DHEA)",
-   "Tags": "",
    "Test Type": "Blood",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "",
    ".": ""
  },
  {
@@ -1369,12 +1369,12 @@
    "Disease Type": "OB/GYN",
    "Category": "Cat 3",
    "Test": "Serum Estradiol (E2)",
-   "Tags": "",
    "Test Type": "Blood",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "",
    ".": ""
  },
  {
@@ -1382,12 +1382,12 @@
    "Disease Type": "OB/GYN",
    "Category": "Cat 3",
    "Test": "Serum Follicle-Stimulating Hormone (FSH)",
-   "Tags": "",
    "Test Type": "Blood",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "",
    ".": ""
  },
  {
@@ -1395,12 +1395,12 @@
    "Disease Type": "OB/GYN",
    "Category": "Cat 3",
    "Test": "Serum Insulin-Growth Factor-1 (IGF1)",
-   "Tags": "",
    "Test Type": "Blood",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "",
    ".": ""
  },
  {
@@ -1408,12 +1408,12 @@
    "Disease Type": "OB/GYN",
    "Category": "Cat 3",
    "Test": "Serum Progesterone",
-   "Tags": "",
    "Test Type": "Blood",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "",
    ".": ""
  },
  {
@@ -1421,12 +1421,12 @@
    "Disease Type": "OB/GYN",
    "Category": "Cat 3",
    "Test": "Serum Testosterone",
-   "Tags": "",
    "Test Type": "Blood",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "",
    ".": ""
  },
  {
@@ -1434,12 +1434,12 @@
    "Disease Type": "Vision and Hearing",
    "Category": "Cat 3",
    "Test": "AMD screen (Amsler Grid Chart)",
-   "Tags": "\"Eye, Vision, Visual, Sight\"",
    "Test Type": "Eye",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "\"Eye, Vision, Visual, Sight\"",
    ".": ""
  },
  {
@@ -1447,12 +1447,12 @@
    "Disease Type": "Vision and Hearing",
    "Category": "Cat 3",
    "Test": "Tonometry",
-   "Tags": "\"Eye, Vision, Visual, Sight\"",
    "Test Type": "Eye",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "\"Eye, Vision, Visual, Sight\"",
    ".": ""
  },
  {
@@ -1460,12 +1460,12 @@
    "Disease Type": "Vision and Hearing",
    "Category": "Cat 3",
    "Test": "Retinal Fundal Photography",
-   "Tags": "\"Eye, Vision, Visual, Sight\", High blood pressure",
    "Test Type": "Eye",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "\"Eye, Vision, Visual, Sight\", High blood pressure",
    ".": ""
  },
  {
@@ -1473,12 +1473,12 @@
    "Disease Type": "Vision and Hearing",
    "Category": "Cat 3",
    "Test": "Visual Acuity Test",
-   "Tags": "\"Eye, Vision, Visual, Sight\"",
    "Test Type": "Eye",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
+   "Tags": "\"Eye, Vision, Visual, Sight\"",
    ".": ""
  }
 ]
