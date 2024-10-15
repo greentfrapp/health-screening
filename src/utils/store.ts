@@ -28,7 +28,10 @@ export const useStore = defineStore(
         let results = searchCorpus
         if (state.searchQuery) {
           results = results.filter(r => {
-            return r.Disease.toLowerCase().includes(query) || r.Test.toLowerCase().includes(query)
+            return r.Disease.toLowerCase().includes(query) ||
+              r.Test.toLowerCase().includes(query) ||
+              r.Tags.toLowerCase().includes(query) ||
+              r['Test Type'].toLowerCase().includes(query)
           })
         }
         if (state.searchTestCategory.length) {
