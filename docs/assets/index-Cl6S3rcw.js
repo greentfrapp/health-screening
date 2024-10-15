@@ -29,7 +29,7 @@ Potential risks of mammography include false-positive results, diagnosis and tre
 HPV testing using the Cobas HPV Test (Roche Molecular Systems, Inc) was approved by the US Food and Drug Administration (FDA) in April 2014 for primary cervical cancer screening. HPV Testing for primary cervical screening allows for less frequent screening and helps to identify women who need increased surveillance.
 Studies have shown that compared with cytology, HPV DNA testing is more sensitive for identifying women who have CIN2+ (95% versus 55%). According to Ronco et al., a screening interval of at least 5 years for hrHPV screening is safer than cytology every 3 years.
 However, HPV testing has lower specificity compared with cytology (94% versus 97%). Current screening guidelines recommend initiation of HPV testing at 30 years of age. Primary HPV screening at age 25 years may lead to increased colposcopies and unnecessary intervention; progression of dysplasia to cancer is uncommon in this age group; detection of most of the disease found in this age group can be safely deferred until age 30 and older; and it is unclear that identification of these women with CIN3+ would translate into a meaningful reduction of cervical cancer. Hence HPV testing in women younger than 30 years would have even lower specificity and not be useful in these women where there is a higher incidence of high risk HPV infection which is often regressive in nature.
-HPV testing should not be used:
+HPV testing should **not** be used:
 a. For screening before deciding on HPV vaccination
 b. For routine Sexually Transmitted Infection (STI) screening
 c. To screen women < 30 years old.
@@ -38,7 +38,7 @@ Women aged 30 years and above should be screened with HPV testing. This should b
 HPV testing using the Cobas HPV Test (Roche Molecular Systems, Inc) was approved by the US Food and Drug Administration (FDA) in April 2014 for primary cervical cancer screening. HPV Testing for primary cervical screening allows for less frequent screening and helps to identify women who need increased surveillance.
 Studies have shown that compared with cytology, HPV DNA testing is more sensitive for identifying women who have CIN2+ (95% versus 55%). According to Ronco et al., a screening interval of at least 5 years for hrHPV screening is safer than cytology every 3 years.
 However, HPV testing has lower specificity compared with cytology (94% versus 97%). Current screening guidelines recommend initiation of HPV testing at 30 years of age. Primary HPV screening at age 25 years may lead to increased colposcopies and unnecessary intervention; progression of dysplasia to cancer is uncommon in this age group; detection of most of the disease found in this age group can be safely deferred until age 30 and older; and it is unclear that identification of these women with CIN3+ would translate into a meaningful reduction of cervical cancer. Hence HPV testing in women younger than 30 years would have even lower specificity and not be useful in these women where there is a higher incidence of high risk HPV infection which is often regressive in nature.
-HPV testing should not be used:
+HPV testing should **not** be used:
 a. For screening before deciding on HPV vaccination
 b. For routine Sexually Transmitted Infection (STI) screening
 c. To screen women < 30 years old.
@@ -49,7 +49,7 @@ Average-risk individuals refer to asymptomatic individuals and individuals who d
 In its assessment, the USPSTF found adequate evidence that treatment for amblyopia or unilateral refractive errors is associated with moderate improvements in visual acuity for children 3 to 5 years of age and, in theory, permanent improvements throughout life. Although the average improvement in visual acuity resulting from treatment for amblyopia was ~1 line on a Snellen eye chart, the USPSTF concluded that the benefits are moderate because untreated amblyopia results in permanent, uncorrectable vision loss and the potential benefits are experienced over the individual's life span. Harms from treatment seem to be minimal. Therefore, the USPSTF concluded with moderate certainty that the overall net benefit is moderate.
 Under the National Myopia Prevention Programme under the auspices of the Health Promotion Board, yearly vision screening is conducted for Kindergarten 1 and Kindergarten 2 students in all pre-schools. For the primary and secondary students, visual acuity screening is conducted as part of the annual health screening by the School Health Service. Additionally, three-dimensional (3D) vision screening and colour vision screening are performed on all Primary 1 children.`,"Factors for Screening Recommendation":"Age",".":""},{Disease:"Glucose-6-Phosphate Dehydrogenase (G6PD) deficiency in neonates","Disease Type":"Congenital and Pediatric",Category:"Cat 1",Test:"Cord Blood G6PD Screening","Test Type":"Blood","General Population Recommendation":"All newborns in Singapore are screened for G6PD deficiency using umbilical cord blood.","Individual Recommendation":"",Notes:"","Factors for Screening Recommendation":"Age",".":""},{Disease:"Hearing Loss in Neonates (Deafness in Neonates)","Disease Type":"Congenital and Pediatric",Category:"Cat 1",Test:"Audiometry","Test Type":"","General Population Recommendation":"All newborns in Singapore are screened for congenital hearing impairment under the “Universal Newborn Hearing Screening” programme.","Individual Recommendation":"",Notes:`Screening is carried out using automated Auditory Brain-stem Response (AABR), Transient Evoked Oto-acoustic Emission (TEOAE) or Distortion Product Oto-Acoustic Emission (DPOAE). It should be completed preferably before hospital discharge, so that diagnosis of congenital hearing impairment can be confirmed before the infant is 3 months old and intervention can begin before the infant is 6 months old. This is in line with recommendations of the Joint Committee on Infant Hearing (JCIH) 2007 of the American Academy of Paediatrics (AAP).
 In high-risk groups who have normal hearing screens at birth but remain at risk of progressive or delayed-onset hearing loss, repeat hearing screen is recommended, at up to 6-monthly intervals.
-High-risk conditions for progressive or delayed-onset hearing loss
+*High-risk conditions for progressive or delayed-onset hearing loss*
 a) Parental or caregiver concern over hearing or delayed language, speech or development
 b) Family history of permanent childhood hearing loss
 c) Clinical findings associated with syndromes that are known to include sensori-neural or conductive hearing loss
@@ -126,10 +126,9 @@ Although prostate biopsies rarely cause complications serious enough to require 
 This should include Nuchal Translucency Screening (NTS) combined with first trimester maternal serum screening (also known as the first trimester combined screening) or NTS combined with second trimester maternal serum testing (also known as step-wise sequential screening).`,Notes:"","Factors for Screening Recommendation":"Pregnancy",".":""},{Disease:"Retinopathy of Prematurity (ROP)","Disease Type":"Congenital and Pediatric",Category:"Cat 2",Test:"Indirect Ophthalmoscope, Eye Speculum or Scleral Indentor","Test Type":"Eye","General Population Recommendation":"","Individual Recommendation":`Recommendation: Screening should be carried out for infants with any one of the following:
 a. Birth weight less than 1500 g or
 b. Gestational age less than 32 weeks or
-c. Prolonged oxygen therapy use`,Notes:`_Screening Protocol_
+c. Prolonged oxygen therapy use`,Notes:`*Screening Protocol*
 a. Babies born before 27 weeks gestational age (i.e. up to 26 weeks and 6 days) - the first ROP screening examination should be undertaken at 30 to 31 week
-b. Babies born between 27 and 32 weeks gestational age (i.e. up to 31 weeks and 6 days) - the first ROP screening examination should be
-undertaken between 4 to 5 weeks (i.e. 28 to 35 days) postnatal age
+b. Babies born between 27 and 32 weeks gestational age (i.e. up to 31 weeks and 6 days) - the first ROP screening examination should be undertaken between 4 to 5 weeks (i.e. 28 to 35 days) postnatal age
 c. Babies >32 weeks gestational age but with birth weight <1500 grams – the first ROP screening examination should be undertaken between 4 to 5 weeks (i.e. 28 to 35 days) postnatal age
 d. Minimum frequencies of screening should be weekly when:
 1. the vessels end in zone I or posterior zone II; or
@@ -138,7 +137,7 @@ d. Minimum frequencies of screening should be weekly when:
 e. Minimum frequencies of screening should be every 2 weeks:
 f. In all other circumstances until the criteria for termination have been reached
 g. All babies <32 weeks gestational age or birth weight <1500g or have undergone prolonged oxygen therapy should have their first ROP screening examination prior to discharge
-Termination of ROP screening
+*Termination of ROP screening*
 Screening can be stopped when a baby is no longer at risk of sight-threatening ROP. In babies who never develop any ROP, the risk of sight-threatening ROP developing is minimal once the retinal vessels have entered zone III and eye examinations may be stopped when this happens, usually after 36 completed week’s postmenstrual age.
 In babies developing ROP which does not meet the criteria for treatment, screening can be safely stopped when any of the following characteristics of regression are seen on at least 2 successive examinations:
 a. Lack of increase in severity
@@ -283,18 +282,18 @@ The National Kidney Foundation has more than 10 years of field experience with t
 For females, the Osteoporosis Self-Assessment Tool (OSTA) for postmenopausal Asian women should be used as a risk assessment tool first before deciding on whether BMD should be offered. The Osteoporosis Self-assessment Tool for Asians (OSTA), which is based on age and weight, categorises postmenopausal Asian women into high, moderate and low risk of having osteoporosis on subsequent BMD measurement.
 A case-finding approach should be employed for women falling into the moderate risk category and they should be evaluated for clinical risk factors, and have BMD measured if these factors are present. The prevalence of osteoporosis is low enough in the low risk category for BMD to be deferred, unless the woman has other identified clinical risk factors.
 Women with osteoporosis, who are being monitored for progression or who are being treated, should have a follow-up BMD, usually at an interval of at least one year. In women with osteopenia (BMD between 1 and 2.5 S.D. below the mean peak bone mass of young adults) a reasonable interval might be 1 to 2 years, while in those with normal BMD (more than -1 S.D. below the mean peak bone mass of young adults) a more reasonable interval may be 2 to 5 years.
-OSTA formula (for females): Applicable for Asian females who are postmenopausal
+*OSTA formula (for females): Applicable for Asian females who are postmenopausal*
 Age (years) – weight (kg) =
 > 20 high risk (should screen with BMD)
 0-20 moderate risk (screen with BMD if other risk factors for osteoporosis present)
 < 0 low risk
 Risk factors for low bone mass for which BMD measurement might be considered are as follows:
-Non-modifiable risk factors
+*Non-modifiable risk factors*
 a) Personal history of previous fracture as an adult
 b) History of fracture in a first degree relative (especially maternal)
 c) Low body weight
 d) Older age
-Potentially modifiable risk factors
+*Potentially modifiable risk factors*
 a) Current cigarette smoking
 b) Alcohol abuse
 c) Early natural or surgical menopause before the age of 45 years, or prolonged premenopausal amenorrhea lasting > 1 year
