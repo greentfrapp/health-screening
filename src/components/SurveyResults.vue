@@ -33,7 +33,7 @@
         </div>
         <div v-if="store.medicalHistory.includes(MedicalHistoryFemale.PREGNANCY)"
           class="bg-white border-4 border-red-100 rounded-3xl px-3 py-3 space-y-2">
-          Screening tests related to congenital and pediatric conditions such as antenatal and foetal abnormalities have been excluded from this list. Refer to the <router-link :to="{ path: '/search', query: {
+          As a parent, you might want to be aware of screening tests related to congenital and pediatric conditions such as antenatal and foetal abnormalities. Refer to the <router-link :to="{ path: '/search', query: {
             q: store.searchQuery || undefined,
             diseaseTypes: ['Congenital and Pediatric'],
           } }">Search tab</router-link> for details on these screenings.
