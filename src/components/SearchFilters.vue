@@ -1,7 +1,9 @@
 <template>
-  <div class="text-sm space-y-2 pt-2">
-    <div v-for="filter in filters" class="space-y-1">
-      <Label>{{ filter.label }}</Label>
+  <div class="text-sm space-y-2 lg:space-y-4 pt-2">
+    <div v-for="filter in filters" class="space-y-2">
+      <Label>
+        {{ filter.label }}
+      </Label>
       <div class="flex flex-wrap gap-1">
         <Toggle v-for="i in filter.options"
           :active="optionIsActive(filter.key, i.value)"

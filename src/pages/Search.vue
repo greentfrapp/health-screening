@@ -1,5 +1,5 @@
 <template>
-  <div class="h-full overflow-hidden grow shrink flex flex-col lg:flex-row justify-center gap-2">
+  <div class="h-full overflow-hidden grow shrink flex flex-col lg:flex-row justify-center lg:gap-2">
     <SearchIntro v-if="store.showSearchIntro" />
     <template v-else>
       <SearchBar/>
