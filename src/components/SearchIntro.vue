@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-white flex flex-col items-center gap-10 py-10 max-w-[500px] h-full overflow-auto">
+  <div class="bg-white flex flex-col items-center gap-10 py-10 max-w-[500px] h-full overflow-auto mx-auto">
     <img src="@/assets/search.jpg" class="w-[150px]" />
     <div class="px-8 space-y-4" v-html="converter.makeHtml(disclaimer)"></div>
     <button @click="store.showSearchIntro = false" class="bg-neutral-100 rounded-full px-6 py-2">

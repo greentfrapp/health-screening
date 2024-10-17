@@ -51,6 +51,8 @@
     "rules": [
       {
         "ageGroup": [
+          "25 to 39",
+          "40 to 49",
           "50 to 69",
           "Above 70"
         ],
@@ -69,7 +71,7 @@
     "rules": [
       {
         "familyHistory": [
-          "Nasopharyngeal Cancer"
+          "Nasopharyngeal cancer"
         ]
       }
     ],
@@ -148,7 +150,7 @@
       },
       {
         "medicalHistory": [
-          "Aneurysmal subarachnoid haemorrhage",
+          "Subarachnoid haemorrhage",
           "Autosomal dominant polycystic kidney disease (ADPKD)"
         ]
       }
@@ -253,7 +255,8 @@
       {
         "medicalHistory": [
           "Pregnancy",
-          "HIV"
+          "HIV",
+          "Chronic kidney disease"
         ]
       }
     ],
@@ -271,7 +274,8 @@
     "rules": [
       {
         "medicalHistory": [
-          "HIV"
+          "HIV",
+          "Chronic kidney disease"
         ]
       }
     ],
@@ -280,7 +284,6 @@
       "Healthcare workers",
       "Chronic haemodialysis patients",
       "HIV",
-      "Travelers from countries where Hepatitis C is endemic",
       "Potential exposure via infected blood"
     ]
   },
@@ -309,6 +312,17 @@
       "Potential exposure via blood, sexual activity, or other body fluid",
       "Other STIs"
     ]
+  },
+  {
+    "condition": "Rubella",
+    "rules": [
+      {
+        "medicalHistory": [
+          "Pregnancy"
+        ]
+      }
+    ],
+    "descriptionHTML": "Rubella is a contagious viral infection also known as German measles. While it often has mild symptoms, an infection during early pregnancy can lead to miscarriages or birth defects due to congenital rubella syndrome.\n\nAll pregnant women should be screened for rubella susceptibility during their first clinical encounter as a preventive measure, via **rubella serology**."
   },
   {
     "condition": "Syphilis",

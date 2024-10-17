@@ -1,5 +1,5 @@
 <template>
-  <button @click="show = !show" class="text-sm lg:text-base py-2 rounded-xl text-left">
+  <button @click="show = !show" class="text-base py-2 rounded-xl text-left">
     <div class="font-semibold flex items-center gap-0.5 px-1">
       <ChevronDownIcon v-if="show" class="w-4 h-4" />
       <ChevronRightIcon v-else class="w-4 h-4" />

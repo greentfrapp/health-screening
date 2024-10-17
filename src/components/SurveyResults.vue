@@ -15,7 +15,7 @@
           class="bg-white border-4 border-red-100 rounded-3xl p-1 py-3 space-y-2">
           <Header2 class="mx-2">{{ test.condition }}</Header2>
           <div class="space-y-2">
-            <div class="space-y-1 mx-2" :innerHTML="converter.makeHtml(test.description || test.descriptionHTML)"></div>
+            <div class="space-y-3 mx-2" :innerHTML="converter.makeHtml(test.description || test.descriptionHTML)"></div>
             <div class="px-1 pt-1" v-if="test.riskGroups && test.riskGroups.length">
               <Collapsible label="High-risk factors"
                 class="w-full bg-red-100 text-sm px-2 py-0.5 rounded-lg">
@@ -33,10 +33,14 @@
         </div>
         <div v-if="store.medicalHistory.includes(MedicalHistoryFemale.PREGNANCY)"
           class="bg-white border-4 border-red-100 rounded-3xl px-3 py-3 space-y-2">
-          As a parent, you might want to be aware of screening tests related to congenital and pediatric conditions such as antenatal and foetal abnormalities. Refer to the <router-link :to="{ path: '/search', query: {
-            q: store.searchQuery || undefined,
-            diseaseTypes: ['Congenital and Pediatric'],
-          } }">Search tab</router-link> for details on these screenings.
+          As a parent, you might want to be aware of screening tests related to congenital and pediatric conditions such as antenatal and foetal abnormalities. Refer to the <router-link :to="{
+            path: '/search',
+            query: {
+              q: '',
+              testCategories: [],
+              diseaseTypes: ['Congenital and Pediatric'],
+            }
+          }">Search tab</router-link> for details on these screenings.
         </div>
       </div>
       <div v-else
