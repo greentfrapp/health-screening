@@ -4,7 +4,7 @@
     @mouseleave="showCitations = false"
     @click.stop="showCitations = !showCitations">
     [{{ props.src }}]
-    <div v-if="showCitations" class="absolute bg-white rounded-lg p-4 shadow max-w-full max-h-[10rem] overflow-auto space-y-2"
+    <div v-if="showCitations" class="absolute bg-white rounded-lg p-4 shadow max-w-full max-h-[10rem] overflow-auto space-y-3"
       :style="boxPosition">
       <div v-for="s in citations" class="flex">
         <div class="w-10 shrink-0">{{ s }}.</div>
