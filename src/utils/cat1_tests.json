@@ -85,10 +85,12 @@
     "descriptionHTML": "For average-risk individuals, screening for colorectal cancer should begin at 50 years.\n\nScreening with **stool analysis (FIT)** should be performed annually, or screening with **colonoscopy** should be performed every 5 to 10 years.\n\nIndividuals in higher-risk groups are recommended to undergo **colonoscopy** earlier and more frequently.",
     "riskGroups": [
       "First-degree relative with colorectal cancer",
+      "Family history of familial adenomatous polyposis",
       "Colorectal polyps",
       "Ovarian cancer",
       "Endometrial cancer",
-      "Inflammatory bowel disease"
+      "Inflammatory bowel disease",
+      "Lynch syndrome"
     ]
   },
   {

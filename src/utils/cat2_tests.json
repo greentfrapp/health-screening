@@ -9,6 +9,14 @@
         "medicalHistory": [
           "Lynch syndrome"
         ]
+      },
+      {
+        "sex": [
+          "Female"
+        ],
+        "familyHistory": [
+          "Lynch syndrome"
+        ]
       }
     ],
     "descriptionHTML": "Endometrial cancer refers to a type of cancer in the womb lining.\n\nWomen with Hereditary Non-Polyposis Colon Cancer (HNPCC) or Lynch Syndrome, who are at higher risk for endometrial cancer, may consider annual screening via **pelvic ultrasound**, starting between the ages of 30 and 35.",
@@ -21,6 +29,11 @@
     "rules": [
       {
         "medicalHistory": [
+          "Lynch syndrome"
+        ]
+      },
+      {
+        "familyHistory": [
           "Lynch syndrome"
         ]
       }
