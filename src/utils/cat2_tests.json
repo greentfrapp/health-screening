@@ -51,6 +51,8 @@
     "rules": [
       {
         "ageGroup": [
+          "25 to 39",
+          "40 to 49",
           "50 to 69",
           "Above 70"
         ],
@@ -69,7 +71,7 @@
     "rules": [
       {
         "familyHistory": [
-          "Nasopharyngeal Cancer"
+          "Nasopharyngeal cancer"
         ]
       }
     ],
