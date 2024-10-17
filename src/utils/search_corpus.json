@@ -1,19 +1,19 @@
 [
  {
-   "Disease": "Breast Cancer",
+   "Disease": "Breast Cancer <cite>1-11</cite>",
    "Disease Type": "Cancer",
    "Category": "Cat 1",
    "Test": "Mammogram",
    "Test Type": "X-ray",
    "General Population Recommendation": "All normal risk, asymptomatic women 50 to 69 years of age should be screened with mammography only, every 2 years.",
    "Individual Recommendation": "",
-   "Notes": "The underlying premise for breast cancer screening is that it allows for the detection of breast cancers before they become palpable. Small tumours are more likely to be early stage disease, having better prognosis, and are more successfully treated.\nMammography-based screening is widely accepted as appropriate and beneficial for women above the age of 50. Combined analysis of eight prospective randomized clinical trials suggest that screening mammography produced a mortality benefit of approximately 22% for women aged 50 to 69 years old in populations invited to screening. For women aged 40 to 49, there is great variation on recommendations for mammographic screening. The additional mortality benefit is small for initiating screening at 40 instead of 50 years old, although it saves more life-years at a population level. The peak incidence of breast cancer in Singapore also continues to shift towards 60 years old. The recommendations for the 40 to 49 years old age group in Singapore are based on a balance between international guidelines and practice, the low incidence, higher costs and higher false positive rate of mammographic detection in this age group.\nClinicians should discuss with women at normal risk aged 40 to 49 years old about the potential benefits, limitations and harms associated with screening mammography so that an informed choice can be made about attending breast cancer screening. They should base screening mammography decisions on the benefits and harms of screening, as well as on the woman’s preferences and breast cancer risk profile. If screening is to be performed, it should be done annually.\nPotential risks of mammography include false-positive results, diagnosis and treatment for cancer that would not have become clinically evident during the patient's lifetime (over diagnosis), radiation exposure, false reassurance, and procedure-associated problems. False-positive mammography can lead to increased anxiety and to feelings of increased susceptibility to breast cancer, as well as unnecessary diagnostic tests. Women with false negative mammograms may be given false assurance. Up to one-fourth of all invasive breast cancers are not detected by mammography in 40 to 49 years old, compared with one-tenth of breast cancers in 50 to 69 years old. The diagnosis and treatment of breast cancer may be delayed because of a \"normal\" mammogram.",
+   "Notes": "The underlying premise for breast cancer screening is that it allows for the detection of breast cancers before they become palpable. Small tumours are more likely to be early stage disease, having better prognosis, and are more successfully treated.\nMammography-based screening is widely accepted as appropriate and beneficial for women above the age of 50. Combined analysis of eight prospective randomized clinical trials suggest that screening mammography produced a mortality benefit of approximately 22% <cite>6</cite> for women aged 50 to 69 years old in populations invited to screening. For women aged 40 to 49, there is great variation on recommendations for mammographic screening <cite>7</cite>. The additional mortality benefit is small for initiating screening at 40 instead of 50 years old, although it saves more life-years at a population level. The peak incidence of breast cancer in Singapore also continues to shift towards 60 years old. The recommendations for the 40 to 49 years old age group in Singapore are based on a balance between international guidelines and practice, the low incidence, higher costs and higher false positive rate of mammographic detection in this age group.\nClinicians should discuss with women at normal risk aged 40 to 49 years old about the potential benefits, limitations and harms associated with screening mammography so that an informed choice can be made about attending breast cancer screening. They should base screening mammography decisions on the benefits and harms of screening, as well as on the woman’s preferences and breast cancer risk profile. If screening is to be performed, it should be done annually.\nPotential risks of mammography include false-positive results, diagnosis and treatment for cancer that would not have become clinically evident during the patient's lifetime (over diagnosis), radiation exposure, false reassurance, and procedure-associated problems <cite>8,9</cite>. False-positive mammography can lead to increased anxiety and to feelings of increased susceptibility to breast cancer, as well as unnecessary diagnostic tests. Women with false negative mammograms may be given false assurance. Up to one-fourth of all invasive breast cancers are not detected by mammography in 40 to 49 years old, compared with one-tenth of breast cancers in 50 to 69 years old <cite>10</cite>. The diagnosis and treatment of breast cancer may be delayed because of a \"normal\" mammogram.",
    "Factors for Screening Recommendation": "Age, Gender",
    "Tags": "",
    ".": ""
  },
  {
-   "Disease": "Cervical Dysplasia/Cervical Intraepithelial Lesion/Cervical Cancer",
+   "Disease": "Cervical Dysplasia/Cervical Intraepithelial Lesion/Cervical Cancer <cite>24-44</cite>",
    "Disease Type": "Cancer",
    "Category": "Cat 1",
    "Test": "Pap Smear",
@@ -26,7 +26,7 @@
    ".": ""
  },
  {
-   "Disease": "Cervical Dysplasia/Cervical Intraepithelial Lesion/Cervical Cancer",
+   "Disease": "Cervical Dysplasia/Cervical Intraepithelial Lesion/Cervical Cancer <cite>24-44</cite>",
    "Disease Type": "Cancer",
    "Category": "Cat 1",
    "Test": "Human Papilloma Virus (HPV) Testing",
@@ -39,7 +39,7 @@
    ".": ""
  },
  {
-   "Disease": "Colorectal Cancer",
+   "Disease": "Colorectal Cancer <cite>45-48</cite>",
    "Disease Type": "Cancer",
    "Category": "Cat 1",
    "Test": "Colonoscopy",
@@ -52,7 +52,7 @@
    ".": ""
  },
  {
-   "Disease": "Colorectal Cancer",
+   "Disease": "Colorectal Cancer <cite>45-48</cite>",
    "Disease Type": "Cancer",
    "Category": "Cat 1",
    "Test": "Faecal Immunochemical Test (FIT)",
@@ -65,7 +65,7 @@
    ".": ""
  },
  {
-   "Disease": "Developmental Vision Disorder",
+   "Disease": "Developmental Vision Disorder <cite>219,229</cite>",
    "Disease Type": "Congenital and Pediatric",
    "Category": "Cat 1",
    "Test": "Visual Acuity Test",
@@ -91,7 +91,7 @@
    ".": ""
  },
  {
-   "Disease": "Hearing Loss in Neonates (Deafness in Neonates)",
+   "Disease": "Hearing Loss in Neonates (Deafness in Neonates) <cite>226-228</cite>",
    "Disease Type": "Congenital and Pediatric",
    "Category": "Cat 1",
    "Test": "Audiometry",
@@ -104,7 +104,7 @@
    ".": ""
  },
  {
-   "Disease": "Idiopathic Scoliosis in Adolescents",
+   "Disease": "Idiopathic Scoliosis in Adolescents <cite>230-233</cite>",
    "Disease Type": "Congenital and Pediatric",
    "Category": "Cat 1",
    "Test": "Scoliometer",
@@ -117,7 +117,7 @@
    ".": ""
  },
  {
-   "Disease": "Inborn Errors of Metabolism in Neonates",
+   "Disease": "Inborn Errors of Metabolism in Neonates <cite>226</cite>",
    "Disease Type": "Congenital and Pediatric",
    "Category": "Cat 1",
    "Test": "Metabolic Screen (Tandem Mass Spectrometry (TMS))",
@@ -143,7 +143,7 @@
    ".": ""
  },
  {
-   "Disease": "Diabetes Mellitus",
+   "Disease": "Diabetes Mellitus <cite>175-178</cite>",
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 1",
    "Test": "Fasting Blood Glucose",
@@ -156,20 +156,20 @@
    ".": ""
  },
  {
-   "Disease": "Diabetes Mellitus",
+   "Disease": "Diabetes Mellitus <cite>175-178</cite>",
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 1",
    "Test": "Glycosylated Haemoglobin (HbA1c)",
    "Test Type": "Blood",
    "General Population Recommendation": "Screening should begin at age 40 years, and be considered in adults of any age if any of the risk factors for diabetes is present. Subsequently, screening should be carried out every three years for those with normal glucose tolerance and annually for those with Impaired Fasting Glycaemia (IFG) or Impaired Glucose Tolerance (IGT).\nHba1c is not suitable for use in individuals with the following medical conditions and/or physiological states: Haemoglobinopathies including thalassemia, iron deficiency anemia, vitamin B12/ folate deficiency, recent blood loss, haemolytic anemia, recent blood transfusion, chronic renal failure, chronic liver disease and pregnancy.",
    "Individual Recommendation": "Risk factors for Diabetes Mellitus include (any one of the following):\na) Overweight/obesity (body mass index ≥25.0 kg/m2)\nb) Hypertension ≥140/90 mmHg) or on therapy for hypertension\nc) First degree relative with diabetes mellitus\nd) Women who have delivered a baby 4 kg or more; or previously diagnosed with gestational diabetes mellitus\ne) History of cardiovascular disease\nf) Women with polycystic ovary disease\ng) Patients who are diagnosed to have TB\nh) HDL cholesterol level <1.0 mmol/L (male), <1.3 mmol/L (female) and/or triglyceride level ≥2.2 mmol/L\ni) IFG or IGT on previous testing\nj) High risk race/ethnicity",
-   "Notes": "HbA1c has been adopted as a diagnostic test for DM by the World Health Organization (WHO), the International Expert Committee of the American Diabetes Association (ADA), as well as other countries such as UK, Australia, New Zealand, Japan and Malaysia.\nBased on analysis of local data from the National Health Survey (2010), both fasting blood glucose and HbA1c were found to be able to discriminate effectively between those with and without diabetes mellitus.",
+   "Notes": "HbA1c <cite>179,180-183</cite> has been adopted as a diagnostic test for DM by the World Health Organization (WHO), the International Expert Committee of the American Diabetes Association (ADA), as well as other countries such as UK, Australia, New Zealand, Japan and Malaysia.\nBased on analysis of local data from the National Health Survey (2010), both fasting blood glucose and HbA1c were found to be able to discriminate effectively between those with and without diabetes mellitus.",
    "Factors for Screening Recommendation": "Obesity, Medical History, Family History, Pregnancy, Age, Ethnicity",
    "Tags": "\"High blood sugar, Glucose\"",
    ".": ""
  },
  {
-   "Disease": "Hyperlipidaemia",
+   "Disease": "Hyperlipidaemia <cite>114,177,188,189</cite>",
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 1",
    "Test": "Fasting Lipids",
@@ -178,11 +178,11 @@
    "Individual Recommendation": "In summary, the following groups are to be screened:\na) All individuals aged 40 years and above\nb) All first degree relatives of familial hypercholesterolemia patients.\n(Special consideration: Routine screening is generally not recommended in children. However, screening can be carried out from age of 2 years in children who have a first degree relative diagnosed with familial hypercholesterolemia, as this gives the opportunity to teach good eating practices)\nc) All adults with pre-existing CAD, cerebrovascular or peripheral artery disease irrespective of age\nd) All adults with diabetes mellitus irrespective of age\ne) All adults with IFG or IGT irrespective of age\nf) All adults aged 18 years and above who have other risk factors for CAD, which include:\n1. Multiple CAD risk factors (e.g. tobacco use, hypertension)\n2. A family history of cardiovascular disease before age 50 years in male relatives or before age 60 years in female relatives\n3. A family history suggestive of familial hyperlipidaemia",
    "Notes": "",
    "Factors for Screening Recommendation": "Age, Family History, Medical History, Lifestyle",
-   "Tags": "\"High cholestrol, Triglycerides, Fats\"",
+   "Tags": "\"High cholesterol, Triglycerides, Fats\"",
    ".": ""
  },
  {
-   "Disease": "Hyperlipidaemia",
+   "Disease": "Hyperlipidaemia <cite>114,177,188,189</cite>",
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 1",
    "Test": "Non-Fasting Lipids",
@@ -191,11 +191,11 @@
    "Individual Recommendation": "In summary, the following groups are to be screened:\na) All individuals aged 40 years and above\nb) All first degree relatives of familial hypercholesterolemia patients.\n(Special consideration: Routine screening is generally not recommended in children. However, screening can be carried out from age of 2 years in children who have a first degree relative diagnosed with familial hypercholesterolemia, as this gives the opportunity to teach good eating practices)\nc) All adults with pre-existing CAD, cerebrovascular or peripheral artery disease irrespective of age\nd) All adults with diabetes mellitus irrespective of age\ne) All adults with IFG or IGT irrespective of age\nf) All adults aged 18 years and above who have other risk factors for CAD, which include:\n1. Multiple CAD risk factors (e.g. tobacco use, hypertension)\n2. A family history of cardiovascular disease before age 50 years in male relatives or before age 60 years in female relatives\n3. A family history suggestive of familial hyperlipidaemia",
    "Notes": "In the non-fasting state, triglyceride (TG) levels may be slightly higher than the corresponding levels in the fasting state. For Low Density Lipoprotein – Cholesterol (LDL-C), the levels may be slightly lower in the non-fasting state as compared to the corresponding levels in the fasting state. Population-based studies suggest that the variation in TG levels ranges from +0.1mmol/L to +0.3mmol/L while that the LDL-C ranges from -0.3mmol/L to -0.1mmol/L. A repeat fasting lipid panel may be considered in cases where there is uncertainty surrounding non-fasting lipid panel results.",
    "Factors for Screening Recommendation": "Age, Family History, Medical History, Lifestyle",
-   "Tags": "\"High cholestrol, Triglycerides, Fats\"",
+   "Tags": "\"High cholesterol, Triglycerides, Fats\"",
    ".": ""
  },
  {
-   "Disease": "Hypertension",
+   "Disease": "Hypertension <cite>118,189,190</cite>",
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 1",
    "Test": "Blood Pressure Measurement",
@@ -208,7 +208,7 @@
    ".": ""
  },
  {
-   "Disease": "Obesity",
+   "Disease": "Obesity <cite>194</cite>",
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 1",
    "Test": "BMI",
@@ -221,7 +221,7 @@
    ".": ""
  },
  {
-   "Disease": "Obesity",
+   "Disease": "Obesity <cite>194</cite>",
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 1",
    "Test": "Waist Circumference",
@@ -234,33 +234,33 @@
    ".": ""
  },
  {
-   "Disease": "Breast Cancer",
+   "Disease": "Breast Cancer <cite>1-11</cite>",
    "Disease Type": "Cancer",
    "Category": "Cat 2",
    "Test": "MRI Breast",
    "Test Type": "MRI",
    "General Population Recommendation": "",
-   "Individual Recommendation": "High Risk Groups: Women at more than 20% lifetime risk of breast cancer, carriers of BRCA or other high risk gene mutations (characteristics of women at risk for hereditary breast cancer predisposition syndromes are detailed in Annex E of the [report](https://www.ams.edu.sg/view-pdf.aspx?file=media%5c4817_fi_59.pdf&ofile=STRC+Report+March+2019.pdf)), and women with previous history of chest radiation therapy.\nOthers: Women with cosmetic injection augmentation.",
-   "Notes": "In women with high genetic risk for breast cancer, MRI breast screening is performed annually as an adjunct to mammography as studies have shown that MRI detects more cancers (with a sensitivity of 71% to 100%) compared to mammography (sensitivity 25% to 40%). Mammogram screening should still be performed with MRI as some cancers which manifest as micro-calcifications on mammography may not be detected on MRI. MRI cannot replace mammographic screening in these women as some cancers may manifest as micro-calcifications which may not be shown on MRI.\nScreening should start at age 25 to 30 years for women with gene mutations conferring high risk of developing breast cancer and their untested first degree relatives. In those with strong family history of breast cancer but no proven mutation, screening is recommended to commence as early as 5 to 10 years prior to the age of onset in the youngest family member to contract breast cancer, but not earlier than age 25 to 30.\nWomen who received radiation treatment to the chest, such as for Hodgkin disease, are also at high risk for developing breast cancer.\nDiagnosis of breast cancer occurred at a mean of 18 years after diagnosis of Hodgkin disease with a range of 7 to 30 years. Although there is a lack of evidence with regards to MRI screening in this group, there is consensus opinion that MRI screening commencing 8 years after radiotherapy to the chest may offer similar benefit as for women with a strong family history.\nThere is not enough data demonstrating clinical benefit for MRI screening in women with moderate risk of breast cancer (15 to 20% lifetime risk), e.g. personal history of breast cancer, prior biopsy with atypical ductal hyperplasia or lobular neoplasia. Hence, no specific MRI screening recommendation is made for these women.\nBreast MRI is not suitable for routine breast screening of women who are at normal risk of developing breast cancer. However, in women with diffuse breast injection augmentation, particularly of the free silicone type, the injected material may significantly obscure mammographic and sonographic visibility of the underlying breast tissue. This renders mammogram and ultrasound assessments ineffective for breast cancer screening. Hence MRI should replace mammogram screening in these cases. The recommended age and frequency of screening are similar to the mammogram screening guidelines for normal risk women.",
+   "Individual Recommendation": "High Risk Groups: Women at more than 20% lifetime risk of breast cancer, carriers of BRCA or other high risk gene mutations (characteristics of women at risk for hereditary breast cancer predisposition syndromes are detailed in Annex E of the [report](https://www.ams.edu.sg/view-pdf.aspx?file=media%5c4817_fi_59.pdf&ofile=STRC+Report+March+2019.pdf)), and women with previous history of chest radiation therapy <cite>11</cite>.\nOthers: Women with cosmetic injection augmentation.",
+   "Notes": "In women with high genetic risk for breast cancer, MRI breast screening is performed annually as an adjunct to mammography as studies have shown that MRI detects more cancers (with a sensitivity of 71% to 100%) compared to mammography (sensitivity 25% to 40%). Mammogram screening should still be performed with MRI as some cancers which manifest as micro-calcifications on mammography may not be detected on MRI. MRI cannot replace mammographic screening in these women as some cancers may manifest as micro-calcifications which may not be shown on MRI.\nScreening should start at age 25 to 30 years for women with gene mutations conferring high risk of developing breast cancer and their untested first degree relatives. In those with strong family history of breast cancer but no proven mutation, screening is recommended to commence as early as 5 to 10 years prior to the age of onset in the youngest family member to contract breast cancer, but not earlier than age 25 to 30.\nWomen who received radiation treatment to the chest, such as for Hodgkin disease <cite>12</cite>, are also at high risk for developing breast cancer <cite>13-16</cite>.\nDiagnosis of breast cancer occurred at a mean of 18 years after diagnosis of Hodgkin disease with a range of 7 to 30 years. Although there is a lack of evidence with regards to MRI screening in this group, there is consensus opinion that MRI screening commencing 8 years after radiotherapy to the chest may offer similar benefit as for women with a strong family history.\nThere is not enough data demonstrating clinical benefit for MRI screening in women with moderate risk of breast cancer (15 to 20% lifetime risk), e.g. personal history of breast cancer, prior biopsy with atypical ductal hyperplasia or lobular neoplasia. Hence, no specific MRI screening recommendation is made for these women.\nBreast MRI is not suitable for routine breast screening of women who are at normal risk of developing breast cancer. However, in women with diffuse breast injection augmentation, particularly of the free silicone type, the injected material may significantly obscure mammographic and sonographic visibility of the underlying breast tissue. This renders mammogram and ultrasound assessments ineffective for breast cancer screening. Hence MRI should replace mammogram screening in these cases. The recommended age and frequency of screening are similar to the mammogram screening guidelines for normal risk women<cite>17-20</cite>.",
    "Factors for Screening Recommendation": "Gender, Age, Family History, Medical History, Genetics",
    "Tags": "",
    ".": ""
  },
  {
-   "Disease": "Colorectal Cancer",
+   "Disease": "Colorectal Cancer <cite>45-48</cite>",
    "Disease Type": "Cancer",
    "Category": "Cat 2",
    "Test": "CT Colonography",
    "Test Type": "CT",
    "General Population Recommendation": "",
    "Individual Recommendation": "As an alternative screening test to colonoscopy for average-risk individuals aged 50 years and above. The recommended frequency for individuals who opt for CT colonography is once every 5 years if initial screening is negative.",
-   "Notes": "CT colonography, also known as virtual colonoscopy, is a minimally invasive imaging examination of the colon and rectum, using CT scan to acquire images and computer software to process the data for interpretation. It is the best available imaging test if optical colonoscopy is contraindicated or incomplete. When performed with bowel preparation and tagging agents it has been shown to be effective in detecting neoplasms ≥6 mm albeit with a slightly higher false positive rate compared with lesions ≥10 mm.",
+   "Notes": "CT colonography, also known as virtual colonoscopy, is a minimally invasive imaging examination of the colon and rectum, using CT scan to acquire images and computer software to process the data for interpretation. It is the best available imaging test if optical colonoscopy is contraindicated or incomplete. When performed with bowel preparation and tagging agents it has been shown to be effective in detecting neoplasms ≥6 mm albeit with a slightly higher false positive rate compared with lesions ≥10 mm <cite>49</cite>.",
    "Factors for Screening Recommendation": "Age, Family History, Medical History",
    "Tags": "\"Colon, Rectum\"",
    ".": ""
  },
  {
-   "Disease": "Colorectal Cancer",
+   "Disease": "Colorectal Cancer <cite>45-48</cite>",
    "Disease Type": "Cancer",
    "Category": "Cat 2",
    "Test": "FIT-DNA Test",
@@ -273,33 +273,33 @@
    ".": ""
  },
  {
-   "Disease": "Endometrial Cancer",
+   "Disease": "Endometrial Cancer <cite>50,5,52-57</cite>",
    "Disease Type": "Cancer",
    "Category": "Cat 2",
    "Test": "Ultrasound Pelvis",
    "Test Type": "Ultrasound",
    "General Population Recommendation": "",
-   "Individual Recommendation": "High risk groups: Women with Hereditary Non-Polyposis Colon Cancer (HNPCC) or Lynch Syndrome, who are at higher risk for endometrial cancer, may consider annual screening with regular pelvic examination and endometrial sampling, starting between the ages of 30 and 35.",
+   "Individual Recommendation": "High risk groups: Women with Hereditary Non-Polyposis Colon Cancer (HNPCC) or Lynch Syndrome, who are at higher risk for endometrial cancer, may consider annual screening with regular pelvic examination and endometrial sampling, starting between the ages of 30 and 35 <cite>39</cite>.",
    "Notes": "Trans-vaginal ultrasound screening for endometrial cancer has good sensitivity before symptoms appear. However, there is limited evidence on mortality benefit. More than 75% of women with Lynch Syndrome who develop endometrial cancer present with stage 1 disease, similar to sporadic endometrial cancer, and are associated with a high survival rate. The potential benefits and limitations should be discussed with the patient to enable informed decision-making. Criteria regarding referral for cancer genetic risk assessment for women suspected Lynch Syndrome are detailed in Annex E of the [report](https://www.ams.edu.sg/view-pdf.aspx?file=media%5c4817_fi_59.pdf&ofile=STRC+Report+March+2019.pdf).",
    "Factors for Screening Recommendation": "Age, Family History, Gender",
-   "Tags": "\"Womb, Uterus\"",
+   "Tags": "\"Womb, Uterus, Uterine\"",
    ".": ""
  },
  {
-   "Disease": "Gastric Cancer",
+   "Disease": "Gastric Cancer <cite>50,58</cite>",
    "Disease Type": "Cancer",
    "Category": "Cat 2",
    "Test": "Oesophago-Gastro Duodenoscopy (OGD)",
    "Test Type": "Scope",
    "General Population Recommendation": "",
-   "Individual Recommendation": "High risk groups: Individuals with Hereditary Non-Polyposis Colon Cancer (HNPCC) or Lynch Syndrome, who are at higher risk for gastric cancer, may benefit from screening with oesophago-gastro duodenoscopy (OGD), starting from age 30 to 35 years. A frequency of 2 to 3 years is recommended, based on the individual’s risk factors.",
+   "Individual Recommendation": "High risk groups: Individuals with Hereditary Non-Polyposis Colon Cancer (HNPCC) or Lynch Syndrome, who are at higher risk for gastric cancer, may benefit from screening with oesophago-gastro duodenoscopy (OGD), starting from age 30 to 35 years. A frequency of 2 to 3 years is recommended, based on the individual’s risk factors <cite>42</cite>.",
    "Notes": "Criteria regarding referral for cancer genetic risk assessment for women suspected HNPCC (Lynch Syndrome) are detailed in Annex E of the [report](https://www.ams.edu.sg/view-pdf.aspx?file=media%5c4817_fi_59.pdf&ofile=STRC+Report+March+2019.pdf).",
    "Factors for Screening Recommendation": "Age, Family History",
    "Tags": "Stomach",
    ".": ""
  },
  {
-   "Disease": "Liver Cancer (Hepatocellular Carcinoma)",
+   "Disease": "Liver Cancer (Hepatocellular Carcinoma) <cite>59-64</cite>",
    "Disease Type": "Cancer",
    "Category": "Cat 2",
    "Test": "Ultrasound Hepatobiliary System (US HBS)",
@@ -312,33 +312,33 @@
    ".": ""
  },
  {
-   "Disease": "Liver Cancer (Hepatocellular Carcinoma)",
+   "Disease": "Liver Cancer (Hepatocellular Carcinoma) <cite>59-64</cite>",
    "Disease Type": "Cancer",
    "Category": "Cat 2",
    "Test": "Alpha-Fetoprotein (AFP)",
    "Test Type": "Tumor Marker",
    "General Population Recommendation": "",
    "Individual Recommendation": "High Risk Groups: Hepatitis B carrier or individuals with liver cirrhosis\nThe test should be performed on a six monthly basis. There is no definite recommended age to start surveillance although local statistics show that Hepatocellular Carcinoma incidence starts to increase from the 40 to 49 age group.",
-   "Notes": "Patients with chronic Hepatitis B infection or liver cirrhosis from other aetiologies are at increased risk of developing hepatocellular carcinoma, and surveillance should be offered to these at-risk individuals with the aim of detecting hepatocellular carcinoma that could be more amenable to therapy, and hence potentially leading to better outcomes.\nA rise in AFP level (>20 ng/ml) in the absence of significant liver inflammation suggests hepatocellular carcinoma with a negative predictive value of 99% and a positive predictive value of up to 30% in non-cirrhotics and 60% in cirrhotics.\nA rising trend strongly suggests the presence of hepatocellular carcinoma, although AFP should never be used alone to diagnose hepatocellular carcinoma.",
+   "Notes": "Patients with chronic Hepatitis B infection or liver cirrhosis from other aetiologies are at increased risk of developing hepatocellular carcinoma, and surveillance should be offered to these at-risk individuals with the aim of detecting hepatocellular carcinoma that could be more amenable to therapy, and hence potentially leading to better outcomes.\nA rise in AFP level (>20 ng/ml) in the absence of significant liver inflammation suggests hepatocellular carcinoma with a negative predictive value of 99% and a positive predictive value of up to 30% in non-cirrhotics and 60% in cirrhotics <cite>56</cite>.\nA rising trend strongly suggests the presence of hepatocellular carcinoma, although AFP should never be used alone to diagnose hepatocellular carcinoma.",
    "Factors for Screening Recommendation": "Medical History",
    "Tags": "",
    ".": ""
  },
  {
-   "Disease": "Lung Cancer",
+   "Disease": "Lung Cancer <cite>65-69</cite>",
    "Disease Type": "Cancer",
    "Category": "Cat 2",
    "Test": "Low-dose CT Screening for Lung Cancer",
    "Test Type": "CT",
    "General Population Recommendation": "",
    "Individual Recommendation": "High Risk Groups:\na) Individuals aged between 55 to 74 who have smoked ≥ 30 pack years and are continuing to smoke\nb) Individuals aged between 55 to 74 who have smoked ≥ 30 pack years but quit <15 years ago\nLow-dose CT screening should be done annually.",
-   "Notes": "Low-dose computerized tomography (LDCT) refers to a non-contrast study obtained with a multidetector CT scanner during a single maximal inspiratory breath-hold. Radiation dose exposure is less than a third of a standard-dose diagnostic chest CT scan. Several cohort studies and randomized control trials have demonstrated that screening was significantly more sensitive than chest radiograph in identifying early stage, asymptomatic lung cancers. The National Lung Screening Trial (NLST), a large randomized trial of screening LDCT in high-risk individuals, demonstrated a lung cancer mortality benefit of 20%, with all-cause mortality reduced by 6.7%. Many expert screening groups have incorporated results from the NLST in their recommendations, and generally suggested annual screening until high-risk individuals are no longer eligible for definitive treatments.\nHowever, this has to be balanced with the unnecessary exposure to radiation, financial costs of CT screening, and a high rate of false positive findings. These may further lead to implications of further evaluation, such as the potential for morbidity and mortality from invasive procedures like a lung biopsy.\nThere is also an increasing incidence of lung adenocarcinoma in the Singapore population. The rate of lung carcinoma is also higher compared to United States and other western countries where the largest lung cancer screening trials were conducted. This reflects the Asia-pacific trend of higher rates of adenocarcinoma, particularly in women and also in non-smokers. This may be due to a fundamental difference in genetic predisposition amongst Chinese non-smokers to lung adenocarcinoma, as well as the effects from exposure to environmental risk factors. Further evidence is required from local population research so that any causative link between lung adenocarcinoma and the East Asian female and/or never-smoker phenotype can be established in the local context so that future screening guidelines can include these as risk factor targets for lung cancer screening.",
+   "Notes": "Low-dose computerized tomography (LDCT) refers to a non-contrast study obtained with a multidetector CT scanner during a single maximal inspiratory breath-hold. Radiation dose exposure is less than a third of a standard-dose diagnostic chest CT scan. Several cohort studies and randomized control trials have demonstrated that screening was significantly more sensitive than chest radiograph in identifying early stage, asymptomatic lung cancers. The National Lung Screening Trial (NLST), a large randomized trial of screening LDCT in high-risk individuals, demonstrated a lung cancer mortality benefit of 20%, with all-cause mortality reduced by 6.7%. Many expert screening groups have incorporated results from the NLST in their recommendations <cite>65,66</cite>, and generally suggested annual screening until high-risk individuals are no longer eligible for definitive treatments.\nHowever, this has to be balanced with the unnecessary exposure to radiation, financial costs of CT screening, and a high rate of false positive findings. These may further lead to implications of further evaluation, such as the potential for morbidity and mortality from invasive procedures like a lung biopsy.\nThere is also an increasing incidence of lung adenocarcinoma in the Singapore population. The rate of lung carcinoma is also higher compared to United States and other western countries where the largest lung cancer screening trials were conducted. This reflects the Asia-pacific trend of higher rates of adenocarcinoma, particularly in women and also in non-smokers <cite>70-75</cite>. This may be due to a fundamental difference in genetic predisposition amongst Chinese non-smokers to lung adenocarcinoma, as well as the effects from exposure to environmental risk factors <cite>76-96</cite>. Further evidence is required from local population research so that any causative link between lung adenocarcinoma and the East Asian female and/or never-smoker phenotype can be established in the local context so that future screening guidelines can include these as risk factor targets for lung cancer screening.",
    "Factors for Screening Recommendation": "Age, Lifestyle",
    "Tags": "Lungs",
    ".": ""
  },
  {
-   "Disease": "Nasopharyngeal Carcinoma (NPC)",
+   "Disease": "Nasopharyngeal Carcinoma (NPC) <cite>97-102</cite>",
    "Disease Type": "Cancer",
    "Category": "Cat 2",
    "Test": "Nasopharyngoscopy",
@@ -351,7 +351,7 @@
    ".": ""
  },
  {
-   "Disease": "Nasopharyngeal Carcinoma (NPC)",
+   "Disease": "Nasopharyngeal Carcinoma (NPC) <cite>97-102</cite>",
    "Disease Type": "Cancer",
    "Category": "Cat 2",
    "Test": "Tumor Marker for NPC (EBV-EA-EBNA-1)",
@@ -364,20 +364,20 @@
    ".": ""
  },
  {
-   "Disease": "Ovarian Cancer",
+   "Disease": "Ovarian Cancer <cite>103,104</cite>",
    "Disease Type": "Cancer",
    "Category": "Cat 2",
    "Test": "Transvaginal Ultrasound",
    "Test Type": "Ultrasound",
    "General Population Recommendation": "",
    "Individual Recommendation": "High Risk Group: BRCA-Carrier",
-   "Notes": "Transvaginal pelvic ultrasound as screening for ovarian cancer may be considered. However, it can result in unnecessary surgeries with no clear mortality benefit. The potential benefits and limitations should be discussed with the patient for informed decision-making.",
+   "Notes": "Transvaginal pelvic ultrasound as screening for ovarian cancer may be considered. However, it can result in unnecessary surgeries with no clear mortality benefit <cite>52,57</cite>. The potential benefits and limitations should be discussed with the patient for informed decision-making.",
    "Factors for Screening Recommendation": "Family History, Genetics",
    "Tags": "\"Ovary, Ovaries\"",
    ".": ""
  },
  {
-   "Disease": "Prostate Cancer",
+   "Disease": "Prostate Cancer <cite>105-111</cite>",
    "Disease Type": "Cancer",
    "Category": "Cat 2",
    "Test": "Prostate-Specific Antigen (PSA)",
@@ -390,7 +390,7 @@
    ".": ""
  },
  {
-   "Disease": "Antenatal and Foetal Abnormalities (Congenital)",
+   "Disease": "Antenatal and Foetal Abnormalities (Congenital) <cite>220,221</cite>",
    "Disease Type": "Congenital and Pediatric",
    "Category": "Cat 2",
    "Test": "Screening tests done in pregnancy or antenatal screening tests (e.g. FBC, VDRL, HIV, Hepatitis B, urine microscopy as well as obstetric ultrasound foetal anomaly screening)",
@@ -403,7 +403,7 @@
    ".": ""
  },
  {
-   "Disease": "Down Syndrome",
+   "Disease": "Down Syndrome <cite>222</cite>",
    "Disease Type": "Congenital and Pediatric",
    "Category": "Cat 2",
    "Test": "Down Syndrome Screening Test",
@@ -416,7 +416,7 @@
    ".": ""
  },
  {
-   "Disease": "Retinopathy of Prematurity (ROP)",
+   "Disease": "Retinopathy of Prematurity (ROP) <cite>227</cite>",
    "Disease Type": "Congenital and Pediatric",
    "Category": "Cat 2",
    "Test": "Indirect Ophthalmoscope, Eye Speculum or Scleral Indentor",
@@ -429,7 +429,7 @@
    ".": ""
  },
  {
-   "Disease": "Spastic Hip Displacement",
+   "Disease": "Spastic Hip Displacement <cite>237-239</cite>",
    "Disease Type": "Congenital and Pediatric",
    "Category": "Cat 2",
    "Test": "Antero-Posterior Pelvis X-ray",
@@ -442,7 +442,7 @@
    ".": ""
  },
  {
-   "Disease": "Thalassaemia",
+   "Disease": "Thalassaemia <cite>228,234-236</cite>",
    "Disease Type": "Congenital and Pediatric",
    "Category": "Cat 2",
    "Test": "Thalassaemia Screen",
@@ -455,7 +455,7 @@
    ".": ""
  },
  {
-   "Disease": "Abdominal Aortic Aneurysm (AAA)",
+   "Disease": "Abdominal Aortic Aneurysm (AAA) <cite>113,114</cite>",
    "Disease Type": "Heart and Vascular",
    "Category": "Cat 2",
    "Test": "Abdominal Ultrasonography",
@@ -468,7 +468,7 @@
    ".": ""
  },
  {
-   "Disease": "Cerebral Aneurysm",
+   "Disease": "Cerebral Aneurysm <cite>115,116</cite>",
    "Disease Type": "Heart and Vascular",
    "Category": "Cat 2",
    "Test": "MRI/MRA Brain",
@@ -481,10 +481,10 @@
    ".": ""
  },
  {
-   "Disease": "Coronary Heart Disease (CHD)",
+   "Disease": "Coronary Heart Disease (CHD) <cite>114,118-124</cite>",
    "Disease Type": "Heart and Vascular",
    "Category": "Cat 2",
-   "Test": "Apolipoprotein A and B",
+   "Test": "Apolipoprotein A <cite>133</cite> and B <cite>134</cite>",
    "Test Type": "Blood",
    "General Population Recommendation": "",
    "Individual Recommendation": "Apolipoprotein A and B determination is not recommended for routine cardiovascular disease screening.\nIts advantage in prediction of events over non-HDL; which is technically easier to measure; has not been shown and their values correlates with treatment and effect of treatment.\nApolipoprotein measurements may be considered in patients with a strong family history or unusual manifestation of premature cardiovascular disease.",
@@ -494,10 +494,10 @@
    ".": ""
  },
  {
-   "Disease": "Coronary Heart Disease (CHD)",
+   "Disease": "Coronary Heart Disease (CHD) <cite>114,118-124</cite>",
    "Disease Type": "Heart and Vascular",
    "Category": "Cat 2",
-   "Test": "CT Coronary Calcium Score",
+   "Test": "CT Coronary Calcium Score <cite>135-137</cite>",
    "Test Type": "CT",
    "General Population Recommendation": "",
    "Individual Recommendation": "Use of Coronary Artery Calcium Score (CACS), may be considered if the information provided by the CACS will help to guide the patient’s management (e.g. initiation of lipid therapy), and after a global clinical risk score has been performed.\nIt may help to reclassify clinical risk score in asymptomatic patients with intermediate (10% and 20%) 10-year CHD risk or unusual risk factors and family history.\nThese recommendations do not apply to symptomatic patients regardless of risk.",
@@ -507,36 +507,36 @@
    ".": ""
  },
  {
-   "Disease": "Coronary Heart Disease (CHD)",
+   "Disease": "Coronary Heart Disease (CHD) <cite>114,118-124</cite>",
    "Disease Type": "Heart and Vascular",
    "Category": "Cat 2",
    "Test": "Electrocardiography (ECG)",
    "Test Type": "ECG",
    "General Population Recommendation": "",
-   "Individual Recommendation": "The resting 12-lead ECG provides valuable information in the evaluation of symptoms such as, but not limited to, chest pain, syncope or breathlessness. However, there is presently no evidence that the routine ambulatory ECG provides additional information on cardiovascular risk or events in low asymptomatic subjects.\nInter-observer variability, false positives and negatives are areas of concern in the widespread use of ECG in low risk populations.\nECG may be performed:\na) In asymptomatic hypertensive patients to evaluate for target end organ damage (Ventricular Hypertrophy)\nb) During and after initiation of medication that might alter QT intervals or has pro-arrhythmic effect.\nc) Pre-Participation in competitive sporting activity for all age groups or in age defined individuals who are previously sedentary as per local/international guidelines.\nd) Subjects in high risk occupation (such as but not exclusive to; airline pilots, firemen, commercial drivers)\nCurrent data neither supports nor contradicts the use of routine screening ECG in patients with moderate to high cardiovascular risk.",
+   "Individual Recommendation": "The resting 12-lead ECG provides valuable information in the evaluation of symptoms such as, but not limited to, chest pain, syncope or breathlessness. However, there is presently no evidence that the routine ambulatory ECG provides additional information on cardiovascular risk or events in low asymptomatic subjects.\nInter-observer variability, false positives and negatives are areas of concern in the widespread use of ECG in low risk populations.\nECG may be performed <cite>125,126</cite>:\na) In asymptomatic hypertensive patients to evaluate for target end organ damage (Ventricular Hypertrophy)\nb) During and after initiation of medication that might alter QT intervals or has pro-arrhythmic effect.\nc) Pre-Participation in competitive sporting activity for all age groups or in age defined individuals who are previously sedentary as per local/international guidelines.\nd) Subjects in high risk occupation (such as but not exclusive to; airline pilots, firemen, commercial drivers)\nCurrent data neither supports nor contradicts the use of routine screening ECG in patients with moderate to high cardiovascular risk.",
    "Notes": "A local study of asymptomatic patients referred to a tertiary cardiac centre for the suspicion of Coronary Artery Disease (CAD) based solely on ECG findings found a prevalence of 0.8% CAD in this population, suggesting that using the ECG as a screen for CAD is not helpful.",
    "Factors for Screening Recommendation": "Medical History",
    "Tags": "",
    ".": ""
  },
  {
-   "Disease": "Coronary Heart Disease (CHD)",
+   "Disease": "Coronary Heart Disease (CHD) <cite>114,118-124</cite>",
    "Disease Type": "Heart and Vascular",
    "Category": "Cat 2",
-   "Test": "High-Sensitivity C-Reactive Protein (hsCRP)",
+   "Test": "High-Sensitivity C-Reactive Protein (hsCRP) <cite>127-129</cite>",
    "Test Type": "Blood",
    "General Population Recommendation": "",
-   "Individual Recommendation": "hsCRP is a marker of inflammation, and may potentially reclassify risk for future cardiovascular events to identify asymptomatic individuals in addition to traditional clinical risk calculators. at risk for acute coronary events. Restricted and judicious use of hsCRP measurement is suggested for health screening.\nhsCRP may be performed after a global risk assessment of coronary heart disease. Use of hsCRP measurement may be performed for health screening in those with an intermediate risk of 10 to 20% 10-year risk (it may also be performed if there are unusual cardiovascular risk factors or if the result will change the decision to initiate lipid lowering therapy)\nhsCRP should not be routinely offered to those at either very low or very high cardiovascular risk.\nhsCRP using standardised assays categorises patients as follows\na. Low risk <1.0 mg/L;\nb. Moderate risk 1.0 to 3.0 mg/L;\nc. High risk >3.0 mg/L;",
+   "Individual Recommendation": "hsCRP is a marker of inflammation, and may potentially reclassify risk for future cardiovascular events to identify asymptomatic individuals in addition to traditional clinical risk calculators. at risk for acute coronary events. Restricted and judicious use of hsCRP measurement is suggested for health screening.\nhsCRP may be performed after a global risk assessment of coronary heart disease. Use of hsCRP measurement may be performed for health screening in those with an intermediate risk of 10 to 20% 10-year risk <cite>94</cite> (it may also be performed if there are unusual cardiovascular risk factors or if the result will change the decision to initiate lipid lowering therapy) <cite>130</cite>\nhsCRP should not be routinely offered to those at either very low or very high cardiovascular risk <cite>131</cite>.\nhsCRP using standardised assays categorises patients as follows <cite>132</cite>\na. Low risk <1.0 mg/L;\nb. Moderate risk 1.0 to 3.0 mg/L;\nc. High risk >3.0 mg/L;",
    "Notes": "",
    "Factors for Screening Recommendation": "Medical History",
    "Tags": "",
    ".": ""
  },
  {
-   "Disease": "Coronary Heart Disease (CHD)",
+   "Disease": "Coronary Heart Disease (CHD) <cite>114,118-124</cite>",
    "Disease Type": "Heart and Vascular",
    "Category": "Cat 2",
-   "Test": "Treadmill Stress Test",
+   "Test": "Treadmill Stress Test <cite>138,139</cite>",
    "Test Type": "",
    "General Population Recommendation": "",
    "Individual Recommendation": "In selected individuals, screening for CAD with treadmill stress test may be undertaken on an individualised basis in the evaluation of asymptomatic subjects such as:\na. Men older than 45 years of age and women older than 55 years of age who plan to start an exercise program.\nb. Moderate to high CAD risk or subjects with diabetes who plan to start an exercise programme.\nc. Subjects involved in high risk occupations with public safety implications.\nThis list is not meant to be exhaustive and contemporary recommendations from national/international societies apply.\nExercise testing is meant to assess exercise capacity, cardiovascular fitness, cardiovascular risk and flow limiting coronary lesions in major coronary branches. It was never intended to detect non-flow limiting vulnerable plagues which rupture and lead to Acute Coronary Syndrome (ACS). Non-flow limiting vulnerable plagues are the primary cause of ACS and the best predictors of the risk of plaque rupture are clinical risk scores and biomarkers such as lipids.\nNo test has 100% specificity and that includes exercise stress testing, where there is a high likelihood of false positive results when treadmill testing is carried out in an asymptomatic low risk population. In the past, this has led to further testing with stress imaging or invasive coronary angiography to allay concerns. This should be explained to the patient prior to testing.",
@@ -546,7 +546,7 @@
    ".": ""
  },
  {
-   "Disease": "Peripheral Vascular Disease (PVD)",
+   "Disease": "Peripheral Vascular Disease (PVD) <cite>114,140-143</cite>",
    "Disease Type": "Heart and Vascular",
    "Category": "Cat 2",
    "Test": "Ankle Brachial Index (ABI)",
@@ -559,7 +559,7 @@
    ".": ""
  },
  {
-   "Disease": "Chlamydia and Gonorrhoea",
+   "Disease": "Chlamydia and Gonorrhoea <cite>144,145</cite>",
    "Disease Type": "Infectious",
    "Category": "Cat 2",
    "Test": "Urine PCR",
@@ -572,20 +572,20 @@
    ".": ""
  },
  {
-   "Disease": "Chlamydia and Gonorrhoea",
+   "Disease": "Chlamydia and Gonorrhoea <cite>144,145</cite>",
    "Disease Type": "Infectious",
    "Category": "Cat 2",
    "Test": "Cervical (for women)/Urethral (for men) swab for PCR",
    "Test Type": "",
    "General Population Recommendation": "",
-   "Individual Recommendation": "",
-   "Notes": "High risk group: Persons with at-risk sexual behaviour (e.g. having unprotected sex with multiple sexual partners, previous or co-existing STIs)\nChlamydia and Gonorrhoea are causes of urethritis in men and cervicitis and Pelvic Inflammatory Disease (PID) in women. In females, the primary benefit of screening and treatment is in the reduction of personal risk of reproductive sequelae, such as ectopic pregnancy and infertility. In males, who frequently have asymptomatic disease, screening and treatment reduces overall transmission of infection.\nThe same specimen can be used to test for both chlamydia and gonorrhoea",
+   "Individual Recommendation": "High risk group: Persons with at-risk sexual behaviour (e.g. having unprotected sex with multiple sexual partners, previous or co-existing STIs)",
+   "Notes": "Chlamydia and Gonorrhoea are causes of urethritis in men and cervicitis and Pelvic Inflammatory Disease (PID) in women. In females, the primary benefit of screening and treatment is in the reduction of personal risk of reproductive sequelae, such as ectopic pregnancy and infertility. In males, who frequently have asymptomatic disease, screening and treatment reduces overall transmission of infection.\nThe same specimen can be used to test for both chlamydia and gonorrhoea",
    "Factors for Screening Recommendation": "Lifestyle, Profession",
    "Tags": "\"Sexually Transmitted Infections, STIs, STDs\"",
    ".": ""
  },
  {
-   "Disease": "Hepatitis B Infection/Hepatitis B Carrier",
+   "Disease": "Hepatitis B Infection/Hepatitis B Carrier <cite>146-155</cite>",
    "Disease Type": "Infectious",
    "Category": "Cat 2",
    "Test": "Hepatitis B Screen",
@@ -598,7 +598,7 @@
    ".": ""
  },
  {
-   "Disease": "Hepatitis C Infection",
+   "Disease": "Hepatitis C Infection <cite>156-158</cite>",
    "Disease Type": "Infectious",
    "Category": "Cat 2",
    "Test": "Hepatitis C Screen",
@@ -611,7 +611,7 @@
    ".": ""
  },
  {
-   "Disease": "Human Immunodeficiency Virus Infection (HIV)",
+   "Disease": "Human Immunodeficiency Virus Infection (HIV) <cite>146-147</cite>",
    "Disease Type": "Infectious",
    "Category": "Cat 2",
    "Test": "HIV Screen",
@@ -624,7 +624,7 @@
    ".": ""
  },
  {
-   "Disease": "Intestinal Parasitic Infection",
+   "Disease": "Intestinal Parasitic Infection <cite>159</cite>",
    "Disease Type": "Infectious",
    "Category": "Cat 2",
    "Test": "Stool Test for Ova, Cyst and Parasites",
@@ -650,7 +650,7 @@
    ".": ""
  },
  {
-   "Disease": "Syphilis",
+   "Disease": "Syphilis <cite>160-163</cite>",
    "Disease Type": "Infectious",
    "Category": "Cat 2",
    "Test": "Syphilis Enzyme Immunoassay",
@@ -663,7 +663,7 @@
    ".": ""
  },
  {
-   "Disease": "Syphilis",
+   "Disease": "Syphilis <cite>160-163</cite>",
    "Disease Type": "Infectious",
    "Category": "Cat 2",
    "Test": "Treponema Pallidum Particle Agglutination (TPPA)/ Treponema Pallidum Haemagglutination (TPHA)",
@@ -676,7 +676,7 @@
    ".": ""
  },
  {
-   "Disease": "Tuberculosis (TB)",
+   "Disease": "Tuberculosis (TB) <cite>164-170</cite>",
    "Disease Type": "Infectious",
    "Category": "Cat 2",
    "Test": "Tuberculin Skin Test (TST) / Mantoux",
@@ -689,7 +689,7 @@
    ".": ""
  },
  {
-   "Disease": "Tuberculosis (TB)",
+   "Disease": "Tuberculosis (TB) <cite>164-170</cite>",
    "Disease Type": "Infectious",
    "Category": "Cat 2",
    "Test": "Chest X-ray (CXR)",
@@ -702,7 +702,7 @@
    ".": ""
  },
  {
-   "Disease": "Tuberculosis (TB)",
+   "Disease": "Tuberculosis (TB) <cite>164-170</cite>",
    "Disease Type": "Infectious",
    "Category": "Cat 2",
    "Test": "Interferon-Gamma Release Assay (IGRA)",
@@ -715,7 +715,7 @@
    ".": ""
  },
  {
-   "Disease": "Anaemia (Iron-deficiency Anaemia)",
+   "Disease": "Anaemia (Iron-deficiency Anaemia) <cite>171-174</cite>",
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 2",
    "Test": "Full Blood Count (FBC)",
@@ -728,7 +728,7 @@
    ".": ""
  },
  {
-   "Disease": "Diabetic Microalbuminuria/Albuminuria/Nephropathy",
+   "Disease": "Diabetic Microalbuminuria/Albuminuria/Nephropathy <cite>177,184</cite>",
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 2",
    "Test": "Urine Microalbumin/Creatinine Ratio",
@@ -741,7 +741,7 @@
    ".": ""
  },
  {
-   "Disease": "Kidney Disorder (Kidney Dysfunction)",
+   "Disease": "Kidney Disorder (Kidney Dysfunction) <cite>191-193</cite>",
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 2",
    "Test": "Kidney Function Test/Renal Panel",
@@ -754,7 +754,7 @@
    ".": ""
  },
  {
-   "Disease": "Kidney Disorder (Kidney Dysfunction)",
+   "Disease": "Kidney Disorder (Kidney Dysfunction) <cite>191-193</cite>",
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 2",
    "Test": "Urine Analysis",
@@ -767,7 +767,7 @@
    ".": ""
  },
  {
-   "Disease": "Osteoporosis/Osteopenia",
+   "Disease": "Osteoporosis/Osteopenia <cite>195-200</cite>",
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 2",
    "Test": "Bone Mineral Density (BMD) Scan",
@@ -793,7 +793,7 @@
    ".": ""
  },
  {
-   "Disease": "Maternal Colonisation with Group B Streptococcus (GBS) during pregnancy",
+   "Disease": "Maternal Colonisation with Group B Streptococcus (GBS) During Pregnancy <cite>212-216</cite>",
    "Disease Type": "OB/GYN",
    "Category": "Cat 2",
    "Test": "Vaginal and Rectal swab",
@@ -806,7 +806,7 @@
    ".": ""
  },
  {
-   "Disease": "Diabetic Retinopathy",
+   "Disease": "Diabetic Retinopathy <cite>177</cite>",
    "Disease Type": "Vision and Hearing",
    "Category": "Cat 2",
    "Test": "Retinal Fundal Photography",
@@ -819,7 +819,7 @@
    ".": ""
  },
  {
-   "Disease": "Hearing Loss in adults (Deafness in adults)",
+   "Disease": "Hearing Loss in Adults (Deafness in Adults) <cite>218</cite>",
    "Disease Type": "Vision and Hearing",
    "Category": "Cat 2",
    "Test": "Audiometry",
@@ -832,7 +832,7 @@
    ".": ""
  },
  {
-   "Disease": "Bladder Cancer",
+   "Disease": "Bladder Cancer <cite>23</cite>",
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "Urine dipstick or microscopic urinalysis, urine cytology and tests for urine\nbiomarkers",
@@ -865,13 +865,13 @@
    "Test Type": "Ultrasound",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
-   "Notes": "In women with dense breasts, adjunct ultrasound screening increases the breast cancer detection yield compared to mammogram screening alone.\nHowever, this will be associated with a significant rise in false positives and in the use of additional healthcare resources for the work-up of added breast findings, most of which will be benign and not clinically significant. Moreover, there is no survival data available. In view of its doubtful overall benefit, the routine use adjunct ultrasound screening is not recommended.",
+   "Notes": "In women with dense breasts, adjunct ultrasound screening increases the breast cancer detection yield compared to mammogram screening alone <cite>21,22</cite>.\nHowever, this will be associated with a significant rise in false positives and in the use of additional healthcare resources for the work-up of added breast findings, most of which will be benign and not clinically significant. Moreover, there is no survival data available. In view of its doubtful overall benefit, the routine use adjunct ultrasound screening is not recommended.",
    "Factors for Screening Recommendation": "",
    "Tags": "",
    ".": ""
  },
  {
-   "Disease": "Cervical Dysplasia/Cervical Intraepithelial Lesion/Cervical Cancer",
+   "Disease": "Cervical Dysplasia/Cervical Intraepithelial Lesion/Cervical Cancer <cite>24-44</cite>",
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "CT Pelvis",
@@ -884,7 +884,7 @@
    ".": ""
  },
  {
-   "Disease": "Cervical Dysplasia/Cervical Intraepithelial Lesion/Cervical Cancer",
+   "Disease": "Cervical Dysplasia/Cervical Intraepithelial Lesion/Cervical Cancer <cite>24-44</cite>",
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "Ultrasound Pelvis",
@@ -897,7 +897,7 @@
    ".": ""
  },
  {
-   "Disease": "Colorectal Cancer",
+   "Disease": "Colorectal Cancer <cite>45-48</cite>",
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "Abdominal X-ray (AXR)",
@@ -910,7 +910,7 @@
    ".": ""
  },
  {
-   "Disease": "Colorectal Cancer",
+   "Disease": "Colorectal Cancer <cite>45-48</cite>",
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "Carcinoembryonic Antigen (CEA)",
@@ -923,7 +923,7 @@
    ".": ""
  },
  {
-   "Disease": "Colorectal Cancer",
+   "Disease": "Colorectal Cancer <cite>45-48</cite>",
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "CT Abdomen",
@@ -936,7 +936,7 @@
    ".": ""
  },
  {
-   "Disease": "Colorectal Cancer",
+   "Disease": "Colorectal Cancer <cite>45-48</cite>",
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "Methylated SEPT9 DNA Test",
@@ -949,7 +949,7 @@
    ".": ""
  },
  {
-   "Disease": "Endometrial Cancer",
+   "Disease": "Endometrial Cancer <cite>50,5,52-57</cite>",
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "CT Pelvis",
@@ -958,11 +958,11 @@
    "Individual Recommendation": "",
    "Notes": "",
    "Factors for Screening Recommendation": "",
-   "Tags": "\"Womb, Uterus\"",
+   "Tags": "\"Womb, Uterus, Uterine\"",
    ".": ""
  },
  {
-   "Disease": "Liver Cancer (Hepatocellular Carcinoma)",
+   "Disease": "Liver Cancer (Hepatocellular Carcinoma) <cite>59-64</cite>",
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "Liver Function Test (LFT)",
@@ -975,7 +975,7 @@
    ".": ""
  },
  {
-   "Disease": "Lung Cancer",
+   "Disease": "Lung Cancer <cite>65-69</cite>",
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "Chest X-ray (CXR)",
@@ -988,7 +988,7 @@
    ".": ""
  },
  {
-   "Disease": "Lung Cancer",
+   "Disease": "Lung Cancer <cite>65-69</cite>",
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "Tumor Marker for Lung Cancer",
@@ -1014,7 +1014,7 @@
    ".": ""
  },
  {
-   "Disease": "Ovarian Cancer",
+   "Disease": "Ovarian Cancer <cite>103,104</cite>",
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "Cancer Antigen (CA) 125",
@@ -1027,7 +1027,7 @@
    ".": ""
  },
  {
-   "Disease": "Ovarian Cancer",
+   "Disease": "Ovarian Cancer <cite>103,104</cite>",
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "CT Pelvis",
@@ -1066,7 +1066,7 @@
    ".": ""
  },
  {
-   "Disease": "Prostate Cancer",
+   "Disease": "Prostate Cancer <cite>105-111</cite>",
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "MRI Prostate",
@@ -1079,7 +1079,7 @@
    ".": ""
  },
  {
-   "Disease": "Testicular Cancer",
+   "Disease": "Testicular Cancer <cite>112</cite>",
    "Disease Type": "Cancer",
    "Category": "Cat 3",
    "Test": "Tumor Markers (e.g. AFP and beta-hCG)",
@@ -1092,7 +1092,7 @@
    ".": ""
  },
  {
-   "Disease": "Carotid Artery Stenosis",
+   "Disease": "Carotid Artery Stenosis <cite>117</cite>",
    "Disease Type": "Heart and Vascular",
    "Category": "Cat 3",
    "Test": "Duplex Ultrasonography",
@@ -1105,7 +1105,7 @@
    ".": ""
  },
  {
-   "Disease": "Cerebrovascular Disease (Stroke)",
+   "Disease": "Cerebrovascular Disease (Stroke) <cite>114</cite>",
    "Disease Type": "Heart and Vascular",
    "Category": "Cat 3",
    "Test": "MRI/MRA Brain",
@@ -1118,7 +1118,7 @@
    ".": ""
  },
  {
-   "Disease": "Coronary Heart Disease (CHD)",
+   "Disease": "Coronary Heart Disease (CHD) <cite>114,118-124</cite>",
    "Disease Type": "Heart and Vascular",
    "Category": "Cat 3",
    "Test": "CT Coronary Angiogram",
@@ -1131,7 +1131,7 @@
    ".": ""
  },
  {
-   "Disease": "Coronary Heart Disease (CHD)",
+   "Disease": "Coronary Heart Disease (CHD) <cite>114,118-124</cite>",
    "Disease Type": "Heart and Vascular",
    "Category": "Cat 3",
    "Test": "Homocysteine",
@@ -1144,7 +1144,7 @@
    ".": ""
  },
  {
-   "Disease": "Coronary Heart Disease (CHD)",
+   "Disease": "Coronary Heart Disease (CHD) <cite>114,118-124</cite>",
    "Disease Type": "Heart and Vascular",
    "Category": "Cat 3",
    "Test": "Serum Uric Acid",
@@ -1170,7 +1170,7 @@
    ".": ""
  },
  {
-   "Disease": "Gout",
+   "Disease": "Gout <cite>185-187</cite>",
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 3",
    "Test": "Serum Uric Acid",
@@ -1183,7 +1183,7 @@
    ".": ""
  },
  {
-   "Disease": "Obesity",
+   "Disease": "Obesity <cite>194</cite>",
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 3",
    "Test": "Body Fat Measurement",
@@ -1196,7 +1196,7 @@
    ".": ""
  },
  {
-   "Disease": "Osteoporosis/Osteopenia",
+   "Disease": "Osteoporosis/Osteopenia <cite>195-200</cite>",
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 3",
    "Test": "Erythrocyte Sedimentation Rate (ESR)",
@@ -1209,7 +1209,7 @@
    ".": ""
  },
  {
-   "Disease": "Osteoporosis/Osteopenia",
+   "Disease": "Osteoporosis/Osteopenia <cite>195-200</cite>",
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 3",
    "Test": "Serum Calcium",
@@ -1222,7 +1222,7 @@
    ".": ""
  },
  {
-   "Disease": "Osteoporosis/Osteopenia",
+   "Disease": "Osteoporosis/Osteopenia <cite>195-200</cite>",
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 3",
    "Test": "Serum Phosphate",
@@ -1235,10 +1235,10 @@
    ".": ""
  },
  {
-   "Disease": "Osteoporosis/Osteopenia",
+   "Disease": "Osteoporosis/Osteopenia <cite>195-200</cite>",
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 3",
-   "Test": "Quantitative Ultrasound Scan (QUS) of the Calcaneum",
+   "Test": "Quantitative Ultrasound Scan (QUS) of the Calcaneum <cite>201,202</cite>",
    "Test Type": "Ultrasound",
    "General Population Recommendation": "",
    "Individual Recommendation": "",
@@ -1261,7 +1261,7 @@
    ".": ""
  },
  {
-   "Disease": "Systemic Lupus Erythematosus (SLE) ",
+   "Disease": "Systemic Lupus Erythematosus (SLE) <cite>203,204</cite>",
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 3",
    "Test": "Anti-Double Stranded DNA Antibody (Anti-DS DNA Ab)",
@@ -1274,7 +1274,7 @@
    ".": ""
  },
  {
-   "Disease": "Systemic Lupus Erythematosus (SLE) ",
+   "Disease": "Systemic Lupus Erythematosus (SLE) <cite>203,204</cite>",
    "Disease Type": "Metabolic, Nutritional, Endocrine, and Rheumatology",
    "Category": "Cat 3",
    "Test": "Anti-Nuclear Antibody (ANA)",
@@ -1313,7 +1313,7 @@
    ".": ""
  },
  {
-   "Disease": "Chronic Obstructive Pulmonary Disease (COPD)",
+   "Disease": "Chronic Obstructive Pulmonary Disease (COPD) <cite>240</cite>",
    "Disease Type": "Misc",
    "Category": "Cat 3",
    "Test": "Spirometry",
@@ -1326,7 +1326,7 @@
    ".": ""
  },
  {
-   "Disease": "Back Pain (Back disorder)",
+   "Disease": "Back Pain (Back disorder) <cite>205</cite>",
    "Disease Type": "MSK",
    "Category": "Cat 3",
    "Test": "MRI Lumbar Spine",
@@ -1339,7 +1339,7 @@
    ".": ""
  },
  {
-   "Disease": "Neck Pain (Neck disorder)",
+   "Disease": "Neck Pain (Neck disorder) <cite>206-208</cite>",
    "Disease Type": "MSK",
    "Category": "Cat 3",
    "Test": "MRI Cervical Spine",
@@ -1352,7 +1352,7 @@
    ".": ""
  },
  {
-   "Disease": "Menopause",
+   "Disease": "Menopause <cite>209-211</cite>",
    "Disease Type": "OB/GYN",
    "Category": "Cat 3",
    "Test": "Serum 5-Dehydroepiandrosterone (DHEA)",
@@ -1365,7 +1365,7 @@
    ".": ""
  },
  {
-   "Disease": "Menopause",
+   "Disease": "Menopause <cite>209-211</cite>",
    "Disease Type": "OB/GYN",
    "Category": "Cat 3",
    "Test": "Serum Estradiol (E2)",
@@ -1378,7 +1378,7 @@
    ".": ""
  },
  {
-   "Disease": "Menopause",
+   "Disease": "Menopause <cite>209-211</cite>",
    "Disease Type": "OB/GYN",
    "Category": "Cat 3",
    "Test": "Serum Follicle-Stimulating Hormone (FSH)",
@@ -1391,7 +1391,7 @@
    ".": ""
  },
  {
-   "Disease": "Menopause",
+   "Disease": "Menopause <cite>209-211</cite>",
    "Disease Type": "OB/GYN",
    "Category": "Cat 3",
    "Test": "Serum Insulin-Growth Factor-1 (IGF1)",
@@ -1404,7 +1404,7 @@
    ".": ""
  },
  {
-   "Disease": "Menopause",
+   "Disease": "Menopause <cite>209-211</cite>",
    "Disease Type": "OB/GYN",
    "Category": "Cat 3",
    "Test": "Serum Progesterone",
@@ -1417,7 +1417,7 @@
    ".": ""
  },
  {
-   "Disease": "Menopause",
+   "Disease": "Menopause <cite>209-211</cite>",
    "Disease Type": "OB/GYN",
    "Category": "Cat 3",
    "Test": "Serum Testosterone",
@@ -1430,7 +1430,7 @@
    ".": ""
  },
  {
-   "Disease": "Age-related Macular Degeneration (AMD)",
+   "Disease": "Age-related Macular Degeneration (AMD) <cite>217</cite>",
    "Disease Type": "Vision and Hearing",
    "Category": "Cat 3",
    "Test": "AMD screen (Amsler Grid Chart)",
@@ -1469,7 +1469,7 @@
    ".": ""
  },
  {
-   "Disease": "Vision Disorder in Adults",
+   "Disease": "Vision Disorder in Adults <cite>219</cite>",
    "Disease Type": "Vision and Hearing",
    "Category": "Cat 3",
    "Test": "Visual Acuity Test",

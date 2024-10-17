@@ -15,7 +15,7 @@
           class="bg-white border-4 border-red-100 rounded-3xl p-1 py-3 space-y-2">
           <Header2 class="mx-2">{{ test.condition }}</Header2>
           <div class="space-y-2">
-            <div class="space-y-1 mx-2" :innerHTML="converter.makeHtml(test.description || test.descriptionHTML)"></div>
+            <div class="space-y-3 mx-2" :innerHTML="converter.makeHtml(test.description || test.descriptionHTML)"></div>
             <div class="px-1 pt-1" v-if="test.riskGroups && test.riskGroups.length">
               <Collapsible label="High-risk factors"
                 class="w-full bg-red-100 text-sm px-2 py-0.5 rounded-lg">
