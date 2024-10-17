@@ -40,7 +40,7 @@ watch(() => store.searchDiseaseType.length, () => store.syncSearchParams(router)
 onMounted(() => {
   const route = useRoute()
   const query = route.query
-  if (query.q) store.searchQuery = query.q as any
+  if (query.q !== undefined && query.q !== null) store.searchQuery = query.q as any
   if (query.testCategories) store.searchTestCategory = query.testCategories as any
   if (query.diseaseTypes) store.searchDiseaseType = query.diseaseTypes as any
 })
