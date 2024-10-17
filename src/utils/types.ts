@@ -41,6 +41,7 @@ export enum MedicalHistory {
   HIV = "HIV",
   STIS = "STIs",
   AUTOIMMUNE_DISEASE = "Autoimmune disease",
+  CHRONIC_KIDNEY_DISEASE = "Chronic kidney disease",
 }
 
 export enum MedicalHistoryFemale {

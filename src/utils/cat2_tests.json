@@ -150,7 +150,7 @@
       },
       {
         "medicalHistory": [
-          "Aneurysmal subarachnoid haemorrhage",
+          "Subarachnoid haemorrhage",
           "Autosomal dominant polycystic kidney disease (ADPKD)"
         ]
       }
@@ -255,7 +255,8 @@
       {
         "medicalHistory": [
           "Pregnancy",
-          "HIV"
+          "HIV",
+          "Chronic kidney disease"
         ]
       }
     ],
@@ -273,7 +274,8 @@
     "rules": [
       {
         "medicalHistory": [
-          "HIV"
+          "HIV",
+          "Chronic kidney disease"
         ]
       }
     ],
