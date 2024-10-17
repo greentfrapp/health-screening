@@ -9,9 +9,9 @@
           class="w-full overflow-hidden bg-neutral-100 rounded-lg p-2 space-y-2">
           <component :is="parseContent(result.Disease)" class="text-sm px-3"></component>
           <component :is="parseHeader(result.Test)" class="text-xl font-semibold lg:text-2xl px-3"></component>
-          <div class="flex gap-1 px-3">
-            <div v-if="result['Disease Type']" class="bg-neutral-200 w-max rounded-full px-2 text-sm">{{ result["Disease Type"] }}</div>
-            <div v-if="result.Category" class="bg-neutral-200 w-max rounded-full px-2 text-sm">{{ result["Category"] }} Test</div>
+          <div class="flex gap-1 px-3 flex-wrap">
+            <div v-if="result['Disease Type']" class="bg-neutral-200 w-max rounded-full px-2 text-sm truncate">{{ result["Disease Type"] }}</div>
+            <div v-if="result.Category" class="bg-neutral-200 w-max rounded-full px-2 text-sm truncate">{{ result["Category"] }}</div>
           </div>
           <div v-if="result['General Population Recommendation']"
             class="bg-green-100 px-3 py-2 rounded-xl space-y-2">

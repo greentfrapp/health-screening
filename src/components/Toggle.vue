@@ -1,5 +1,5 @@
 <template>
-  <button class="rounded-full px-4 py-1"
+  <button class="rounded-full px-4 py-1 truncate"
     :class="toggleClass">
     <slot></slot>
   </button>

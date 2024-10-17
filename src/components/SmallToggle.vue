@@ -1,5 +1,5 @@
 <template>
-  <button class="rounded-full px-2 lg:px-4 lg:py-1 text-sm lg:text-base"
+  <button class="rounded-full px-2 lg:px-4 lg:py-1 text-sm lg:text-base flex gap-1 items-center max-w-full"
     :class="toggleClass">
     <slot></slot>
   </button>

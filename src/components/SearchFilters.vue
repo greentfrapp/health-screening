@@ -4,11 +4,17 @@
       <Label>
         {{ filter.label }}
       </Label>
-      <div class="flex flex-wrap gap-1">
+      <div class="flex flex-wrap gap-2">
         <Toggle v-for="i in filter.options"
           :active="optionIsActive(filter.key, i.value)"
-          @click="handleOptionClick(filter.key, i.value)">
-          {{ i.label }}
+          @click="handleOptionClick(filter.key, i.value)"
+          :title="i.detail">
+          <span class="truncate" :class="[i.detail ? 'lg:shrink-0' : '']">
+            {{ i.label }}
+          </span>
+          <span v-if="i.detail" class="shrink hidden lg:block text-sm truncate">
+            ({{ i.detail }})
+          </span>
         </Toggle>
       </div>
     </div>
@@ -26,14 +32,17 @@ const testCategories = [
   {
     label: "Cat 1",
     value: "Cat 1",
+    detail: "Suitable for population-level screening",
   },
   {
     label: "Cat 2",
     value: "Cat 2",
+    detail: "Suitable for individual-level decision",
   },
   {
     label: "Cat 3",
     value: "Cat 3",
+    detail: "Not recommended",
   },
 ]
 const diseaseTypes = [
@@ -42,12 +51,20 @@ const diseaseTypes = [
     value: 'Cancer',
   },
   {
-    label: 'Heart',
+    label: 'Congenital and Pediatric',
+    value: 'Congenital and Pediatric',
+  },
+  {
+    label: 'Heart and Vascular',
     value: 'Heart and Vascular',
   },
   {
     label: 'Infectious',
     value: 'Infectious',
+  },
+  {
+    label: 'Metabolic, Nutritional, Endocrine, and Rheumatology',
+    value: 'Metabolic, Nutritional, Endocrine, and Rheumatology',
   },
   {
     label: 'Musculoskeletal',
@@ -61,25 +78,17 @@ const diseaseTypes = [
     label: 'Vision and Hearing',
     value: 'Vision and Hearing',
   },
-  {
-    label: 'Congenital and Pediatric',
-    value: 'Congenital and Pediatric',
-  },
-  {
-    label: 'Others',
-    value: 'Metabolic, Nutritional, Endocrine, and Rheumatology',
-  },
 ]
 
 const filters = [
   {
     label: 'Test Category',
-    options: testCategories,
+    options: testCategories as { label: string, value: string, detail: undefined|string }[],
     key: 'searchTestCategory' as SearchOptionKey,
   },
   {
     label: 'Disease Type',
-    options: diseaseTypes,
+    options: diseaseTypes as { label: string, value: string, detail: undefined|string }[],
     key: 'searchDiseaseType' as SearchOptionKey,
   },
 ]

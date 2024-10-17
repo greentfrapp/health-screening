@@ -41,7 +41,13 @@ onMounted(() => {
   const route = useRoute()
   const query = route.query
   if (query.q !== undefined && query.q !== null) store.searchQuery = query.q as any
-  if (query.testCategories) store.searchTestCategory = query.testCategories as any
-  if (query.diseaseTypes) store.searchDiseaseType = query.diseaseTypes as any
+  if (query.testCategories) {
+    if (typeof query.testCategories === 'string') store.searchTestCategory = [query.testCategories]
+    else store.searchTestCategory = query.testCategories
+  }
+  if (query.diseaseTypes) {
+    if (typeof query.diseaseTypes === 'string') store.searchDiseaseType = [query.diseaseTypes]
+    else store.searchDiseaseType = query.diseaseTypes
+  }
 })
 </script>
