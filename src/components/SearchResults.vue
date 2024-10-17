@@ -1,6 +1,6 @@
 <template>
   <div class="order-2 shrink grow w-full h-full overflow-hidden flex lg:block">
-    <div class="order-2 w-full overflow-hidden flex flex-col lg:h-[90%] lg:shadow-lg lg:border lg:rounded-xl">
+    <div class="order-2 w-full overflow-hidden flex flex-col lg:w-[95%] lg:h-[95%] lg:shadow-lg lg:border lg:rounded-xl mx-auto">
       <div class="font-medium text-center shrink-0 text-neutral-600 py-2">
         {{ store.searchResults.length }} result{{ store.searchResults.length !== 1 ? 's' : '' }}
       </div>
