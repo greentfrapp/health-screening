@@ -9,10 +9,10 @@
           :active="optionIsActive(filter.key, i.value)"
           @click="handleOptionClick(filter.key, i.value)"
           :title="i.detail">
-          <span class="truncate" :class="[i.detail ? 'lg:shrink-0' : '']">
+          <span class="truncate" :class="[i.detail ? 'shrink-0' : '']">
             {{ i.label }}
           </span>
-          <span v-if="i.detail" class="shrink hidden lg:block text-sm truncate">
+          <span v-if="i.detail" class="shrink text-sm truncate">
             ({{ i.detail }})
           </span>
         </Toggle>
