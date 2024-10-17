@@ -20,6 +20,8 @@ export enum FamilyHistory {
   CARDIOVASCULAR_DISEASE = "Cardiovascular disease",
   CEREBRAL_ANEURYSM = "Cerebral aneurysm",
   KIDNEY_DISEASE = "Kidney disease",
+  FAMILIAL_ADENOMATOUS_POLYPOSIS = "Familial adenomatous polyposis",
+  LYNCH_SYNDROME = "Lynch syndrome",
 }
 
 export enum MedicalHistory {

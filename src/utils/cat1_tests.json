@@ -70,12 +70,15 @@
           "Colorectal polyps",
           "Ovarian cancer",
           "Endometrial cancer",
-          "Inflammatory bowel disease"
+          "Inflammatory bowel disease",
+          "Lynch syndrome"
         ]
       },
       {
         "familyHistory": [
-          "Colorectal cancer"
+          "Colorectal cancer",
+          "Familial adenomatous polyposis",
+          "Lynch syndrome"
         ]
       }
     ],
