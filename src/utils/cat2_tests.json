@@ -98,7 +98,7 @@
     "rules": [
       {
         "sex": [
-            "Female"
+          "Female"
         ],
         "medicalHistory": [
           "BRCA"
@@ -115,12 +115,12 @@
     "rules": [
       {
         "ageGroup": [
-            "50 to 69"
+          "50 to 69"
         ]
       },
       {
         "sex": [
-            "Male"
+          "Male"
         ],
         "familyHistory": [
           "Prostate cancer"
@@ -137,11 +137,11 @@
     "rules": [
       {
         "ageGroup": [
-            "50 to 69",
-            "Above 70"
+          "50 to 69",
+          "Above 70"
         ],
         "sex": [
-            "Male"
+          "Male"
         ],
         "lifestyle": [
           "Smoking"
@@ -313,7 +313,7 @@
       },
       {
         "lifestyle": [
-            "Active sexual activity with multiple partners"
+          "Active sexual activity with multiple partners"
         ]
       }
     ],
@@ -349,7 +349,7 @@
       },
       {
         "lifestyle": [
-            "Active sexual activity with multiple partners"
+          "Active sexual activity with multiple partners"
         ]
       }
     ],
